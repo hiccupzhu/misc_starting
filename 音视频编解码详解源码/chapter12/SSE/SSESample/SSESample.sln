@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSESample", "SSESample.vcproj", "{73B7B8E0-6A7C-4F77-9B0D-D316F009166D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B7B8E0-6A7C-4F77-9B0D-D316F009166D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73B7B8E0-6A7C-4F77-9B0D-D316F009166D}.Debug|Win32.Build.0 = Debug|Win32
+		{73B7B8E0-6A7C-4F77-9B0D-D316F009166D}.Release|Win32.ActiveCfg = Release|Win32
+		{73B7B8E0-6A7C-4F77-9B0D-D316F009166D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

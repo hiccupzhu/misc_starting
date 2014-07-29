@@ -1,0 +1,40 @@
+; Code Composer Project File, Version 2.0 (do not modify or remove this line)
+
+[Project Settings]
+ProjectDir="e:\writing_works\codes\chapter13\enc_test\"
+ProjectType=Executable
+CPUFamily=TMS320C64XX
+Tool="Compiler"
+Tool="DspBiosBuilder"
+Tool="Linker"
+Config="Debug"
+Config="Release"
+
+[Project Dependencies]
+Source="..\enc_lib\enc_lib.pjt"
+
+["..\enc_lib\enc_lib.pjt" Settings]
+MatchConfigName=true
+
+[Source Files]
+Source="main.c"
+Source="lnk.cmd"
+
+["Compiler" Settings: "Debug"]
+Options=-g -q -fr"e:\writing_works\codes\chapter13\enc_test\Debug" -d"_DEBUG" -mv6400
+
+["Compiler" Settings: "Release"]
+Options=-q -o3 -fr"e:\writing_works\codes\chapter13\enc_test\Release" -mv6400
+
+["DspBiosBuilder" Settings: "Debug"]
+Options=-v6x
+
+["DspBiosBuilder" Settings: "Release"]
+Options=-v6x
+
+["Linker" Settings: "Debug"]
+Options=-q -c -heap0xf0000 -m".\Debug\enc_test.map" -o".\Debug\enc_test.out" -stack0x1000 -w -x -i"$(Install_dir)/c6400/imglib/lib"
+
+["Linker" Settings: "Release"]
+Options=-q -c -m".\Release\enc_test.map" -o".\Release\enc_test.out" -w -x
+

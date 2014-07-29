@@ -1,0 +1,157 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: libxvidcore_static - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3E.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "NDEBUG" /D "ARCH_IS_IA32" /D "WIN32" /D "_WINDOWS" /D "ARCH_IS_32BIT" /FR"Release/" /Fo"Release/" /Fd"Release/" /FD /Qipo /c 
+"E:\ti_projects\mpg4enc-dec\mp4enc\xvidcore-1.1.3\src\image\image.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3E.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3F.tmp" with contents
+[
+/nologo /out:"bin\libxvidcore.lib" 
+".\Release\bitstream.obj"
+".\Release\cbp.obj"
+".\Release\mbcoding.obj"
+".\Release\fdct.obj"
+".\Release\idct.obj"
+".\Release\simple_idct.obj"
+".\Release\colorspace.obj"
+".\Release\font.obj"
+".\Release\image.obj"
+".\Release\interpolate8x8.obj"
+".\Release\postprocessing.obj"
+".\Release\qpel.obj"
+".\Release\reduced.obj"
+".\Release\estimation_bvop.obj"
+".\Release\estimation_common.obj"
+".\Release\estimation_gmc.obj"
+".\Release\estimation_pvop.obj"
+".\Release\estimation_rd_based.obj"
+".\Release\estimation_rd_based_bvop.obj"
+".\Release\gmc.obj"
+".\Release\motion_comp.obj"
+".\Release\sad.obj"
+".\Release\vop_type_decision.obj"
+".\Release\mbprediction.obj"
+".\Release\quant_h264.obj"
+".\Release\quant_matrix.obj"
+".\Release\quant_mpeg.obj"
+".\Release\emms.obj"
+".\Release\mbtransquant.obj"
+".\Release\mem_align.obj"
+".\Release\mem_transfer.obj"
+".\Release\timer.obj"
+".\Release\plugin_2pass1.obj"
+".\Release\plugin_2pass2.obj"
+".\Release\plugin_dump.obj"
+".\Release\plugin_lumimasking.obj"
+".\Release\plugin_psnr.obj"
+".\Release\plugin_single.obj"
+".\Release\decoder.obj"
+".\Release\encoder.obj"
+".\Release\xvid.obj"
+".\Release\cbp_3dne.obj"
+".\Release\cbp_mmx.obj"
+".\Release\cbp_sse2.obj"
+".\Release\fdct_mmx_ffmpeg.obj"
+".\Release\fdct_mmx_skal.obj"
+".\Release\fdct_sse2_skal.obj"
+".\Release\idct_3dne.obj"
+".\Release\idct_mmx.obj"
+".\Release\idct_sse2_dmitry.obj"
+".\Release\simple_idct_mmx.obj"
+".\Release\colorspace_rgb_mmx.obj"
+".\Release\colorspace_yuv_mmx.obj"
+".\Release\colorspace_yuyv_mmx.obj"
+".\Release\interpolate8x8_3dn.obj"
+".\Release\interpolate8x8_3dne.obj"
+".\Release\interpolate8x8_mmx.obj"
+".\Release\interpolate8x8_xmm.obj"
+".\Release\postprocessing_mmx.obj"
+".\Release\postprocessing_sse2.obj"
+".\Release\qpel_mmx.obj"
+".\Release\reduced_mmx.obj"
+".\Release\sad_3dn.obj"
+".\Release\sad_3dne.obj"
+".\Release\sad_mmx.obj"
+".\Release\sad_sse2.obj"
+".\Release\sad_xmm.obj"
+".\Release\quantize_h263_3dne.obj"
+".\Release\quantize_h263_mmx.obj"
+".\Release\quantize_mpeg_mmx.obj"
+".\Release\quantize_mpeg_xmm.obj"
+".\Release\cpuid.obj"
+".\Release\interlacing_mmx.obj"
+".\Release\mem_transfer_3dne.obj"
+".\Release\mem_transfer_mmx.obj"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3F.tmp"
+<h3>Output Window</h3>
+Compiling...
+Command line warning D4002 : ignoring unknown option '/Qipo'
+image.c
+E:\ti_projects\mpg4enc-dec\mp4enc\xvidcore-1.1.3\src\image\image.c(562) : warning C4101: 'idy' : unreferenced local variable
+E:\ti_projects\mpg4enc-dec\mp4enc\xvidcore-1.1.3\src\image\image.c(562) : warning C4101: 'idu' : unreferenced local variable
+E:\ti_projects\mpg4enc-dec\mp4enc\xvidcore-1.1.3\src\image\image.c(562) : warning C4101: 'idv' : unreferenced local variable
+Creating library...
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP40.tmp" with contents
+[
+/nologo /o"Release/libxvidcore_static.bsc" 
+".\Release\bitstream.sbr"
+".\Release\cbp.sbr"
+".\Release\mbcoding.sbr"
+".\Release\fdct.sbr"
+".\Release\idct.sbr"
+".\Release\simple_idct.sbr"
+".\Release\colorspace.sbr"
+".\Release\font.sbr"
+".\Release\image.sbr"
+".\Release\interpolate8x8.sbr"
+".\Release\postprocessing.sbr"
+".\Release\qpel.sbr"
+".\Release\reduced.sbr"
+".\Release\estimation_bvop.sbr"
+".\Release\estimation_common.sbr"
+".\Release\estimation_gmc.sbr"
+".\Release\estimation_pvop.sbr"
+".\Release\estimation_rd_based.sbr"
+".\Release\estimation_rd_based_bvop.sbr"
+".\Release\gmc.sbr"
+".\Release\motion_comp.sbr"
+".\Release\sad.sbr"
+".\Release\vop_type_decision.sbr"
+".\Release\mbprediction.sbr"
+".\Release\quant_h264.sbr"
+".\Release\quant_matrix.sbr"
+".\Release\quant_mpeg.sbr"
+".\Release\emms.sbr"
+".\Release\mbtransquant.sbr"
+".\Release\mem_align.sbr"
+".\Release\mem_transfer.sbr"
+".\Release\timer.sbr"
+".\Release\plugin_2pass1.sbr"
+".\Release\plugin_2pass2.sbr"
+".\Release\plugin_dump.sbr"
+".\Release\plugin_lumimasking.sbr"
+".\Release\plugin_psnr.sbr"
+".\Release\plugin_single.sbr"
+".\Release\decoder.sbr"
+".\Release\encoder.sbr"
+".\Release\xvid.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP40.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+libxvidcore.lib - 0 error(s), 4 warning(s)
+</pre>
+</body>
+</html>

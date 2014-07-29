@@ -1,0 +1,4 @@
+-z -q -c -heap0xf0000 -m"./Debug/enc_test.map" -o"./Debug/enc_test.out" -stack0x1000 -w -x -i"d:/ti/c6400/imglib/lib" -i"d:/ti/c6000/bios/lib" -i"d:/ti/c6000/rtdx/lib" -i"d:/ti/C6000/dsk6416/lib" -i"d:/ti/c6000/xdais/lib" -i"d:/ti/c6000/cgtools/lib"
+"e:\writing_works\codes\chapter13\enc_test\Debug\main.obj"
+"e:\writing_works\codes\chapter13\enc_lib\Debug\enc_lib.lib"
+"e:\writing_works\codes\chapter13\enc_test\lnk.cmd"

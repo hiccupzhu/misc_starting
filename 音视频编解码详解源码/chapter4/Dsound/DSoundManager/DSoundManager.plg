@@ -1,0 +1,61 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: DSoundManager - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "DSOUNDMANAGER_EXPORTS" /FR"Debug/" /Fp"Debug/DSoundManager.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Books\DirectX资料\dsound\DSoundManager\DirectSound.cpp"
+"E:\Books\DirectX资料\dsound\DSoundManager\DSoundManager.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "DSOUNDMANAGER_EXPORTS" /FR"Debug/" /Fp"Debug/DSoundManager.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Books\DirectX资料\dsound\DSoundManager\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4.tmp" 
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+DirectSound.cpp
+DSoundManager.cpp
+linking with Microsoft's DirectSound library ...
+Generating Code...
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP5.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:yes /pdb:"Debug/DSoundManager.pdb" /debug /machine:I386 /out:"Debug/DSoundManager.dll" /implib:"Debug/DSoundManager.lib" /pdbtype:sept 
+".\Debug\DirectSound.obj"
+".\Debug\DSoundManager.obj"
+".\Debug\StdAfx.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP5.tmp"
+<h3>Output Window</h3>
+Linking...
+   Creating library Debug/DSoundManager.lib and object Debug/DSoundManager.exp
+Creating command line "bscmake.exe /nologo /o"Debug/DSoundManager.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\DirectSound.sbr" ".\Debug\DSoundManager.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP9.bat" with contents
+[
+@echo off
+copy Debug\DSoundManager.dll ..\DSound_demo\Debug\
+copy Debug\DSoundManager.lib ..\DSound_demo
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP9.bat"
+
+已复制         1 个文件。
+已复制         1 个文件。
+
+
+
+<h3>Results</h3>
+DSoundManager.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

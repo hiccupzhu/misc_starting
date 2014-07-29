@@ -1,0 +1,13 @@
+xvidcore (1.0.0-1) unstable; urgency=low
+
+  * New upstream release 
+
+ -- Edouard Gomez <edy@edgomez.dyndns.org>  Sun,  9 May 2004 00:29:15 +0200
+
+xvidcore (1.0-0cvs) unstable; urgency=low
+
+  * Initial Release.
+  * First attempt to package XviD.
+
+ -- Edouard Gomez <ed.gomez@free.fr>  Sun,  4 May 2003 20:55:37 +0200
+

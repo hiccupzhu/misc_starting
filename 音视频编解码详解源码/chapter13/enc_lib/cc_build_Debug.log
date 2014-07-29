@@ -1,0 +1,9 @@
+----------------------------  enc_lib.pjt - Debug  ----------------------------
+"d:\ti\c6000\cgtools\bin\cl6x" -q -o3 -fr"e:/writing_works/codes/chapter13/enc_lib/Debug" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"Debug.lkf" "enc.c"
+
+"d:\ti\c6000\cgtools\bin\ar6x" @"Debug.lkf"
+  ==>  new archive 'E:\writing_works\codes\chapter13\enc_lib\Debug\enc_lib.lib'
+  ==>  building archive 'E:\writing_works\codes\chapter13\enc_lib\Debug\enc_lib.lib'
+
+Build Complete,
+  0 Errors, 0 Warnings, 0 Remarks.

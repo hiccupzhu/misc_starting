@@ -1,0 +1,14 @@
+#ifndef __MATROSKAGUID_H__
+#define __MATROSKAGUID_H__
+#include <guiddef.h>
+
+// {4F143F0A-7E76-4d71-B827-FDFBF55CE18A}
+DEFINE_GUID(CLSID_MATROSKA_FILTER, 
+            0x4f143f0a, 0x7e76, 0x4d71, 0xb8, 0x27, 0xfd, 0xfb, 0xf5, 0x5c, 0xe1, 0x8a);
+
+// {CBF53C78-70E2-4c69-AC1A-356874DB8EDD}
+DEFINE_GUID(CLSID_MATROSKA_PAGE, 
+            0xcbf53c78, 0x70e2, 0x4c69, 0xac, 0x1a, 0x35, 0x68, 0x74, 0xdb, 0x8e, 0xdd);
+
+
+#endif

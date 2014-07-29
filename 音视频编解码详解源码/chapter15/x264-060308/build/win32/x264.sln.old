@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libx264", "libx264.vcproj", "{B58DFFEC-45AB-412D-9B49-52360BAE4779}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "x264", "x264.vcproj", "{F8DB63D2-4B11-4E24-887C-6FE911CEDD17}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B58DFFEC-45AB-412D-9B49-52360BAE4779} = {B58DFFEC-45AB-412D-9B49-52360BAE4779}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B58DFFEC-45AB-412D-9B49-52360BAE4779}.Debug.ActiveCfg = Debug|Win32
+		{B58DFFEC-45AB-412D-9B49-52360BAE4779}.Debug.Build.0 = Debug|Win32
+		{B58DFFEC-45AB-412D-9B49-52360BAE4779}.Release.ActiveCfg = Release|Win32
+		{B58DFFEC-45AB-412D-9B49-52360BAE4779}.Release.Build.0 = Release|Win32
+		{F8DB63D2-4B11-4E24-887C-6FE911CEDD17}.Debug.ActiveCfg = Debug|Win32
+		{F8DB63D2-4B11-4E24-887C-6FE911CEDD17}.Debug.Build.0 = Debug|Win32
+		{F8DB63D2-4B11-4E24-887C-6FE911CEDD17}.Release.ActiveCfg = Release|Win32
+		{F8DB63D2-4B11-4E24-887C-6FE911CEDD17}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

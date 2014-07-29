@@ -1,0 +1,4 @@
+*.obj
+*.ext
+*.suo
+*.pyc

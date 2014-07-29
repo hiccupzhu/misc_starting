@@ -1,0 +1,310 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: libx264 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4B.bat" with contents
+[
+@echo off
+nasm -i \我的开发\x264Weekly\x264-060308\common\i386\ -f win32 -DPREFIX -o .\Debug\quant-a.obj "..\..\common\i386\quant-a.asm"
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4B.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4C.bat" with contents
+[
+@echo off
+nasm -i \我的开发\x264Weekly\x264-060308\common\i386\ -f win32 -DPREFIX -o .\Debug\predict-a.obj "..\..\common\i386\predict-a.asm"
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4C.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4D.bat" with contents
+[
+@echo off
+nasm -i \我的开发\x264Weekly\x264-060308\common\i386\ -f win32 -DPREFIX -o .\Debug\pixel-sse2.obj "..\..\common\i386\pixel-sse2.asm"
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4D.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4E.bat" with contents
+[
+@echo off
+nasm -i \我的开发\x264Weekly\x264-060308\common\i386\ -f win32 -DPREFIX -o .\Debug\pixel-a.obj "..\..\common\i386\pixel-a.asm"
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4E.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4F.bat" with contents
+[
+@echo off
+nasm -i \我的开发\x264Weekly\x264-060308\common\i386\ -f win32 -DPREFIX -o .\Debug\mc-a2.obj "..\..\common\i386\mc-a2.asm"
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4F.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP50.bat" with contents
+[
+@echo off
+nasm -i \我的开发\x264Weekly\x264-060308\common\i386\ -f win32 -DPREFIX -o .\Debug\mc-a.obj "..\..\common\i386\mc-a.asm"
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP50.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP51.bat" with contents
+[
+@echo off
+nasm -i \我的开发\x264Weekly\x264-060308\common\i386\ -f win32 -DPREFIX -o .\Debug\deblock-a.obj "..\..\common\i386\deblock-a.asm"
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP51.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP52.bat" with contents
+[
+@echo off
+nasm -i \我的开发\x264Weekly\x264-060308\common\i386\ -f win32 -DPREFIX -o .\Debug\dct-a.obj "..\..\common\i386\dct-a.asm"
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP52.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP53.bat" with contents
+[
+@echo off
+nasm -i \我的开发\x264Weekly\x264-060308\common\i386\ -f win32 -DPREFIX -o .\Debug\cpu-a.obj "..\..\common\i386\cpu-a.asm"
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP53.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP54.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /Zi /Od /I "./common" /I "./encode" /I "./decode" /I "../../extras" /I "../.." /D "_DEBUG" /D "_LIB" /D "WIN32" /D "_MBCS" /D "__X264__" /D "HAVE_MMXEXT" /D "ARCH_X86" /D "HAVE_STDINT_H" /Fo"obj/enc_debug/" /Fd"obj/enc_debug/" /FD /GZ /c 
+"D:\我的开发\x264Weekly\x264-060308\encoder\analyse.c"
+"D:\我的开发\x264Weekly\x264-060308\encoder\cabac.c"
+"D:\我的开发\x264Weekly\x264-060308\encoder\cavlc.c"
+"D:\我的开发\x264Weekly\x264-060308\encoder\encoder.c"
+"D:\我的开发\x264Weekly\x264-060308\encoder\eval.c"
+"D:\我的开发\x264Weekly\x264-060308\encoder\macroblock.c"
+"D:\我的开发\x264Weekly\x264-060308\encoder\me.c"
+"D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c"
+"D:\我的开发\x264Weekly\x264-060308\encoder\set.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP54.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP55.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /Zi /Od /I "./common" /I "./encode" /I "./decode" /I "../../extras" /I "../.." /D "_DEBUG" /D "_LIB" /D "WIN32" /D "_MBCS" /D "__X264__" /D "HAVE_MMXEXT" /D "ARCH_X86" /D "HAVE_STDINT_H" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\我的开发\x264Weekly\x264-060308\common\i386\dct-c.c"
+"D:\我的开发\x264Weekly\x264-060308\common\csp.c"
+"D:\我的开发\x264Weekly\x264-060308\common\quant.c"
+"D:\我的开发\x264Weekly\x264-060308\common\set.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP55.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP56.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /Zi /Od /I "./common" /I "./encode" /I "./decode" /I "../../extras" /I "../.." /D "_DEBUG" /D "_LIB" /D "WIN32" /D "_MBCS" /D "__X264__" /D "HAVE_MMXEXT" /D "ARCH_X86" /D "HAVE_STDINT_H" /Fo"obj/core_debug/" /Fd"obj/core_debug/" /FD /GZ /c 
+"D:\我的开发\x264Weekly\x264-060308\common\cabac.c"
+"D:\我的开发\x264Weekly\x264-060308\common\common.c"
+"D:\我的开发\x264Weekly\x264-060308\common\cpu.c"
+"D:\我的开发\x264Weekly\x264-060308\common\dct.c"
+"D:\我的开发\x264Weekly\x264-060308\common\frame.c"
+"D:\我的开发\x264Weekly\x264-060308\common\macroblock.c"
+"D:\我的开发\x264Weekly\x264-060308\common\i386\mc-c.c"
+"D:\我的开发\x264Weekly\x264-060308\common\mc.c"
+"D:\我的开发\x264Weekly\x264-060308\common\mdate.c"
+"D:\我的开发\x264Weekly\x264-060308\common\pixel.c"
+"D:\我的开发\x264Weekly\x264-060308\common\predict.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP56.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP57.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /Zi /Od /I "./common" /I "./encode" /I "./decode" /I "../../extras" /I "../.." /D "_DEBUG" /D "_LIB" /D "WIN32" /D "_MBCS" /D "__X264__" /D "HAVE_MMXEXT" /D "ARCH_X86" /D "HAVE_STDINT_H" /Fo"obj/util_debug/" /Fd"obj/util_debug/" /FD /GZ /c 
+"D:\我的开发\x264Weekly\x264-060308\extras\getopt.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP57.tmp" 
+Assembly "..\..\common\i386\quant-a.asm"
+Assembly "..\..\common\i386\predict-a.asm"
+Assembly "..\..\common\i386\pixel-sse2.asm"
+Assembly "..\..\common\i386\pixel-a.asm"
+Assembly "..\..\common\i386\mc-a2.asm"
+Assembly "..\..\common\i386\mc-a.asm"
+Assembly "..\..\common\i386\deblock-a.asm"
+Assembly "..\..\common\i386\dct-a.asm"
+Assembly "..\..\common\i386\cpu-a.asm"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP58.tmp" with contents
+[
+/nologo /out:"bin/libx264.lib" 
+".\obj\enc_debug\analyse.obj"
+".\obj\enc_debug\cabac.obj"
+".\obj\enc_debug\cavlc.obj"
+".\obj\enc_debug\encoder.obj"
+".\obj\enc_debug\eval.obj"
+".\obj\enc_debug\macroblock.obj"
+".\obj\enc_debug\me.obj"
+".\obj\enc_debug\ratecontrol.obj"
+".\obj\enc_debug\set.obj"
+".\Debug\dct-c.obj"
+".\obj\core_debug\cabac.obj"
+".\obj\core_debug\common.obj"
+".\obj\core_debug\cpu.obj"
+".\Debug\csp.obj"
+".\obj\core_debug\dct.obj"
+".\obj\core_debug\frame.obj"
+".\obj\core_debug\macroblock.obj"
+".\obj\core_debug\mc-c.obj"
+".\obj\core_debug\mc.obj"
+".\obj\core_debug\mdate.obj"
+".\obj\core_debug\pixel.obj"
+".\obj\core_debug\predict.obj"
+".\Debug\quant.obj"
+".\Debug\set.obj"
+".\obj\util_debug\getopt.obj"
+".\Debug\cpu-a.obj"
+".\Debug\dct-a.obj"
+".\Debug\deblock-a.obj"
+".\Debug\mc-a.obj"
+".\Debug\mc-a2.obj"
+".\Debug\pixel-a.obj"
+".\Debug\pixel-sse2.obj"
+".\Debug\predict-a.obj"
+".\Debug\quant-a.obj"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP58.tmp"
+<h3>Output Window</h3>
+Compiling...
+analyse.c
+D:\我的开发\x264Weekly\x264-060308\encoder\analyse.c(1772) : warning C4244: '=' : conversion from '__int64 ' to 'int ', possible loss of data
+cabac.c
+cavlc.c
+encoder.c
+D:\我的开发\x264Weekly\x264-060308\encoder\encoder.c(552) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\encoder.c(1394) : warning C4244: 'initializing' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\encoder.c(1417) : warning C4244: '=' : conversion from 'const double ' to 'float ', possible loss of data
+eval.c
+macroblock.c
+D:\我的开发\x264Weekly\x264-060308\encoder\macroblock.c(809) : warning C4018: '>' : signed/unsigned mismatch
+D:\我的开发\x264Weekly\x264-060308\encoder\macroblock.c(820) : warning C4244: '=' : conversion from 'unsigned __int64 ' to 'unsigned int ', possible loss of data
+me.c
+ratecontrol.c
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(221) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(356) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(403) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(557) : warning C4244: '=' : conversion from 'int ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(562) : warning C4244: '=' : conversion from 'int ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(568) : warning C4244: '=' : conversion from 'int ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(577) : warning C4244: '=' : conversion from 'int ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(787) : warning C4013: '_finite' undefined; assuming extern returning int
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(871) : warning C4244: 'initializing' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(900) : warning C4244: 'function' : conversion from 'double ' to 'int ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(900) : warning C4244: 'function' : conversion from 'double ' to 'int ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(923) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(932) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(932) : warning C4305: 'function' : truncation from 'const double ' to 'float '
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(952) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(952) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(952) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(981) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(983) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(984) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(984) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(994) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1000) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1001) : warning C4244: '*=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1003) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1003) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1026) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1037) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1042) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1046) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1047) : warning C4244: '*=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1054) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1055) : warning C4244: '/=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1056) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1062) : warning C4244: 'initializing' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1063) : warning C4244: 'initializing' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1076) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1076) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1077) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1148) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1215) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1219) : warning C4244: '=' : conversion from 'double ' to 'unsigned __int64 ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\encoder\ratecontrol.c(1221) : warning C4244: 'function' : conversion from 'double ' to 'int ', possible loss of data
+set.c
+Generating Code...
+Compiling...
+dct-c.c
+csp.c
+quant.c
+set.c
+Generating Code...
+Compiling...
+cabac.c
+common.c
+D:\我的开发\x264Weekly\x264-060308\common\common.c(88) : warning C4305: '=' : truncation from 'const double ' to 'float '
+D:\我的开发\x264Weekly\x264-060308\common\common.c(94) : warning C4305: '=' : truncation from 'const double ' to 'float '
+D:\我的开发\x264Weekly\x264-060308\common\common.c(95) : warning C4305: '=' : truncation from 'const double ' to 'float '
+D:\我的开发\x264Weekly\x264-060308\common\common.c(102) : warning C4305: '=' : truncation from 'const double ' to 'float '
+D:\我的开发\x264Weekly\x264-060308\common\common.c(417) : warning C4018: '!=' : signed/unsigned mismatch
+cpu.c
+dct.c
+frame.c
+macroblock.c
+mc-c.c
+mc.c
+mdate.c
+pixel.c
+predict.c
+Generating Code...
+Compiling...
+getopt.c
+Creating library...
+<h3>
+--------------------Configuration: x264 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP59.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /Zi /Od /I "../../common" /I "../../encode" /I "../../decode" /I "../../extras" /I "../.." /D "_DEBUG" /D "_CONSOLE" /D "WIN32" /D "_MBCS" /D "__X264__" /D "HAVE_MMXEXT" /D "HAVE_STDINT_H" /Fp"obj/x264_Debug/x264.pch" /YX /Fo"obj/x264_Debug/" /Fd"obj/x264_Debug/" /FD /GZ /c 
+"D:\我的开发\x264Weekly\x264-060308\matroska.c"
+"D:\我的开发\x264Weekly\x264-060308\x264.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP59.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP5A.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"obj/x264_Debug/x264.pdb" /debug /machine:I386 /out:"bin/x264.exe" /pdbtype:sept 
+".\obj\x264_Debug\matroska.obj"
+".\obj\x264_Debug\x264.obj"
+".\bin\libx264.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP5A.tmp"
+<h3>Output Window</h3>
+Compiling...
+matroska.c
+D:\我的开发\x264Weekly\x264-060308\matroska.c(238) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(238) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(238) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(238) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(238) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(238) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(238) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(238) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(250) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(250) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(250) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(250) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(250) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(250) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(250) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(250) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(301) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(301) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(301) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(301) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(301) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(301) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(301) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(301) : warning C4244: 'initializing' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(459) : warning C4244: '=' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\matroska.c(460) : warning C4244: '=' : conversion from '__int64 ' to 'unsigned char ', possible loss of data
+x264.c
+D:\我的开发\x264Weekly\x264-060308\x264.c(779) : warning C4244: '=' : conversion from 'const double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\x264.c(788) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\x264.c(791) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\x264.c(794) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\x264.c(819) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\x264.c(822) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\x264.c(825) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\x264.c(1134) : warning C4244: 'initializing' : conversion from '__int64 ' to 'int ', possible loss of data
+D:\我的开发\x264Weekly\x264-060308\x264.c(1204) : warning C4244: 'function' : conversion from 'unsigned __int64 ' to 'long ', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+x264.exe - 0 error(s), 89 warning(s)
+</pre>
+</body>
+</html>

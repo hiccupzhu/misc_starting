@@ -1,0 +1,43 @@
+------------------------------  xvid.pjt - Debug  ------------------------------
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "bitstream.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "mbcoding.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../Debug.lkf" "encoder.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "colorspace.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "image.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "interpolate8x8.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "estimation_common.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "estimation_pvop.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "motion_comp.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "sad.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "mbprediction.c"
+"mbprediction.c", line 76: warning: variable "left_quant" was set but never used
+"mbprediction.c", line 77: warning: variable "top_quant" was set but never used
+"mbprediction.c", line 39: warning: function "rescale" was declared but never referenced
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "quant_h263.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "mbtransquant.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "mem_align.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../../Debug.lkf" "mem_transfer.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../Debug.lkf" "xvid.c"
+
+"d:\ti\c6000\cgtools\bin\cl6x" -gp -q -o3 -fr"E:/writing_works/codes/chapter13/mpeg4/Debug" -i"d:/ti/imglib/include" -i"d:/ti/c6000/bios/include" -i"d:/ti/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400 -@"../Debug.lkf" "xvid_encraw.c"
+"xvid_encraw.c", line 446: warning: function "msecond" was declared but never referenced
+
+"d:\ti\c6000\cgtools\bin\cl6x" -@"Debug.lkf"
+
+Build Complete,
+  0 Errors, 4 Warnings, 0 Remarks.

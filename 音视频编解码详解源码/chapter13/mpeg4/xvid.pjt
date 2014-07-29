@@ -1,0 +1,54 @@
+; Code Composer Project File, Version 2.0 (do not modify or remove this line)
+
+[Project Settings]
+ProjectDir="E:\writing_works\codes\chapter13\mpeg4\"
+ProjectType=Executable
+CPUFamily=TMS320C64XX
+Tool="Compiler"
+Tool="DspBiosBuilder"
+Tool="Linker"
+Config="Debug"
+Config="Release"
+
+[Source Files]
+Source="src\bitstream\bitstream.c"
+Source="src\bitstream\cbp.c"
+Source="src\bitstream\mbcoding.c"
+Source="src\encoder.c"
+Source="src\image\colorspace.c"
+Source="src\image\image.c"
+Source="src\image\interpolate8x8.c"
+Source="src\motion\estimation_common.c"
+Source="src\motion\estimation_pvop.c"
+Source="src\motion\motion_comp.c"
+Source="src\motion\sad.c"
+Source="src\prediction\mbprediction.c"
+Source="src\quant\quant_h263.c"
+Source="src\utils\mbtransquant.c"
+Source="src\utils\mem_align.c"
+Source="src\utils\mem_transfer.c"
+Source="src\xvid.c"
+Source="src\xvid_encraw.c"
+Source="lnk.cmd"
+
+["Compiler" Settings: "Debug"]
+Options=-gp -q -o3 -fr"E:\writing_works\codes\chapter13\mpeg4\Debug" -i"$(Install_dir)/imglib/include" -i"$(Install_dir)/c6000/bios/include" -i"$(Install_dir)/c6400/imglib/include" -d"_DEBUG" -d"CHIP_DM642" -ml3 -mv6400
+
+["Compiler" Settings: "Release"]
+Options=-q -o3 -fr"E:\writing_works\codes\chapter13\mpeg4\Release" -mv6400
+
+["DspBiosBuilder" Settings: "Debug"]
+Options=-v6x
+
+["DspBiosBuilder" Settings: "Release"]
+Options=-v6x
+
+["Linker" Settings: "Debug"]
+Options=-q -c -heap0x800000 -m".\Debug\xvid.map" -o".\Debug\xvid.out" -stack0x4000 -w -x -i"$(Install_dir)/boards/evmdm642/lib" -i"$(Install_dir)/c6400/imglib/lib" -i"$(Install_dir)/c6000/bios/lib" -l"rts6400.lib" -l"img64x.lib" -l"cslDM642.lib"
+
+["Linker" Settings: "Release"]
+Options=-q -c -m".\Release\xvid.map" -o".\Release\xvid.out" -w -x
+
+["src\bitstream\cbp.c" Settings: "Debug"]
+ExcludeFromBuild=true
+

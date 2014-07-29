@@ -1,0 +1,59 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Recorder - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/Recorder.res" /d "NDEBUG" /d "_AFXDLL" "D:\WJQ\MY_CODES\ZDM\Recorder\Recorder.rc"" 
+Creating temporary file "C:\DOCUME~1\wang10\LOCALS~1\Temp\RSPBAE.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "..\common\include" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/Recorder.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\WJQ\MY_CODES\ZDM\Recorder\AudioFormat.cpp"
+"D:\WJQ\MY_CODES\ZDM\Recorder\CaptureDevices.cpp"
+"D:\WJQ\MY_CODES\ZDM\Common\Src\dsutil.cpp"
+"D:\WJQ\MY_CODES\ZDM\Common\Src\dxutil.cpp"
+"D:\WJQ\MY_CODES\ZDM\Recorder\Recorder.cpp"
+"D:\WJQ\MY_CODES\ZDM\Recorder\RecorderDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\wang10\LOCALS~1\Temp\RSPBAE.tmp" 
+Creating temporary file "C:\DOCUME~1\wang10\LOCALS~1\Temp\RSPBAF.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "..\common\include" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/Recorder.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\WJQ\MY_CODES\ZDM\Recorder\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\wang10\LOCALS~1\Temp\RSPBAF.tmp" 
+Creating temporary file "C:\DOCUME~1\wang10\LOCALS~1\Temp\RSPBB0.tmp" with contents
+[
+comctl32.lib dxerr9.lib winmm.lib dsound.lib dxguid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Recorder.pdb" /machine:I386 /out:"Release/Recorder.exe" 
+.\Release\AudioFormat.obj
+.\Release\CaptureDevices.obj
+.\Release\dsutil.obj
+.\Release\dxutil.obj
+.\Release\Recorder.obj
+.\Release\RecorderDlg.obj
+.\Release\StdAfx.obj
+.\Release\Recorder.res
+]
+Creating command line "link.exe @C:\DOCUME~1\wang10\LOCALS~1\Temp\RSPBB0.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+AudioFormat.cpp
+CaptureDevices.cpp
+dsutil.cpp
+dxutil.cpp
+Recorder.cpp
+RecorderDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Recorder.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

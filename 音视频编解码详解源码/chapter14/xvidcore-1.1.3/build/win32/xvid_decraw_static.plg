@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: xvid_decraw_static - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB0.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /I "..\\..\\src" /D "NDEBUG" /D "WIN32" /D "_CONSOLE" /D "_MBCS" /D "ARCH_IS_LITTLE_ENDIAN" /FR"xvid_decraw_static___Win32_Release/" /Fp"xvid_decraw_static___Win32_Release/xvid_decraw_static.pch" /YX /Fo"xvid_decraw_static___Win32_Release/" /Fd"xvid_decraw_static___Win32_Release/" /FD /c 
+"E:\ti_projects\mpg4enc-dec\mp4enc\xvidcore-1.1.3\examples\xvid_decraw.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB0.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB1.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib libxvidcore.lib /nologo /subsystem:console /incremental:no /pdb:"xvid_decraw_static___Win32_Release/h264_decraw_d1.pdb" /machine:I386 /out:"xvid_decraw_static___Win32_Release/h264_decraw_d1.exe" /libpath:"bin" 
+".\xvid_decraw_static___Win32_Release\xvid_decraw.obj"
+".\bin\libxvidcore.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB1.tmp"
+<h3>Output Window</h3>
+Compiling...
+xvid_decraw.c
+E:\ti_projects\mpg4enc-dec\mp4enc\xvidcore-1.1.3\examples\xvid_decraw.c(93) : warning C4101: 'filename' : unreferenced local variable
+Linking...
+Creating command line "bscmake.exe /nologo /o"xvid_decraw_static___Win32_Release/xvid_decraw_static.bsc"  ".\xvid_decraw_static___Win32_Release\xvid_decraw.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+h264_decraw_d1.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,4 @@
+kernel void sub255 (uchar a<>,out uchar b<>)
+{
+	b = (uchar)255 - a;
+}

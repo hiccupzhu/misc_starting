@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: xvid_decraw_static - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1B.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib libxvidcore.lib /nologo /subsystem:console /incremental:yes /pdb:"xvid_decraw_static___Win32_Debug/xvid_decraw_static.pdb" /debug /machine:I386 /out:"xvid_decraw_static___Win32_Debug/xvid_decraw_static.exe" /pdbtype:sept /libpath:"bin" 
+.\xvid_decraw_static___Win32_Debug\xvid_decraw.obj
+.\bin\libxvidcore.lib
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1B.tmp"
+<h3>Output Window</h3>
+Linking...
+LINK : warning LNK4076: invalid incremental status file "xvid_decraw_static___Win32_Debug/xvid_decraw_static.ilk"; linking nonincrementally
+LINK : fatal error LNK1207: incompatible PDB format in "E:\writing_works\codes\chapter10\xvidcore\build\win32\xvid_decraw_static___Win32_Debug\xvid_decraw_static.pdb"; delete and rebuild
+Error executing link.exe.
+
+
+
+<h3>Results</h3>
+xvid_decraw_static.exe - 1 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

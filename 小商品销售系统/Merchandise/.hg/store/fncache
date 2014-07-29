@@ -1,0 +1,70 @@
+data/.hgignore.i
+data/ExportExcel.cs.i
+data/Form1.Designer.cs.i
+data/Form1.cs.i
+data/Form1.resx.i
+data/Global.cs.i
+data/Merchandise.csproj.i
+data/Merchandise.csproj.user.i
+data/Merchandise.sln.i
+data/MerchandiseEnteringDlg.Designer.cs.i
+data/MerchandiseEnteringDlg.cs.i
+data/MerchandiseEnteringDlg.resx.i
+data/MerchandiseInfoDisplayDlg.Designer.cs.i
+data/MerchandiseInfoDisplayDlg.cs.i
+data/MerchandiseInfoDisplayDlg.resx.i
+data/Merchandise_TemporaryKey.pfx.i
+data/Program.cs.i
+data/Properties/AssemblyInfo.cs.i
+data/Properties/Resources.Designer.cs.i
+data/Properties/Resources.resx.i
+data/Properties/Settings.Designer.cs.i
+data/Properties/Settings.settings.i
+data/PurchasingManagementDlg.Designer.cs.i
+data/PurchasingManagementDlg.cs.i
+data/PurchasingManagementDlg.resx.i
+data/SaleRecordQueryDlg.Designer.cs.i
+data/SaleRecordQueryDlg.cs.i
+data/SaleRecordQueryDlg.resx.i
+data/SalesMenagementDlg.Designer.cs.i
+data/SalesMenagementDlg.cs.i
+data/SalesMenagementDlg.resx.i
+data/app.config.i
+data/bin/Debug/DataBase/db1.mdb.i
+data/bin/Debug/Merchandise.application.i
+data/bin/Debug/Merchandise.exe.config.i
+data/bin/Debug/Merchandise.vshost.application.i
+data/bin/Debug/Merchandise.vshost.exe.config.i
+data/bin/Debug/app.publish/Application Files/Merchandise_1_0_0_2/Merchandise.exe.config.deploy.i
+data/bin/Debug/app.publish/Application Files/Merchandise_1_0_0_2/Merchandise.exe.deploy.i
+data/bin/Debug/app.publish/Application Files/Merchandise_1_0_0_2/Microsoft.Office.Interop.Excel.dll.deploy.i
+data/bin/Debug/app.publish/Application Files/Merchandise_1_0_0_2/Microsoft.Office.Interop.Excel.dll.deploy.d
+data/bin/Debug/app.publish/Application Files/Merchandise_1_0_0_2/office.dll.deploy.i
+data/bin/Debug/app.publish/Application Files/Merchandise_1_0_0_2/office.dll.deploy.d
+data/bin/Debug/app.publish/Merchandise.application.i
+data/bin/Release/Merchandise.application.i
+data/bin/Release/Merchandise.exe.config.i
+data/bin/Release/Merchandise.vshost.application.i
+data/bin/Release/Merchandise.vshost.exe.config.i
+data/obj/Debug/Merchandise.Form1.resources.i
+data/obj/Debug/Merchandise.MerchandiseEnteringDlg.resources.i
+data/obj/Debug/Merchandise.MerchandiseInfoDisplayDlg.resources.i
+data/obj/Debug/Merchandise.Properties.Resources.resources.i
+data/obj/Debug/Merchandise.PurchasingManagementDlg.resources.i
+data/obj/Debug/Merchandise.SaleRecordQueryDlg.resources.i
+data/obj/Debug/Merchandise.SalesMenagementDlg.resources.i
+data/obj/Debug/Merchandise.application.i
+data/obj/Debug/Merchandise.csproj.FileListAbsolute.txt.i
+data/obj/Debug/Merchandise.csproj.GenerateResource.Cache.i
+data/obj/Debug/ResolveAssemblyReference.cache.i
+data/obj/Release/Merchandise.Form1.resources.i
+data/obj/Release/Merchandise.MerchandiseEnteringDlg.resources.i
+data/obj/Release/Merchandise.MerchandiseInfoDisplayDlg.resources.i
+data/obj/Release/Merchandise.Properties.Resources.resources.i
+data/obj/Release/Merchandise.PurchasingManagementDlg.resources.i
+data/obj/Release/Merchandise.SaleRecordQueryDlg.resources.i
+data/obj/Release/Merchandise.SalesMenagementDlg.resources.i
+data/obj/Release/Merchandise.application.i
+data/obj/Release/Merchandise.csproj.FileListAbsolute.txt.i
+data/obj/Release/Merchandise.csproj.GenerateResource.Cache.i
+data/obj/Release/ResolveAssemblyReference.cache.i

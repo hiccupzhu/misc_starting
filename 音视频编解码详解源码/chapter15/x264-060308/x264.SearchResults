@@ -1,0 +1,6 @@
+---- update status line (up to 1000 times per input file) Matches (1 in 1 files) ----
+X264.c:        /* update status line (up to 1000 times per input file) */
+---- update status line (up to 1000 times per input file) Search Errors Encountered (2) ----
+The following 2 files could not be processed:
+E:\writing_works\codes\chapter15\x264-060308\x264.IAB : File could not be opened.
+E:\writing_works\codes\chapter15\x264-060308\x264.IMB : File could not be opened.

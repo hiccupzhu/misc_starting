@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrueType", "TrueType.vcproj", "{A93104CB-862C-46F1-9F0F-662D863FDDE4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "huffer", "..\huffer\huffer.vcproj", "{BF89E72F-06A2-482B-BFE6-68065AFEB970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A93104CB-862C-46F1-9F0F-662D863FDDE4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A93104CB-862C-46F1-9F0F-662D863FDDE4}.Debug|Win32.Build.0 = Debug|Win32
+		{A93104CB-862C-46F1-9F0F-662D863FDDE4}.Release|Win32.ActiveCfg = Release|Win32
+		{A93104CB-862C-46F1-9F0F-662D863FDDE4}.Release|Win32.Build.0 = Release|Win32
+		{BF89E72F-06A2-482B-BFE6-68065AFEB970}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF89E72F-06A2-482B-BFE6-68065AFEB970}.Debug|Win32.Build.0 = Debug|Win32
+		{BF89E72F-06A2-482B-BFE6-68065AFEB970}.Release|Win32.ActiveCfg = Release|Win32
+		{BF89E72F-06A2-482B-BFE6-68065AFEB970}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

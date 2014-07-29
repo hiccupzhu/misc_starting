@@ -1,0 +1,423 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: libxvidcore - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP11.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\mem_transfer_mmx.obj ..\..\src\utils\x86_asm\mem_transfer_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP11.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP12.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\mem_transfer_3dne.obj ..\..\src\utils\x86_asm\mem_transfer_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP12.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP13.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interlacing_mmx.obj ..\..\src\utils\x86_asm\interlacing_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP13.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP14.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\cpuid.obj ..\..\src\utils\x86_asm\cpuid.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP14.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP15.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\quantize_mpeg_xmm.obj ..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP15.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP16.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\quantize_mpeg_mmx.obj ..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP16.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP17.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\quantize_h263_mmx.obj ..\..\src\quant\x86_asm\quantize_h263_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP17.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP18.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\quantize_h263_3dne.obj ..\..\src\quant\x86_asm\quantize_h263_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP18.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP19.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_xmm.obj ..\..\src\motion\x86_asm\sad_xmm.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP19.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1A.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_sse2.obj ..\..\src\motion\x86_asm\sad_sse2.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1A.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1B.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_mmx.obj ..\..\src\motion\x86_asm\sad_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1B.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1C.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_3dne.obj ..\..\src\motion\x86_asm\sad_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1C.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1D.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_3dn.obj ..\..\src\motion\x86_asm\sad_3dn.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1D.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1E.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\reduced_mmx.obj ..\..\src\image\x86_asm\reduced_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1E.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1F.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\qpel_mmx.obj ..\..\src\image\x86_asm\qpel_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1F.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP20.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interpolate8x8_xmm.obj ..\..\src\image\x86_asm\interpolate8x8_xmm.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP20.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP21.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interpolate8x8_mmx.obj ..\..\src\image\x86_asm\interpolate8x8_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP21.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP22.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interpolate8x8_3dne.obj ..\..\src\image\x86_asm\interpolate8x8_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP22.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP23.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interpolate8x8_3dn.obj ..\..\src\image\x86_asm\interpolate8x8_3dn.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP23.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP24.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -I"\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\x86_asm"\ -o .\Debug\colorspace_yuyv_mmx.obj ..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP24.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP25.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -I"\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\x86_asm"\ -o .\Debug\colorspace_yuv_mmx.obj ..\..\src\image\x86_asm\colorspace_yuv_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP25.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP26.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -I"\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\x86_asm"\ -o .\Debug\colorspace_rgb_mmx.obj ..\..\src\image\x86_asm\colorspace_rgb_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP26.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP27.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\simple_idct_mmx.obj ..\..\src\dct\x86_asm\simple_idct_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP27.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP28.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\idct_sse2_dmitry.obj ..\..\src\dct\x86_asm\idct_sse2_dmitry.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP28.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP29.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\idct_mmx.obj ..\..\src\dct\x86_asm\idct_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP29.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2A.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\idct_3dne.obj ..\..\src\dct\x86_asm\idct_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2A.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2B.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\fdct_sse2_skal.obj ..\..\src\dct\x86_asm\fdct_sse2_skal.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2B.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2C.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\fdct_mmx_skal.obj ..\..\src\dct\x86_asm\fdct_mmx_skal.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2C.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2D.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\fdct_mmx_ffmpeg.obj ..\..\src\dct\x86_asm\fdct_mmx_ffmpeg.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2D.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2E.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\cbp_sse2.obj ..\..\src\bitstream\x86_asm\cbp_sse2.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2E.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2F.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\cbp_mmx.obj ..\..\src\bitstream\x86_asm\cbp_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2F.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP30.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\cbp_3dne.obj ..\..\src\bitstream\x86_asm\cbp_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP30.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP31.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "ARCH_IS_32BIT" /D "ARCH_IS_IA32" /Fp"Debug/libxvidcore.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\bitstream\bitstream.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\bitstream\cbp.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\bitstream\mbcoding.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\dct\fdct.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\dct\idct.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\dct\simple_idct.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\colorspace.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\font.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\image.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\interpolate8x8.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\postprocessing.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\qpel.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\image\reduced.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_bvop.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_common.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_gmc.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_pvop.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_rd_based.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\gmc.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\motion_comp.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\sad.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\vop_type_decision.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\prediction\mbprediction.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\quant\quant_h263.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\quant\quant_matrix.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\quant\quant_mpeg.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\utils\emms.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\utils\mbtransquant.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\utils\mem_align.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\utils\mem_transfer.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\utils\timer.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_2pass1.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_2pass2.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_dump.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_lumimasking.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_psnr.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_single.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\decoder.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\encoder.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.0.0\src\xvid.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP31.tmp" 
+Assembling ..\..\src\utils\x86_asm\mem_transfer_mmx.asm
+Assembling ..\..\src\utils\x86_asm\mem_transfer_3dne.asm
+Assembling ..\..\src\utils\x86_asm\interlacing_mmx.asm
+Assembling ..\..\src\utils\x86_asm\cpuid.asm
+Assembling ..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm
+Assembling ..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm
+Assembling ..\..\src\quant\x86_asm\quantize_h263_mmx.asm
+Assembling ..\..\src\quant\x86_asm\quantize_h263_3dne.asm
+Assembling ..\..\src\motion\x86_asm\sad_xmm.asm
+Assembling ..\..\src\motion\x86_asm\sad_sse2.asm
+Assembling ..\..\src\motion\x86_asm\sad_mmx.asm
+Assembling ..\..\src\motion\x86_asm\sad_3dne.asm
+Assembling ..\..\src\motion\x86_asm\sad_3dn.asm
+Assembling ..\..\src\image\x86_asm\reduced_mmx.asm
+Assembling ..\..\src\image\x86_asm\qpel_mmx.asm
+Assembling ..\..\src\image\x86_asm\interpolate8x8_xmm.asm
+Assembling ..\..\src\image\x86_asm\interpolate8x8_mmx.asm
+Assembling ..\..\src\image\x86_asm\interpolate8x8_3dne.asm
+Assembling ..\..\src\image\x86_asm\interpolate8x8_3dn.asm
+Assembling ..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm
+Assembling ..\..\src\image\x86_asm\colorspace_yuv_mmx.asm
+Assembling ..\..\src\image\x86_asm\colorspace_rgb_mmx.asm
+Assembling ..\..\src\dct\x86_asm\simple_idct_mmx.asm
+Assembling ..\..\src\dct\x86_asm\idct_sse2_dmitry.asm
+Assembling ..\..\src\dct\x86_asm\idct_mmx.asm
+Assembling ..\..\src\dct\x86_asm\idct_3dne.asm
+Assembling ..\..\src\dct\x86_asm\fdct_sse2_skal.asm
+Assembling ..\..\src\dct\x86_asm\fdct_mmx_skal.asm
+Assembling ..\..\src\dct\x86_asm\fdct_mmx_ffmpeg.asm
+Assembling ..\..\src\bitstream\x86_asm\cbp_sse2.asm
+Assembling ..\..\src\bitstream\x86_asm\cbp_mmx.asm
+Assembling ..\..\src\bitstream\x86_asm\cbp_3dne.asm
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP32.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /version:1.0 /subsystem:windows /dll /incremental:yes /pdb:"Debug/libxvidcore.pdb" /debug /machine:I386 /def:"..\generic\libxvidcore.def" /out:"libxvidcore.dll" /implib:"bin\xvidcore.dll.a" /pdbtype:sept 
+".\Debug\bitstream.obj"
+".\Debug\cbp.obj"
+".\Debug\mbcoding.obj"
+".\Debug\fdct.obj"
+".\Debug\idct.obj"
+".\Debug\simple_idct.obj"
+".\Debug\colorspace.obj"
+".\Debug\font.obj"
+".\Debug\image.obj"
+".\Debug\interpolate8x8.obj"
+".\Debug\postprocessing.obj"
+".\Debug\qpel.obj"
+".\Debug\reduced.obj"
+".\Debug\estimation_bvop.obj"
+".\Debug\estimation_common.obj"
+".\Debug\estimation_gmc.obj"
+".\Debug\estimation_pvop.obj"
+".\Debug\estimation_rd_based.obj"
+".\Debug\gmc.obj"
+".\Debug\motion_comp.obj"
+".\Debug\sad.obj"
+".\Debug\vop_type_decision.obj"
+".\Debug\mbprediction.obj"
+".\Debug\quant_h263.obj"
+".\Debug\quant_matrix.obj"
+".\Debug\quant_mpeg.obj"
+".\Debug\emms.obj"
+".\Debug\mbtransquant.obj"
+".\Debug\mem_align.obj"
+".\Debug\mem_transfer.obj"
+".\Debug\timer.obj"
+".\Debug\plugin_2pass1.obj"
+".\Debug\plugin_2pass2.obj"
+".\Debug\plugin_dump.obj"
+".\Debug\plugin_lumimasking.obj"
+".\Debug\plugin_psnr.obj"
+".\Debug\plugin_single.obj"
+".\Debug\decoder.obj"
+".\Debug\encoder.obj"
+".\Debug\xvid.obj"
+".\Debug\cbp_3dne.obj"
+".\Debug\cbp_mmx.obj"
+".\Debug\cbp_sse2.obj"
+".\Debug\fdct_mmx_ffmpeg.obj"
+".\Debug\fdct_mmx_skal.obj"
+".\Debug\fdct_sse2_skal.obj"
+".\Debug\idct_3dne.obj"
+".\Debug\idct_mmx.obj"
+".\Debug\idct_sse2_dmitry.obj"
+".\Debug\simple_idct_mmx.obj"
+".\Debug\colorspace_rgb_mmx.obj"
+".\Debug\colorspace_yuv_mmx.obj"
+".\Debug\colorspace_yuyv_mmx.obj"
+".\Debug\interpolate8x8_3dn.obj"
+".\Debug\interpolate8x8_3dne.obj"
+".\Debug\interpolate8x8_mmx.obj"
+".\Debug\interpolate8x8_xmm.obj"
+".\Debug\qpel_mmx.obj"
+".\Debug\reduced_mmx.obj"
+".\Debug\sad_3dn.obj"
+".\Debug\sad_3dne.obj"
+".\Debug\sad_mmx.obj"
+".\Debug\sad_sse2.obj"
+".\Debug\sad_xmm.obj"
+".\Debug\quantize_h263_3dne.obj"
+".\Debug\quantize_h263_mmx.obj"
+".\Debug\quantize_mpeg_mmx.obj"
+".\Debug\quantize_mpeg_xmm.obj"
+".\Debug\cpuid.obj"
+".\Debug\interlacing_mmx.obj"
+".\Debug\mem_transfer_3dne.obj"
+".\Debug\mem_transfer_mmx.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP32.tmp"
+<h3>Output Window</h3>
+Compiling...
+bitstream.c
+cbp.c
+mbcoding.c
+fdct.c
+idct.c
+simple_idct.c
+colorspace.c
+font.c
+image.c
+interpolate8x8.c
+postprocessing.c
+qpel.c
+reduced.c
+estimation_bvop.c
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_bvop.c(1126) : warning C4018: '<' : signed/unsigned mismatch
+estimation_common.c
+estimation_gmc.c
+estimation_pvop.c
+estimation_rd_based.c
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_rd_based.c(440) : warning C4018: '>=' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_rd_based.c(472) : warning C4018: '>=' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_rd_based.c(507) : warning C4018: '>=' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_rd_based.c(507) : warning C4018: '>=' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_rd_based.c(521) : warning C4018: '>=' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\motion\estimation_rd_based.c(521) : warning C4018: '>=' : signed/unsigned mismatch
+gmc.c
+motion_comp.c
+sad.c
+vop_type_decision.c
+mbprediction.c
+quant_h263.c
+quant_matrix.c
+quant_mpeg.c
+emms.c
+mbtransquant.c
+mem_align.c
+mem_transfer.c
+timer.c
+plugin_2pass1.c
+plugin_2pass2.c
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_2pass2.c(1305) : warning C4244: '=' : conversion from 'unsigned __int64 ' to 'double ', possible loss of data
+plugin_dump.c
+plugin_lumimasking.c
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_lumimasking.c(206) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_lumimasking.c(207) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+plugin_psnr.c
+plugin_single.c
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\plugins\plugin_single.c(196) : warning C4244: '=' : conversion from 'double ' to '__int64 ', possible loss of data
+decoder.c
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\decoder.c(1389) : warning C4018: '<' : signed/unsigned mismatch
+encoder.c
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\encoder.c(824) : warning C4018: '==' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\encoder.c(824) : warning C4018: '==' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\encoder.c(1568) : warning C4018: '!=' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\encoder.c(1839) : warning C4018: '<=' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.0.0\src\encoder.c(1846) : warning C4018: '>=' : signed/unsigned mismatch
+xvid.c
+Linking...
+   Creating library bin\xvidcore.dll.a and object bin\xvidcore.dll.exp
+
+
+
+<h3>Results</h3>
+libxvidcore.dll - 0 error(s), 17 warning(s)
+</pre>
+</body>
+</html>

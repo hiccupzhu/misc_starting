@@ -1,0 +1,28 @@
+13:46:31: Creating resource group General
+13:46:31: Creating resource group Internal
+13:46:31: Creating resource group Autodetect
+13:46:31: Registering ResourceManager for type Mesh
+13:46:31: Registering ResourceManager for type Material
+13:46:31: Registering ResourceManager for type Skeleton
+13:46:31: XMLMeshSerializer writing mesh data to facial.mesh.xml...
+13:46:31: Populating DOM...
+13:46:31: Writing submesh...
+13:46:31: Dedicated geometry bone assignments exported.
+13:46:31: Submesh exported.
+13:46:31: Writing submesh...
+13:46:31: Dedicated geometry bone assignments exported.
+13:46:31: Submesh exported.
+13:46:31: Writing submesh...
+13:46:31: Dedicated geometry bone assignments exported.
+13:46:31: Submesh exported.
+13:46:31: Writing submesh...
+13:46:31: Dedicated geometry bone assignments exported.
+13:46:31: Submesh exported.
+13:46:31: Writing submesh...
+13:46:31: Dedicated geometry bone assignments exported.
+13:46:31: Submesh exported.
+13:46:32: DOM populated, writing XML file..
+13:46:32: XMLMeshSerializer export successful.
+13:46:32: Unregistering ResourceManager for type Skeleton
+13:46:32: Unregistering ResourceManager for type Material
+13:46:32: Unregistering ResourceManager for type Mesh

@@ -1,0 +1,11 @@
+F:\VSCODE\MOgreTest\bin\Release\MOgreTest.exe.config
+F:\VSCODE\MOgreTest\bin\Release\MOgreTest.exe
+F:\VSCODE\MOgreTest\bin\Release\MOgreTest.pdb
+F:\VSCODE\MOgreTest\bin\Release\Mogre.dll
+F:\VSCODE\MOgreTest\bin\Release\Mogre.xml
+F:\VSCODE\MOgreTest\obj\Release\ResolveAssemblyReference.cache
+F:\VSCODE\MOgreTest\obj\Release\MOgreTest.Form1.resources
+F:\VSCODE\MOgreTest\obj\Release\MOgreTest.Properties.Resources.resources
+F:\VSCODE\MOgreTest\obj\Release\MOgreTest.csproj.GenerateResource.Cache
+F:\VSCODE\MOgreTest\obj\Release\MOgreTest.exe
+F:\VSCODE\MOgreTest\obj\Release\MOgreTest.pdb

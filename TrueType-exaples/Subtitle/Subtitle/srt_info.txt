@@ -1,0 +1,2248 @@
+stat_time=2270 stop_time=3970 data:一个舞台  一整个夜晚
+stat_time=3970 stop_time=5350 data:准备登台亮相的明星有
+stat_time=5350 stop_time=7020 data:Eminem和Mick Jagger
+stat_time=7140 stop_time=9210 data:Rihanna和Barbra Streisand
+stat_time=9210 stop_time=11140 data:Miranda Lambert和Katy Perry
+stat_time=11210 stop_time=13080 data:Usher和Justin Bieber
+stat_time=13080 stop_time=14340 data:更多精彩  不容错过
+stat_time=14390 stop_time=16410 data:史上最震撼的格莱美颁奖典礼
+stat_time=16410 stop_time=18050 data:将掀起众多议论纷纭
+stat_time=18140 stop_time=21410 data:今晚的开场  让我们向这位音乐传奇人物
+stat_time=21410 stop_time=23710 data:致以最崇高的敬意
+stat_time=23730 stop_time=27250 data:灵魂乐女王Aretha Franklin
+stat_time=34560 stop_time=38430 data:奖项的获得者  Aretha Franklin
+stat_time=38430 stop_time=39860 data:恭喜Aretha Franklin
+stat_time=39860 stop_time=41230 data:获奖的是  Aretha Franklin小姐
+stat_time=41230 stop_time=42350 data:Aretha Franklin
+stat_time=42390 stop_time=43980 data:Aretha Franklin
+stat_time=44480 stop_time=47940 data:1975年表演曲目《Ain't Nothin'Like The Real Thing》
+stat_time=48470 stop_time=52040 data:1981年表演曲目《Can't Turn You Loose》
+stat_time=54600 stop_time=58420 data:1990年表演曲目《Freeway of Love》
+stat_time=60980 stop_time=64470 data:1994年表演曲目《Natual Woman》
+stat_time=67380 stop_time=70920 data:1998年表演曲目《Respect》
+stat_time=72830 stop_time=76080 data:1998年表演曲目《Nessum Dorma》
+stat_time=94030 stop_time=95410 data:女士们  先生们
+stat_time=95410 stop_time=98110 data:有请两次格莱美奖得主  LL Cool J
+stat_time=109360 stop_time=112560 data:Aretha Franklin这位灵魂乐的传奇人物
+stat_time=112560 stop_time=114220 data:永恒流传  万年不朽
+stat_time=117230 stop_time=119460 data:今晚她是我们心中的传奇女王
+stat_time=119460 stop_time=121010 data:是格莱美历史上的传奇女王
+stat_time=121240 stop_time=125120 data:她目前为止获得了18项格莱美大奖
+stat_time=126730 stop_time=129020 data:Aretha今晚在她底特律的家
+stat_time=129020 stop_time=130020 data:进行康复治疗
+stat_time=130030 stop_time=132390 data:很遗憾我们的女王今晚没能和我们一起
+stat_time=132390 stop_time=136600 data:但诸多才华横溢的音乐家们将同台向女王
+stat_time=136600 stop_time=141600 data:致-上-她-们-最-崇-高-的-敬-意
+stat_time=142300 stop_time=145180 data:向这位在格莱美的历史中不可或缺的女王致敬
+stat_time=145270 stop_time=147880 data:欢迎大家来到第五十三届格莱美现场
+stat_time=147930 stop_time=149970 data:在这个意义非凡的夜晚  揭开序幕
+stat_time=149970 stop_time=151650 data:我们掌声有请
+stat_time=151650 stop_time=154470 data:来自底特律的Greg Phillinganes带领的管弦乐队
+stat_time=154470 stop_time=155470 data:还有第一次同台亮相的
+stat_time=155470 stop_time=156750 data:Christina Aguilera
+stat_time=159220 stop_time=160720 data:Jennifer Hudson
+stat_time=162550 stop_time=165360 data:来自Florence and The Machine乐队的Florence Welch
+stat_time=167740 stop_time=171720 data:Yolanda Adams和Martina McBride
+stat_time=174010 stop_time=177550 data:[歌曲名]"Natual Woman"
+stat_time=175210 stop_time=179500 data:本字幕由YYeTs人人影视翻译制作
+更多字幕下载 请登陆 www.YYeTs.com
+stat_time=175210 stop_time=179500 data:■
+stat_time=175210 stop_time=179500 data:本字幕由YYeTs人人影视翻译制作
+更多字幕下载 请登陆 www.YYeTs.com
+stat_time=175210 stop_time=179500 data:本字幕由YYeTs人人影视翻译制作
+18更多字幕下载 请登陆 www.YYeTs.com
+stat_time=181030 stop_time=184910 data:<i>Looking out on the morning rain
+stat_time=181310 stop_time=186210 data:■
+stat_time=181310 stop_time=186210 data:翻译：  hoRIZon    米小勒    爱吃屎的鱼    顺田小子    泡泡龙    小怡
+stat_time=186180 stop_time=189610 data:<i>I used to feel uninspired
+stat_time=188040 stop_time=193040 data:■
+stat_time=188040 stop_time=193040 data:翻译：  小苗     小样      小Q     大卫熊     奶昔
+stat_time=192210 stop_time=196310 data:<i>And when I knew I had to face another day
+stat_time=195040 stop_time=200040 data:■
+stat_time=195040 stop_time=200040 data:翻译：  毛栗老弟弟     pisces黯淡      shelly      小猴子      小九
+stat_time=198080 stop_time=201330 data:<i>Lord, it made me feel so tired
+stat_time=202210 stop_time=207210 data:■
+stat_time=202210 stop_time=207210 data:时间轴：  小猫     泡泡龙      贝壳     小穗
+stat_time=203640 stop_time=208430 data:<i>Before the day I met you life was so unkind
+stat_time=209160 stop_time=213690 data:<i>But your love was the key to peace my mind
+stat_time=209210 stop_time=214210 data:■
+stat_time=209210 stop_time=214210 data:校对：  泡泡龙     米小勒      大卫熊      毛栗老弟弟      小九
+stat_time=213690 stop_time=216090 data:<i>Cause you make me feel
+stat_time=216210 stop_time=221610 data:■
+stat_time=216210 stop_time=221610 data:后期：   ZWCJY_0908(胖胖)      监制：  米小勒      小九
+stat_time=216650 stop_time=219140 data:<i>You make me feel
+stat_time=219800 stop_time=222510 data:<i>You make me feel like
+stat_time=222510 stop_time=227310 data:<i>A natural woman (Woman)
+stat_time=232540 stop_time=234290 data:<i>Ain't no way
+stat_time=236970 stop_time=241240 data:<i>Ain't no way for me to love you
+stat_time=243260 stop_time=247370 data:<i>If you won't let me
+stat_time=252300 stop_time=257020 data:<i>Oh, but how can I, how can I, how can I
+stat_time=258930 stop_time=262370 data:<i>Give you all the things
+stat_time=264800 stop_time=268880 data:<i>If you're tying both of my hands
+stat_time=273030 stop_time=275370 data:<i>Oh, it ain't no way
+stat_time=276030 stop_time=279260 data:<i>Ain't no way
+stat_time=279260 stop_time=282570 data:<i>It ain't no way
+stat_time=282570 stop_time=285040 data:<i>Ain't no way
+stat_time=285780 stop_time=289690 data:<i>It just ain't no way, baby
+stat_time=289690 stop_time=291830 data:<i>Ain't no way
+stat_time=294830 stop_time=298100 data:<i>Ain't no way, baby
+stat_time=303070 stop_time=305950 data:<i>For me to love you
+stat_time=307140 stop_time=311330 data:<i>If you won't let me
+stat_time=311390 stop_time=313540 data:<i>Baby baby baby
+stat_time=323190 stop_time=324860 data:<i>Ain't no way
+stat_time=324860 stop_time=328250 data:<i>Ain't no way, baby
+stat_time=328300 stop_time=333100 data:<i>For me to love you
+stat_time=342580 stop_time=344810 data:[歌曲名]《Until You Come Back to Me》
+stat_time=342580 stop_time=344810 data:女士们  先生们  有请Martina McBride
+stat_time=345020 stop_time=349210 data:<i>I sit and wait in vain
+stat_time=351550 stop_time=354580 data:<i>I guess I'll rap on your door
+stat_time=354850 stop_time=359360 data:<i>Tap on your window pane
+stat_time=362510 stop_time=364580 data:<i>I wanna tell you, baby
+stat_time=364580 stop_time=367990 data:<i>Changes I've been going through
+stat_time=368750 stop_time=371790 data:<i>Missing you, missing you
+stat_time=372270 stop_time=375000 data:<i>Til you come back to me
+stat_time=375900 stop_time=378040 data:<i>That's what I'm gonna do
+stat_time=382340 stop_time=384900 data:<i>Till you come back to me
+stat_time=384900 stop_time=387770 data:<i>That's what I'm gonna do
+stat_time=392060 stop_time=395240 data:<i>Till you come back to me
+stat_time=396710 stop_time=398430 data:<i>That's
+stat_time=398430 stop_time=401810 data:<i>What I'm
+stat_time=401810 stop_time=405870 data:<i>Gonna
+stat_time=405870 stop_time=408370 data:<i>Do
+stat_time=413810 stop_time=415750 data:女士们  先生们  有请来自
+stat_time=415750 stop_time=417850 data:Florence and The Machine乐队的Florence Welch
+stat_time=416060 stop_time=416980 data:[歌曲名]《Think》
+stat_time=418530 stop_time=420530 data:<i>Think about what you're trying to do to me
+stat_time=420530 stop_time=422870 data:<i>Yeah, think (think, think)
+stat_time=422870 stop_time=424890 data:<i>Let your mind go, let yourself be free
+stat_time=425790 stop_time=427400 data:<i>Let's go back, let's go back
+stat_time=427400 stop_time=429530 data:<i>Let's go way back when
+stat_time=429740 stop_time=431800 data:<i>I didn't even know you
+stat_time=431800 stop_time=433500 data:<i>You couldn't have been too much more than ten
+stat_time=433500 stop_time=434320 data:<i>(Just a child)
+stat_time=434320 stop_time=435800 data:<i>I ain't no psychiatrist
+stat_time=435820 stop_time=437970 data:<i>I ain't no doctor with degree
+stat_time=438320 stop_time=440840 data:<i>It don't take too much high IQ's
+stat_time=440840 stop_time=442150 data:<i>To see what you're trying to do to me
+stat_time=442150 stop_time=443620 data:<i>Yeah, you better think
+stat_time=444310 stop_time=446450 data:<i>Think what you're trying to do to me
+stat_time=447260 stop_time=448550 data:<i>Think
+stat_time=448550 stop_time=450740 data:<i>Let your mind go, let yourself be free
+stat_time=450750 stop_time=455390 data:<i>Oh freedom (freedom), freedom (freedom)
+stat_time=455720 stop_time=458990 data:<i>Freedom, yeah freedom
+stat_time=459930 stop_time=464090 data:<i>Freedom (freedom), freedom (freedom)
+stat_time=464470 stop_time=467670 data:<i>Freedom, oh freedom
+stat_time=471440 stop_time=473320 data:<i>What you want
+stat_time=472370 stop_time=474790 data:女士们  先生们  有请Jennifer Hudson
+stat_time=473490 stop_time=474760 data:<i>Baby, I got
+stat_time=473810 stop_time=475210 data:[歌曲名]《Respect》
+stat_time=475510 stop_time=477190 data:<i>What you need
+stat_time=477900 stop_time=479230 data:<i>Do you know I got it
+stat_time=479790 stop_time=481620 data:<i>All I'm askin'
+stat_time=481850 stop_time=484180 data:<i>Is for a little respect when you come home
+stat_time=483680 stop_time=484690 data:<i>(Just a little bit)
+stat_time=484690 stop_time=486540 data:<i>Hey baby (just a little bit)
+stat_time=486540 stop_time=487720 data:<i>When you get home
+stat_time=487720 stop_time=489690 data:<i>(Just a little bit) mister
+stat_time=489810 stop_time=490950 data:<i>(Just a little bit)
+stat_time=500220 stop_time=501660 data:<i>Ooo, your kisses
+stat_time=502210 stop_time=503520 data:<i>Sweeter than honey
+stat_time=504570 stop_time=506040 data:<i>And guess what
+stat_time=506410 stop_time=507950 data:<i>So is my money
+stat_time=508790 stop_time=511560 data:<i>And all I want you to do for me
+stat_time=511790 stop_time=513040 data:<i>Is give it to me
+stat_time=512870 stop_time=514790 data:<i>(Re, re, re ,re)
+stat_time=513900 stop_time=515300 data:<i>Yeah baby
+stat_time=515380 stop_time=516090 data:<i>When you get home
+stat_time=516770 stop_time=518210 data:<i>(Respect, just a little bit)
+stat_time=518870 stop_time=520300 data:<i>When you get home, now (just a little bit)
+stat_time=520450 stop_time=522730 data:<i>R-E-S-P-E-C-T
+stat_time=522730 stop_time=524780 data:<i>Find out what it means to me
+stat_time=524800 stop_time=526860 data:<i>R-E-S-P-E-C-T
+stat_time=526970 stop_time=529080 data:<i>Take care, TCB
+stat_time=529080 stop_time=530820 data:<i>Oh (Sock it to me)
+stat_time=530820 stop_time=531930 data:<i>A little respect
+stat_time=535150 stop_time=537220 data:<i>A little respect
+stat_time=537220 stop_time=538640 data:<i>I get tired
+stat_time=539070 stop_time=540420 data:<i>Keep on tryin'
+stat_time=541210 stop_time=543160 data:<i>Your're running out of food
+stat_time=543220 stop_time=547390 data:<i>And I ain't lying
+stat_time=567960 stop_time=569570 data:[歌名]《Spirit In the Dark》
+stat_time=569930 stop_time=572520 data:<i>Hey, I'm getting the spirit
+stat_time=572740 stop_time=573810 data:女士们先生们
+stat_time=573960 stop_time=575550 data:有请Yolanda Adams
+stat_time=574780 stop_time=576420 data:<i>In the dark
+stat_time=578430 stop_time=581610 data:<i>I'm getting the spirit
+stat_time=583160 stop_time=585200 data:<i>In the dark
+stat_time=587260 stop_time=589850 data:<i>People moving
+stat_time=590640 stop_time=594050 data:<i>Aw, ain't we groovin
+stat_time=594960 stop_time=598590 data:<i>Cause I give it the spirit
+stat_time=599460 stop_time=602980 data:<i>In the dark (in the dark)
+stat_time=605070 stop_time=607830 data:<i>It's like sally walker
+stat_time=609310 stop_time=611600 data:<i>Sittin' in a saucer
+stat_time=613020 stop_time=615420 data:<i>That's how ya do it
+stat_time=616950 stop_time=619870 data:<i>Now, get on up to it
+stat_time=620870 stop_time=623800 data:<i>Rise, sally, rise
+stat_time=623830 stop_time=626000 data:<i>Put your hands in the air
+stat_time=626040 stop_time=627760 data:<i>And cover your eyes
+stat_time=627760 stop_time=629150 data:<i>So just move
+stat_time=629520 stop_time=631070 data:<i>In the spirit
+stat_time=631070 stop_time=633540 data:<i>Hey move
+stat_time=633540 stop_time=634980 data:<i>In the spirit
+stat_time=634980 stop_time=638740 data:<i>Hey in the spirit
+stat_time=639020 stop_time=642240 data:<i>So let it go yeah yeah yeah yeah
+stat_time=649890 stop_time=652000 data:<i>Now, there was a time
+stat_time=653020 stop_time=655490 data:<i>When they used to say
+stat_time=656550 stop_time=658490 data:<i>That behind every
+stat_time=658490 stop_time=660110 data:<i>Great man
+stat_time=660530 stop_time=661790 data:<i>There had to be
+stat_time=661980 stop_time=663540 data:<i>A great woman
+stat_time=664600 stop_time=667700 data:<i>But all in these times of change
+stat_time=667740 stop_time=669090 data:<i>You know that it's
+stat_time=669160 stop_time=671440 data:<i>No longer true
+stat_time=671750 stop_time=674750 data:<i>So we're comin' out of the kitchen
+stat_time=675060 stop_time=678800 data:<i>Cause there's somethin'we forgot to say to you
+stat_time=678800 stop_time=681810 data:<i>We say sisters are doin' it
+stat_time=681810 stop_time=683980 data:<i>For themselves
+stat_time=685170 stop_time=686080 data:<i>Standin' on
+stat_time=686080 stop_time=687820 data:<i>Their own two feet
+stat_time=688460 stop_time=691340 data:<i>And ringin' on their own bells
+stat_time=692990 stop_time=697270 data:<i>Sisters are doin' it for themselves
+stat_time=699220 stop_time=703280 data:<i>Now, we ain't makin' stories
+stat_time=703630 stop_time=706650 data:<i>And we ain't layin' plans
+stat_time=706650 stop_time=709440 data:<i>Cause a man still loves a woman
+stat_time=709910 stop_time=712810 data:<i>And a woman still loves a man
+stat_time=712810 stop_time=713920 data:<i>Just the same
+stat_time=713920 stop_time=718570 data:<i>Sisters are doin' it for themselves
+stat_time=719810 stop_time=722500 data:<i>Standin' on their own two feet
+stat_time=723320 stop_time=726400 data:<i>And ringin' on their own bells
+stat_time=727770 stop_time=732210 data:<i>Sisters are doin' it for themselves
+stat_time=732210 stop_time=733570 data:<i>One more time
+stat_time=734780 stop_time=738840 data:<i>Sisters are doin' it for themselves
+stat_time=741820 stop_time=745670 data:<i>Sisters are doin' it for
+stat_time=746980 stop_time=750110 data:<i>Themselves
+stat_time=783220 stop_time=784910 data:谢谢女士们  我爱你们
+stat_time=785690 stop_time=787310 data:女士们先生们  晚上好
+stat_time=787310 stop_time=789650 data:以及各位格莱美获奖歌手们
+stat_time=790020 stop_time=792330 data:我无法表达今夜与你们共聚
+stat_time=792330 stop_time=794250 data:我的内心是多么的激动
+stat_time=794580 stop_time=798790 data:我要在这个特别的时刻
+stat_time=799210 stop_time=802290 data:感谢长久以来  这位充满幻想的
+stat_time=802290 stop_time=805360 data:格莱美颁奖礼制片人Ken Earlig先生
+stat_time=805360 stop_time=806690 data:非常感谢你  Ken
+stat_time=807170 stop_time=810690 data:我还要特别感谢所有花时间
+stat_time=810690 stop_time=814530 data:送给我康复卡片  鲜花
+stat_time=814530 stop_time=816490 data:美丽鲜花的朋友们
+stat_time=818080 stop_time=821290 data:也正是你们的祈祷
+stat_time=821500 stop_time=823940 data:陪伴了我在院中的治疗时光
+stat_time=824420 stop_time=827800 data:我还要感谢Clive Davis先生
+stat_time=828140 stop_time=831120 data:对我的关心和为我写的贴心的信
+stat_time=831590 stop_time=834140 data:我也希望能跟大家今晚欢聚一堂
+stat_time=834140 stop_time=836130 data:但是我今年是来不了了
+stat_time=836130 stop_time=837320 data:相约明年如何
+stat_time=837790 stop_time=840060 data:致所有的格莱美奖项提名歌手们
+stat_time=840110 stop_time=841260 data:祝你们好运
+stat_time=841590 stop_time=843820 data:感谢你们  我爱你们
+stat_time=843820 stop_time=844810 data:愿今夜过的愉快
+stat_time=846570 stop_time=850020 data:第53届格莱美奖接下来的演出
+stat_time=850150 stop_time=852690 data:注定成为街知巷闻的谈资
+stat_time=852690 stop_time=853900 data:将由Lady GAGA
+stat_time=854060 stop_time=856700 data:Bruno Mars  B.O.B以及Janelle Monae
+stat_time=856910 stop_time=858480 data:Justin Bieber和Usher
+stat_time=858760 stop_time=860310 data:Bob Dylan和Mumford & Sons
+stat_time=860310 stop_time=861860 data:以及The Avett Brothers
+stat_time=861860 stop_time=863940 data:Cee Lo Green和Gwyneth Paltrow
+stat_time=864110 stop_time=866470 data:Eminem和Rihanna以及Dr. Dre
+stat_time=866730 stop_time=867800 data:Lady Antebellum
+stat_time=867800 stop_time=869240 data:Barbara Streisand
+stat_time=869260 stop_time=870340 data:Katy Perry
+stat_time=870340 stop_time=874190 data:以及格莱美首次登台的Mick Jagger
+stat_time=874830 stop_time=876390 data:第53届格莱美颁奖典礼由
+stat_time=876390 stop_time=880770 data:令你美艳动人的封面女郎[彩妆品牌]
+stat_time=883100 stop_time=885710 data:以及雪佛兰2011年春季登场的
+stat_time=885970 stop_time=888050 data:卡玛罗敞篷跑车倾情赞助
+stat_time=911850 stop_time=913910 data:我们一同组团前来
+stat_time=913910 stop_time=917360 data:纪念我们心中挚爱的皇后Aretha
+stat_time=920550 stop_time=922360 data:那真的是个性感的收尾
+stat_time=922870 stop_time=925290 data:我们很荣幸站在这里
+stat_time=925290 stop_time=926630 data:颁发今晚第一个格莱美奖项
+stat_time=926630 stop_time=930190 data:最佳流行组合演唱奖
+stat_time=930190 stop_time=931700 data:下面是提名者
+stat_time=939100 stop_time=943050 data:欢乐合唱团  《Don't Stop Believin'》
+stat_time=947010 stop_time=948980 data:Maroon5  《Misery》
+stat_time=956220 stop_time=958360 data:Paramore  《The Only Exception》
+stat_time=965240 stop_time=967290 data:Sade  《Babyfather》
+stat_time=971400 stop_time=973970 data:Train  《Hey, Soul Sister》现场版
+stat_time=982640 stop_time=983790 data:得奖者是...
+stat_time=983790 stop_time=986080 data:Train  《Hey, Soul Sister》现场版
+stat_time=1012420 stop_time=1013900 data:我真是有点吓呆了
+stat_time=1014970 stop_time=1017660 data:感谢Justin Bbieber没有入围流行组合演唱奖
+stat_time=1022840 stop_time=1025420 data:我们三人一路经历了很多
+stat_time=1025940 stop_time=1027210 data:很高兴我们能回到这里来
+stat_time=1027210 stop_time=1030400 data:感谢你们过去几年来对我们的支持
+stat_time=1030670 stop_time=1032750 data:感谢这么多人能在我们不自信的时候
+stat_time=1032990 stop_time=1036130 data:依旧坚信我们  支持我们
+stat_time=1036430 stop_time=1038400 data:感谢Jonathan Danile和Bob McLin
+stat_time=1038400 stop_time=1040580 data:挽救了我们的事业
+stat_time=1042190 stop_time=1044000 data:感谢Rob Stringer和Steve Barnett
+stat_time=1044000 stop_time=1045180 data:给了我们又一次机会
+stat_time=1045180 stop_time=1049870 data:感谢Lisa Sankin  John Boris  Jim Burris
+stat_time=1049870 stop_time=1053790 data:以及哥伦比亚公司的每个朋友
+stat_time=1054470 stop_time=1055600 data:天呐  要感谢好多人
+stat_time=1055600 stop_time=1057870 data:感谢Jim和Greg Watenberg以及
+stat_time=1057870 stop_time=1062280 data:所有制作这张专辑的人  感谢所有人
+stat_time=1062280 stop_time=1063090 data:真的很感谢你们
+stat_time=1063090 stop_time=1064150 data:现在换Howard来说
+stat_time=1064300 stop_time=1065400 data:感谢我们的粉丝
+stat_time=1068750 stop_time=1070930 data:女士们先生们  掌声欢迎
+stat_time=1070930 stop_time=1072880 data:格莱美奖得主  Ricky Martin
+stat_time=1078920 stop_time=1081080 data:去年  她与Elton John先生
+stat_time=1081080 stop_time=1082720 data:为格莱美献上了一场华丽的开场秀
+stat_time=1082720 stop_time=1084160 data:并抱走了两项格莱美大奖
+stat_time=1084350 stop_time=1086150 data:今晚她准备好赢得另一项格莱美奖
+stat_time=1086150 stop_time=1089190 data:她要与大家分享一首很有意义的歌
+stat_time=1089190 stop_time=1090360 data:这首歌鼓励人们勇敢去爱
+stat_time=1090380 stop_time=1091900 data:并坚持做你自己
+stat_time=1092040 stop_time=1094310 data:这是她首次现场演唱她的新单曲
+stat_time=1094310 stop_time=1095120 data:《Born This Way》
+stat_time=1095120 stop_time=1096630 data:有请Lady Gaga
+stat_time=1107090 stop_time=1109020 data:<i>It doesn't matter if you love him
+stat_time=1109170 stop_time=1111860 data:<i>Or capital h-i-m
+stat_time=1117030 stop_time=1118610 data:<i>Just put your paws up
+stat_time=1119470 stop_time=1121400 data:<i>'Cause you were born this way, baby
+stat_time=1133430 stop_time=1136860 data:<i>My mama told me when I was young
+stat_time=1137240 stop_time=1140310 data:<i>We are all born superstars
+stat_time=1141360 stop_time=1144740 data:<i>She rolled my hair and put my lipstick on
+stat_time=1144740 stop_time=1147570 data:<i>In the glass of her boudoir
+stat_time=1149260 stop_time=1152110 data:<i>"There's nothin wrong with lovin who you are"
+stat_time=1152110 stop_time=1154940 data:<i>She said, "'cause he made you perfect, babe"
+stat_time=1156740 stop_time=1158380 data:<i>So hold your head up girl
+stat_time=1158380 stop_time=1160240 data:<i>And you'll go far,
+stat_time=1160240 stop_time=1162720 data:<i>Listen to me when I say"
+stat_time=1163580 stop_time=1165580 data:<i>I'm beautiful in my way
+stat_time=1165580 stop_time=1167520 data:<i>'Cause god makes no mistakes
+stat_time=1167520 stop_time=1169750 data:<i>I'm on the right track baby
+stat_time=1169750 stop_time=1171360 data:<i>I was born this way
+stat_time=1171360 stop_time=1173360 data:<i>Don't hide yourself in regret
+stat_time=1173360 stop_time=1175220 data:<i>Just love yourself and you're set
+stat_time=1175220 stop_time=1177450 data:<i>I'm on the right track baby
+stat_time=1177450 stop_time=1179390 data:<i>I was born this way
+stat_time=1180040 stop_time=1181660 data:<i>Ooo there ain't no other way
+stat_time=1181660 stop_time=1183490 data:<i>Baby I was born this way
+stat_time=1183490 stop_time=1186470 data:<i>Baby I was born this way
+stat_time=1186820 stop_time=1188070 data:<i>Born this way
+stat_time=1188070 stop_time=1189430 data:<i>Ooo there ain't no other way
+stat_time=1190600 stop_time=1193040 data:<i>I'm on the right track baby
+stat_time=1193040 stop_time=1194880 data:<i>I was born this way
+stat_time=1195190 stop_time=1196210 data:<i>Don't be a drag
+stat_time=1196210 stop_time=1197010 data:<i>Just be a queen
+stat_time=1197010 stop_time=1197900 data:<i>Don't be a drag
+stat_time=1197900 stop_time=1198870 data:<i>Just be a queen
+stat_time=1198870 stop_time=1199880 data:<i>Don't be a drag
+stat_time=1199880 stop_time=1200870 data:<i>Just be a queen
+stat_time=1200870 stop_time=1201620 data:<i>Don't be
+stat_time=1203020 stop_time=1204860 data:<i>Give yourself prudence
+stat_time=1204860 stop_time=1206590 data:<i>And love your friends
+stat_time=1206600 stop_time=1209150 data:<i>Subway kid, rejoice your truth
+stat_time=1211270 stop_time=1214230 data:<i>In the religion of the insecure
+stat_time=1214230 stop_time=1216760 data:<i>I must be myself, respect my youth
+stat_time=1218440 stop_time=1221470 data:<i>A different lover is not a sin
+stat_time=1221850 stop_time=1224680 data:<i>Believe capital h-i-m
+stat_time=1224680 stop_time=1226300 data:<i>Hey hey hey
+stat_time=1226300 stop_time=1229130 data:<i>I love my life I love this record
+stat_time=1229130 stop_time=1232120 data:<i>And mi amore vole fe yah
+stat_time=1233400 stop_time=1235170 data:<i>I'm beautiful in my way
+stat_time=1235170 stop_time=1237170 data:<i>'Cause god makes no mistakes
+stat_time=1237170 stop_time=1239330 data:<i>I'm on the right track baby
+stat_time=1239330 stop_time=1240970 data:<i>I was born this way
+stat_time=1240970 stop_time=1242840 data:<i>Don't hide yourself in regret
+stat_time=1242840 stop_time=1244820 data:<i>Just love yourself and you're set
+stat_time=1244820 stop_time=1247040 data:<i>I'm on the right track baby
+stat_time=1247040 stop_time=1248960 data:<i>I was born this way
+stat_time=1249290 stop_time=1251250 data:<i>Ooo there ain't no other way
+stat_time=1251250 stop_time=1253200 data:<i>Baby I was born this way
+stat_time=1253200 stop_time=1255870 data:<i>Baby I was born this way
+stat_time=1256270 stop_time=1257630 data:<i>Born this way
+stat_time=1257630 stop_time=1259410 data:<i>Ooo there ain't no other way
+stat_time=1260300 stop_time=1262780 data:<i>I'm on the right track baby
+stat_time=1262780 stop_time=1264590 data:<i>Baby I was born this way
+stat_time=1268500 stop_time=1269500 data:<i>Don't be
+stat_time=1272360 stop_time=1273330 data:<i>Don't be a drag
+stat_time=1273330 stop_time=1274470 data:<i>Just be a queen
+stat_time=1274470 stop_time=1276340 data:<i>Whether you're broke or evergreen
+stat_time=1276340 stop_time=1278290 data:<i>You're black, white, beige，chola descent
+stat_time=1278290 stop_time=1279380 data:<i>You're lebanese
+stat_time=1279380 stop_time=1280390 data:<i>You're orient
+stat_time=1280390 stop_time=1282150 data:<i>Whether life's disabilities
+stat_time=1282150 stop_time=1283380 data:<i>Left you outcast
+stat_time=1283380 stop_time=1284310 data:<i>Bullied or teased
+stat_time=1284330 stop_time=1285890 data:<i>Rejoice and love yourself today
+stat_time=1285890 stop_time=1288330 data:<i>'Cause baby you were born this way
+stat_time=1305200 stop_time=1308250 data:<i>No matter gay, straight, or bi
+stat_time=1308250 stop_time=1310810 data:<i>Lesbian, transgendered life
+stat_time=1310810 stop_time=1314190 data:<i>I'm on the right track, baby
+stat_time=1314190 stop_time=1317710 data:<i>I was born to survive
+stat_time=1317780 stop_time=1319900 data:<i>Survive
+stat_time=1321370 stop_time=1322170 data:大家一起来
+stat_time=1322650 stop_time=1324260 data:<i>Ooo there ain't no other way
+stat_time=1324260 stop_time=1326180 data:<i>Baby I was born this way
+stat_time=1327270 stop_time=1329230 data:<i>Baby I was born this way
+stat_time=1335080 stop_time=1337530 data:<i>Baby I was born this way
+stat_time=1339420 stop_time=1341360 data:<i>I was born this way
+stat_time=1341770 stop_time=1343570 data:<i>Right track, baby
+stat_time=1343570 stop_time=1345680 data:<i>I was born this way hey
+stat_time=1347110 stop_time=1349260 data:<i>I was born this way hey
+stat_time=1349260 stop_time=1351130 data:<i>I'm on the right track, baby
+stat_time=1351130 stop_time=1353200 data:<i>I was born this way hey
+stat_time=1382300 stop_time=1383520 data:即将呈现
+stat_time=1383570 stop_time=1385010 data:更多精彩的格莱美现场表演
+stat_time=1385010 stop_time=1386930 data:包括Miranda Lambert  Muse
+stat_time=1387050 stop_time=1387970 data:Bruno Mars与
+stat_time=1387970 stop_time=1389830 data:B.O.B和Janelle Mona的强强联手
+stat_time=1389830 stop_time=1390780 data:Justin Bierber与
+stat_time=1390780 stop_time=1392510 data:Usher和Jahen Smith同台献唱
+stat_time=1392800 stop_time=1393960 data:更晚些  还将有Bob Dylan
+stat_time=1394130 stop_time=1395470 data:Lady Antebellum
+stat_time=1395470 stop_time=1396590 data:Cee Lo Green
+stat_time=1396590 stop_time=1397670 data:与Gwyneth Paltrow的联手合唱
+stat_time=1397670 stop_time=1398560 data:Katy Perry
+stat_time=1398570 stop_time=1400250 data:还有Rihanna  Dr.Dre与
+stat_time=1400250 stop_time=1402420 data:获本届格莱美十项提名的Eminem携手
+stat_time=1402420 stop_time=1404730 data:为您献上难忘的表演
+stat_time=1405010 stop_time=1406820 data:精彩尽在YYeTs
+stat_time=1407700 stop_time=1408770 data:格莱美的粉丝们
+stat_time=1408770 stop_time=1411210 data:确定自己认真看了今晚的节目吗
+stat_time=1411210 stop_time=1413680 data:你可以"走走瞧瞧"YYeTs.com网站
+stat_time=1413680 stop_time=1414640 data:只要你看到这枚标志
+stat_time=1414670 stop_time=1417070 data:回答关于节目的问题
+stat_time=1417070 stop_time=1419680 data:就有机会成为明年格莱美的观众
+stat_time=1425550 stop_time=1426970 data:女士们  先生们
+stat_time=1426970 stop_time=1428040 data:掌声有请Blake Shelton
+stat_time=1442190 stop_time=1445500 data:当我说我爱下一位出场的歌手
+stat_time=1446530 stop_time=1450860 data:我的意思是我真的爱这位歌手
+stat_time=1450860 stop_time=1453770 data:她不仅是世界上最有才华的女人
+stat_time=1454340 stop_time=1456060 data:她还正好是我的未婚妻
+stat_time=1457060 stop_time=1457810 data:哥老给力了
+stat_time=1458810 stop_time=1459820 data:女士们  先生们
+stat_time=1460160 stop_time=1462740 data:下面这首歌《The house that built me》
+stat_time=1463050 stop_time=1466920 data:获得今晚的两项年度歌曲提名
+stat_time=1467370 stop_time=1469450 data:有请最美丽  最有才
+stat_time=1469450 stop_time=1472130 data:最独一无二的Miranda Lambert
+stat_time=1476630 stop_time=1478010 data:今晚我演唱的这首歌
+stat_time=1478010 stop_time=1480370 data:要献给所有优秀的艺术家前辈
+stat_time=1480370 stop_time=1482040 data:他们为我们铺设了今天的这个舞台
+stat_time=1482040 stop_time=1483180 data:造就了今天的我们
+stat_time=1488560 stop_time=1489980 data:<i>I know they say
+stat_time=1490870 stop_time=1493140 data:<i>You can't go home again
+stat_time=1496100 stop_time=1499900 data:<i>I just had to come back one last time
+stat_time=1501830 stop_time=1503550 data:<i>Ma'am I know
+stat_time=1503550 stop_time=1506320 data:<i>You don't know me from Adam
+stat_time=1507770 stop_time=1509210 data:<i>But these handprints
+stat_time=1509210 stop_time=1512260 data:<i>On the front steps are mine
+stat_time=1513820 stop_time=1515400 data:<i>Up those stairs
+stat_time=1516110 stop_time=1518930 data:<i>In that little back bedroom
+stat_time=1520550 stop_time=1522340 data:<i>Is where I did my homework
+stat_time=1522340 stop_time=1524880 data:<i>And I learned to play guitar
+stat_time=1526830 stop_time=1529240 data:<i>I bet you didn't know
+stat_time=1530490 stop_time=1532800 data:<i>Under that live oak
+stat_time=1533290 stop_time=1537580 data:<i>My favorite dog is buried in the yard
+stat_time=1539640 stop_time=1544290 data:<i>I thought if I could touch this place or feel it
+stat_time=1545980 stop_time=1550440 data:<i>This brokenness inside me might start healing
+stat_time=1552130 stop_time=1555510 data:<i>Out here it's like I'm someone else
+stat_time=1555510 stop_time=1559890 data:<i>I thought that maybe I could find myself
+stat_time=1561820 stop_time=1566120 data:<i>If I could just come in I swear I'll leave
+stat_time=1567070 stop_time=1570040 data:<i>Won't take nothing but a memory
+stat_time=1570940 stop_time=1575760 data:<i>From the house that built me
+stat_time=1580500 stop_time=1582670 data:<i>Mama cut out pictures
+stat_time=1582670 stop_time=1584990 data:<i>Of houses for years
+stat_time=1587050 stop_time=1588860 data:<i>From Better Homes
+stat_time=1588860 stop_time=1591040 data:<i>And Gardens magazine
+stat_time=1592740 stop_time=1595700 data:<i>Plans were drawn and concrete poured
+stat_time=1595700 stop_time=1598840 data:<i>Nail by nail and board by board
+stat_time=1600710 stop_time=1603650 data:<i>Daddy gave life to mama's dream
+stat_time=1606000 stop_time=1610940 data:<i>I thought if I could touch this place or feel it
+stat_time=1612360 stop_time=1616890 data:<i>This brokenness inside me might start healing
+stat_time=1618400 stop_time=1621810 data:<i>Out here it's like I'm someone else
+stat_time=1621810 stop_time=1623310 data:<i>I thought that maybe
+stat_time=1623310 stop_time=1626290 data:<i>I could find myself
+stat_time=1628030 stop_time=1630190 data:<i>If I could just come in
+stat_time=1630190 stop_time=1632070 data:<i>I swear I'll leave
+stat_time=1633240 stop_time=1635840 data:<i>Won't take nothing but a memory
+stat_time=1637200 stop_time=1641930 data:<i>From the house that built me
+stat_time=1646750 stop_time=1648940 data:<i>You leave home
+stat_time=1648940 stop_time=1650300 data:<i>And move on
+stat_time=1650300 stop_time=1652750 data:<i>You do the best you can
+stat_time=1653260 stop_time=1656530 data:<i>I got lost in this old world
+stat_time=1656530 stop_time=1661290 data:<i>And forgot who I am
+stat_time=1664700 stop_time=1666310 data:<i>I thought if I could
+stat_time=1666310 stop_time=1669950 data:<i>Touch this place or feel it
+stat_time=1670910 stop_time=1673710 data:<i>This brokenness inside me
+stat_time=1673710 stop_time=1675870 data:<i>Might start healing
+stat_time=1677270 stop_time=1678230 data:<i>Out here
+stat_time=1678230 stop_time=1680430 data:<i>It's like I'm someone else
+stat_time=1680430 stop_time=1681850 data:<i>I thought that maybe
+stat_time=1681850 stop_time=1685220 data:<i>I could find myself
+stat_time=1686850 stop_time=1689090 data:<i>If I could walk around
+stat_time=1689090 stop_time=1690990 data:<i>I swear I'll leave
+stat_time=1692060 stop_time=1695280 data:<i>Won't take nothing but a memory
+stat_time=1695990 stop_time=1700990 data:<i>From the house that built me
+stat_time=1731780 stop_time=1735370 data:有请四次获得格莱美奖的Lenny Kravitz
+stat_time=1744620 stop_time=1746320 data:有的乐队开场演唱会
+stat_time=1746320 stop_time=1747770 data:在场的人会纷纷起立喝彩
+stat_time=1748420 stop_time=1749460 data:下面这个乐队
+stat_time=1749460 stop_time=1751240 data:每次占据舞台都会出现如此盛况
+stat_time=1751770 stop_time=1754500 data:请起立欢迎过去几年叱咤世界
+stat_time=1754540 stop_time=1757010 data:今晚获得三项提名
+stat_time=1757200 stop_time=1760400 data:在格莱美舞台上初次亮相的
+stat_time=1760400 stop_time=1762620 data:独一无二的英国Muse乐队
+stat_time=1801600 stop_time=1804600 data:<i>Paranoia is in bloom
+stat_time=1804600 stop_time=1806560 data:<i>The P.R. Transmissions
+stat_time=1806560 stop_time=1808250 data:<i>Will resume
+stat_time=1808250 stop_time=1810080 data:<i>They'll try to push drugs
+stat_time=1810080 stop_time=1811650 data:<i>That keep us all dumbed down
+stat_time=1811650 stop_time=1813290 data:<i>And hope that we will
+stat_time=1813290 stop_time=1815670 data:<i>Never see the truth around
+stat_time=1815670 stop_time=1816760 data:<i>So come on
+stat_time=1816760 stop_time=1819530 data:<i>Another promise, another seed
+stat_time=1819530 stop_time=1821310 data:<i>Another packaged lie
+stat_time=1821310 stop_time=1823140 data:<i>To keep us trapped in greed
+stat_time=1823140 stop_time=1825030 data:<i>And all the green belts
+stat_time=1825030 stop_time=1826850 data:<i>Wrapped around our minds
+stat_time=1826850 stop_time=1828770 data:<i>And endless red tape
+stat_time=1828770 stop_time=1830480 data:<i>To keep the truth confined
+stat_time=1830550 stop_time=1831830 data:<i>So come on
+stat_time=1838580 stop_time=1842280 data:<i>They will not
+stat_time=1842280 stop_time=1845520 data:<i>Force us
+stat_time=1846060 stop_time=1848780 data:<i>They will stop
+stat_time=1848830 stop_time=1853030 data:<i>Degrading us
+stat_time=1853530 stop_time=1856330 data:<i>They will not
+stat_time=1856520 stop_time=1860500 data:<i>Control us
+stat_time=1860860 stop_time=1862960 data:<i>We will
+stat_time=1863240 stop_time=1868160 data:<i>Be victorious
+stat_time=1868240 stop_time=1869510 data:<i>So come on
+stat_time=1872640 stop_time=1875610 data:<i>Interchanging mind control
+stat_time=1875610 stop_time=1877990 data:<i>Come let the revolution
+stat_time=1877990 stop_time=1879530 data:<i>Take its toll
+stat_time=1879530 stop_time=1881280 data:<i>If you could flick the switch
+stat_time=1881280 stop_time=1883190 data:<i>And open your third eye
+stat_time=1883190 stop_time=1884650 data:<i>You'd see that we should
+stat_time=1884650 stop_time=1886780 data:<i>Never be afraid to die
+stat_time=1886780 stop_time=1887920 data:<i>So come on
+stat_time=1887920 stop_time=1890430 data:<i>Rise up and take the power back
+stat_time=1890430 stop_time=1892400 data:<i>It's time the fat cats
+stat_time=1892400 stop_time=1894230 data:<i>Had a heart attack
+stat_time=1894230 stop_time=1896510 data:<i>You know that their time has
+stat_time=1896510 stop_time=1898000 data:<i>Come to an end
+stat_time=1898000 stop_time=1899950 data:<i>We have to unify
+stat_time=1899950 stop_time=1901970 data:<i>And watch our flag ascend
+stat_time=1901970 stop_time=1903180 data:<i>So come on
+stat_time=1910000 stop_time=1913460 data:<i>They will not
+stat_time=1913460 stop_time=1916340 data:<i>Force us
+stat_time=1917070 stop_time=1920080 data:<i>They will stop
+stat_time=1920140 stop_time=1924140 data:<i>Degrading us
+stat_time=1924700 stop_time=1927440 data:<i>They will not
+stat_time=1927920 stop_time=1931520 data:<i>Control us
+stat_time=1932090 stop_time=1934000 data:<i>We will
+stat_time=1934330 stop_time=1939120 data:<i>Be victorious
+stat_time=1939360 stop_time=1940610 data:<i>So come on
+stat_time=1977260 stop_time=1980980 data:<i>They will not
+stat_time=1980980 stop_time=1983850 data:<i>Force us
+stat_time=1984780 stop_time=1987520 data:<i>They will stop
+stat_time=1987660 stop_time=1991600 data:<i>Degrading us
+stat_time=1992360 stop_time=1995010 data:<i>They will not
+stat_time=1995060 stop_time=1998830 data:<i>Control us
+stat_time=1999740 stop_time=2001540 data:<i>We will
+stat_time=2001560 stop_time=2006520 data:<i>Be victorious
+stat_time=2048110 stop_time=2050110 data:我是Ellen K  在格莱美颁奖典礼的后台
+stat_time=2050110 stop_time=2051230 data:正如刚刚你所看到的
+stat_time=2051230 stop_time=2052540 data:Muse的摇滚棒极了
+stat_time=2052540 stop_time=2054340 data:即将看到的是  情歌三重唱
+stat_time=2054340 stop_time=2055560 data:来自才华横溢年轻有为的
+stat_time=2055560 stop_time=2058290 data:Bruno Mars  B.O.B.和Janelle Monae
+stat_time=2058290 stop_time=2059520 data:之后有Justin Bieber
+stat_time=2059520 stop_time=2061530 data:与Usher以及Jaden Smith的同台表演
+stat_time=2061530 stop_time=2063170 data:Bob Dylan和The Avett Brothers
+stat_time=2063170 stop_time=2064370 data:以及Mumford & Sons的强强联手
+stat_time=2064370 stop_time=2065640 data:还将看到Lady Antebellum
+stat_time=2065640 stop_time=2067710 data:Cee Lo Green与Gwyneth Paltrow以及几位
+stat_time=2067710 stop_time=2069150 data:我们非常熟悉的毛茸茸的朋友的演唱
+stat_time=2069310 stop_time=2071320 data:Eminem联手Rihanna还有Dr. Dre
+stat_time=2071380 stop_time=2072440 data:Mick Jagger
+stat_time=2072440 stop_time=2073520 data:Barbra Streisand
+stat_time=2073520 stop_time=2076270 data:一切尽在第五十三届格莱美颁奖礼
+stat_time=2076330 stop_time=2077730 data:锁定YYeTs
+stat_time=2079590 stop_time=2082690 data:第五十三届格莱美颁奖礼的赞助商有
+stat_time=2082970 stop_time=2083960 data:Target[美国第二大百货公司]
+stat_time=2084360 stop_time=2086410 data:期盼多多付出少少
+stat_time=2088310 stop_time=2091810 data:全新福特探险家牌越野车
+stat_time=2091810 stop_time=2092620 data:开一辆回家吧
+stat_time=2101960 stop_time=2104200 data:有请Ryan Seacrest
+stat_time=2109710 stop_time=2112900 data:今晚我们见证了很多音乐神话
+stat_time=2112900 stop_time=2115890 data:但是音乐总是需要新声音
+stat_time=2115890 stop_time=2117730 data:而此刻  我们要史无前例的
+stat_time=2117730 stop_time=2121230 data:呈献给大家一曲由年轻有为才华横溢
+stat_time=2121230 stop_time=2123580 data:的新星们所带来的三重唱
+stat_time=2123580 stop_time=2127080 data:他们三位一共获得了14项格莱美提名
+stat_time=2127150 stop_time=2129110 data:其中一位今晚已经抱得一座奖杯
+stat_time=2129300 stop_time=2130290 data:就在这里
+stat_time=2130500 stop_time=2133330 data:机不可失 时不再来
+stat_time=2133330 stop_time=2134460 data:就在格莱美
+stat_time=2134510 stop_time=2138640 data:有请Bruno Mars  B.O.B.以及Janelle Monae
+stat_time=2157410 stop_time=2159560 data:<i>Beautiful Girls
+stat_time=2159560 stop_time=2161960 data:<i>All over the world
+stat_time=2162070 stop_time=2163860 data:<i>I could be chasing
+stat_time=2163860 stop_time=2166650 data:<i>But my time would be wasted
+stat_time=2166650 stop_time=2171210 data:<i>They got nothing on you, baby
+stat_time=2171810 stop_time=2175610 data:<i>Nothing on you, baby
+stat_time=2177400 stop_time=2179640 data:<i>I know you feel where I'm coming from
+stat_time=2179640 stop_time=2182080 data:<i>Regardles of the things in my past that I've done
+stat_time=2182080 stop_time=2184440 data:<i>Most of really was for the hell of the fun
+stat_time=2184440 stop_time=2187160 data:<i>On the carousel so around I spun
+stat_time=2187160 stop_time=2189300 data:<i>With no directions just trying to get some
+stat_time=2189300 stop_time=2191590 data:<i>Trying to chase skirts living in the summer sun
+stat_time=2191820 stop_time=2194160 data:<i>So I lost more than I had ever won
+stat_time=2194190 stop_time=2195060 data:<i>And honestly
+stat_time=2195060 stop_time=2196490 data:<i>I ended up with none
+stat_time=2196650 stop_time=2197890 data:<i>There's no much nonsense
+stat_time=2197890 stop_time=2199180 data:<i>It's on my conscience
+stat_time=2199180 stop_time=2201030 data:<i>I'm thinking, baby I should get it out
+stat_time=2201030 stop_time=2202670 data:<i>And I don't want to sound redundant
+stat_time=2202670 stop_time=2203870 data:<i>But I was wondering
+stat_time=2203870 stop_time=2205740 data:<i>That there's something that you want to know
+stat_time=2205840 stop_time=2206560 data:<i>But never mind
+stat_time=2206560 stop_time=2208390 data:<i>That we should let it go
+stat_time=2208390 stop_time=2210360 data:<i>'Cause we don't want to be a TV episode
+stat_time=2210500 stop_time=2213010 data:<i>And all the bad thought just let them go
+stat_time=2213490 stop_time=2215420 data:<i>Go, go
+stat_time=2215420 stop_time=2217230 data:<i>Beautifu girls
+stat_time=2217230 stop_time=2219560 data:<i>All over the world
+stat_time=2219720 stop_time=2221660 data:<i>I could be chasing
+stat_time=2221660 stop_time=2224130 data:<i>But my time would be wasted
+stat_time=2224160 stop_time=2226030 data:<i>They got noghing on you
+stat_time=2226080 stop_time=2228650 data:<i>Not, not, not nothing on you, baby
+stat_time=2228700 stop_time=2229640 data:<i>Not. not nothing on you
+stat_time=2229640 stop_time=2231060 data:<i>Nothing on you
+stat_time=2231060 stop_time=2233170 data:<i>Not, not, not nothing on you, baby
+stat_time=2233170 stop_time=2234310 data:<i>Not, not nothing on you
+stat_time=2234310 stop_time=2235960 data:<i>They might say hi
+stat_time=2236580 stop_time=2238300 data:<i>And I might say hey
+stat_time=2238580 stop_time=2240770 data:<i>But you shouldn't worry
+stat_time=2240930 stop_time=2242970 data:<i>About what they say
+stat_time=2242970 stop_time=2245300 data:<i>Cause they got nothing on you
+stat_time=2245300 stop_time=2247770 data:<i>Not, not, not nothing on you, baby
+stat_time=2247770 stop_time=2248630 data:<i>Not, not nothing on you
+stat_time=2248630 stop_time=2251100 data:<i>Nothing on you baby
+stat_time=2251100 stop_time=2252590 data:<i>Not, not, not nothing on you, baby
+stat_time=2252590 stop_time=2253840 data:<i>Not. not nothing on you
+stat_time=2255830 stop_time=2257050 data:<i>Everywhere I go
+stat_time=2257220 stop_time=2258960 data:<i>I'm always hering your name
+stat_time=2260330 stop_time=2261880 data:<i>And no maater where I'm at
+stat_time=2261930 stop_time=2263820 data:<i>Girl, you make me want to sing
+stat_time=2264950 stop_time=2266970 data:<i>Whether a bus or a plane
+stat_time=2266970 stop_time=2268570 data:<i>Or a car or a train
+stat_time=2269950 stop_time=2271660 data:<i>No other girl's in my brain
+stat_time=2272050 stop_time=2273330 data:<i>And you the one to blame
+stat_time=2273500 stop_time=2274640 data:女士们先生们
+stat_time=2274640 stop_time=2276910 data:准备好继续灵魂乐串烧了吗
+stat_time=2277510 stop_time=2278850 data:我也准备好了
+stat_time=2279040 stop_time=2281500 data:接下来出场的这个小伙
+stat_time=2281530 stop_time=2283790 data:专门为了今晚的颁奖典礼而来
+stat_time=2283790 stop_time=2285480 data:我就不费口舌了
+stat_time=2285480 stop_time=2288530 data:掌声有请我们的老朋友
+stat_time=2288530 stop_time=2290870 data:Bruno Mars先生
+stat_time=2292660 stop_time=2294250 data:谢谢大家
+stat_time=2295930 stop_time=2297450 data:我想借此机会
+stat_time=2297710 stop_time=2298720 data:向大家介绍一位
+stat_time=2299100 stop_time=2300800 data:我深爱的女孩
+stat_time=2303230 stop_time=2305090 data:你懂什么是爱
+stat_time=2305890 stop_time=2307490 data:我觉得我心都碎了
+stat_time=2308330 stop_time=2310180 data:我想和她永远在一起
+stat_time=2310560 stop_time=2311220 data:我问她愿意吗
+stat_time=2311220 stop_time=2312090 data:你们知道她怎么回答的吗
+stat_time=2312580 stop_time=2313520 data:她怎么回答
+stat_time=2313860 stop_time=2316670 data:<i>She said no
+stat_time=2320930 stop_time=2321890 data:我就知道
+stat_time=2322670 stop_time=2324370 data:我都告诉她  她很漂亮了
+stat_time=2324870 stop_time=2326600 data:她还是不愿意
+stat_time=2327210 stop_time=2328840 data:但我傻乎乎的还深爱着她
+stat_time=2328840 stop_time=2329950 data:如果今天她站在这里
+stat_time=2330280 stop_time=2331950 data:<i>This is what I'd tell her
+stat_time=2332330 stop_time=2334170 data:<i>This is what I'd say
+stat_time=2334390 stop_time=2336310 data:<i>I'd get down on my knees
+stat_time=2336330 stop_time=2338620 data:<i>And tell her that I'd
+stat_time=2338650 stop_time=2340650 data:<i>I'd, I'd
+stat_time=2340650 stop_time=2343810 data:<i>Catch a grenade for you
+stat_time=2343810 stop_time=2346340 data:<i>Yeah, yeah, yeah
+stat_time=2347620 stop_time=2351460 data:<i>Throw my head on a plate for you
+stat_time=2351460 stop_time=2353880 data:<i>Yeah, yeah, yeah
+stat_time=2353880 stop_time=2355370 data:<i>Oh, yes I would
+stat_time=2355370 stop_time=2359280 data:<i>Jump in front of a train for you
+stat_time=2359280 stop_time=2361410 data:<i>Yeah, yeah, yeah
+stat_time=2361410 stop_time=2362620 data:<i>You know I'd do
+stat_time=2362780 stop_time=2367370 data:<i>You know I'd do anythging for you, baby
+stat_time=2367370 stop_time=2369670 data:<i>Yeah, yeah, yeah
+stat_time=2371980 stop_time=2375630 data:<i>I would go through all this pain
+stat_time=2375660 stop_time=2379360 data:<i>Take a bullet traight through my brain
+stat_time=2379360 stop_time=2381280 data:<i>Yes, I would die for you
+stat_time=2381280 stop_time=2382210 data:<i>Die for you
+stat_time=2382210 stop_time=2384400 data:<i>Die for you, baby
+stat_time=2384880 stop_time=2389020 data:<i>But you won't do the same
+stat_time=2389930 stop_time=2392540 data:<i>Won't do the same
+stat_time=2392540 stop_time=2393960 data:<i>No, you won't, baby
+stat_time=2394130 stop_time=2395840 data:<i>No, you won't, baby
+stat_time=2397780 stop_time=2400360 data:<i>Won't do the same
+stat_time=2400360 stop_time=2402220 data:<i>I try to love you, darlin
+stat_time=2402780 stop_time=2404120 data:<i>Yes, I've tried
+stat_time=2404120 stop_time=2406560 data:<i>And tried and tried and tried
+stat_time=2408180 stop_time=2410420 data:<i>Yes, I did, baby
+stat_time=2417160 stop_time=2418700 data:亲爱的我就在这里等着你
+stat_time=2419550 stop_time=2420760 data:跟我一起回家吧
+stat_time=2422290 stop_time=2426080 data:<i>Oh, yeah
+stat_time=2431140 stop_time=2432230 data:表演还要继续
+stat_time=2432230 stop_time=2434350 data:大家起立欢迎
+stat_time=2434350 stop_time=2438150 data:我的好友Janelle Monae女士
+stat_time=2452050 stop_time=2454410 data:<i>One two
+stat_time=2455130 stop_time=2456960 data:<i>One, two, three
+stat_time=2456960 stop_time=2458520 data:<i>So you think I'm alone
+stat_time=2460140 stop_time=2463050 data:<i>But being alone's the only way to be
+stat_time=2463050 stop_time=2464530 data:<i>When you setp outside
+stat_time=2466270 stop_time=2468950 data:<i>You spend life fighting for your sanity
+stat_time=2469180 stop_time=2472350 data:<i>This is a cold war
+stat_time=2472350 stop_time=2473620 data:<i>You better know
+stat_time=2473620 stop_time=2475100 data:<i>What you're fighting for
+stat_time=2475310 stop_time=2478200 data:<i>This is a cold war
+stat_time=2478200 stop_time=2480980 data:<i>Do you know what you're fighting for
+stat_time=2480980 stop_time=2482660 data:<i>If you want to be free
+stat_time=2484250 stop_time=2487180 data:<i>Below the groud's the only place to be
+stat_time=2487180 stop_time=2489220 data:<i>Cause in this life
+stat_time=2490250 stop_time=2493150 data:<i>You spend life running from depravity
+stat_time=2493150 stop_time=2496430 data:<i>And this is a cold war
+stat_time=2496430 stop_time=2499250 data:<i>Do you know what you're fighting for
+stat_time=2499350 stop_time=2502310 data:<i>This is a cold war
+stat_time=2502310 stop_time=2505220 data:<i>Do you know what you're fighting for
+stat_time=2505280 stop_time=2508420 data:<i>This is a cold
+stat_time=2511210 stop_time=2514280 data:<i>This is a coooooold war
+stat_time=2514280 stop_time=2517150 data:<i>Do you know what you're fighting for
+stat_time=2517150 stop_time=2518550 data:我要飞下去了
+stat_time=2546900 stop_time=2549680 data:<i>Do you know what is a cold cold war
+stat_time=2549750 stop_time=2552480 data:<i>Do you, do you, do you
+stat_time=2552690 stop_time=2554700 data:<i>Do you
+stat_time=2564660 stop_time=2567980 data:<i>It's a cold, cold war
+stat_time=2568640 stop_time=2571060 data:<i>You better know what you're fighting for
+stat_time=2571340 stop_time=2573080 data:<i>Yeah, that's right
+stat_time=2576810 stop_time=2579130 data:<i>Don't you cry
+stat_time=2582720 stop_time=2584710 data:<i>Wanna say good-bye
+stat_time=2585310 stop_time=2587800 data:<i>Don't you cry
+stat_time=2620300 stop_time=2622750 data:有请两项格莱美提名者
+stat_time=2622750 stop_time=2623610 data:Dierks Bentley
+stat_time=2623610 stop_time=2625210 data:以及已赢得一个奖项的
+stat_time=2625270 stop_time=2626340 data:Zac Brown
+stat_time=2632570 stop_time=2634440 data:颁发下一个奖项之前
+stat_time=2634440 stop_time=2637660 data:Zac和我想先感谢全世界的粉丝们
+stat_time=2637940 stop_time=2640020 data:感谢在场与不在场的每一个人
+stat_time=2644510 stop_time=2645760 data:伟大的乡村音乐作曲家
+stat_time=2645760 stop_time=2647320 data:Harlan Howard曾说过
+stat_time=2647320 stop_time=2649410 data:乡村音乐三弦内现真情
+stat_time=2649900 stop_time=2651430 data:接下来这五位女士
+stat_time=2651430 stop_time=2653120 data:都将真情体现的淋漓尽致
+stat_time=2653480 stop_time=2656090 data:获得最佳乡村女歌手演唱提名的有
+stat_time=2663270 stop_time=2665140 data:《Satisfied》  Jewel
+stat_time=2670070 stop_time=2672630 data:《The House That Built Me》  Miranda Lambert
+stat_time=2680290 stop_time=2682530 data:《Swingin》  LeAnn Rimes
+stat_time=2690240 stop_time=2692900 data:《Temporary Home》  Carrie Underwood
+stat_time=2698350 stop_time=2701410 data:《I'd Love To Be Your Last》 Gretchen Wilson
+stat_time=2707810 stop_time=2709710 data:获得格莱美奖的是
+stat_time=2711730 stop_time=2714870 data:《The House That Built Me》  Miranda Lambert
+stat_time=2738740 stop_time=2740590 data:首度荣获这个格莱美演唱奖
+stat_time=2740590 stop_time=2742880 data:有史以来首个格莱美奖
+stat_time=2745460 stop_time=2748140 data:感谢Tom和Ellen写了这么美的一首歌
+stat_time=2748140 stop_time=2752590 data:感谢大家喜欢这首歌的歌词
+stat_time=2752590 stop_time=2753810 data:这对我来说意味着一切
+stat_time=2753810 stop_time=2755870 data:每个人都能感同身受
+stat_time=2755870 stop_time=2758030 data:我还要感谢Moria Crafting和Joey Lee
+stat_time=2758030 stop_time=2760560 data:以及我的乐队On The Road
+stat_time=2761280 stop_time=2763170 data:以及所有鼓励我的人
+stat_time=2763170 stop_time=2765580 data:还有在座的每位嘉宾  十分感谢
+stat_time=2765580 stop_time=2767180 data:我大爱乡村音乐
+stat_time=2771870 stop_time=2772900 data:稍后继续
+stat_time=2772900 stop_time=2774700 data:Justin Bieber及其导师Usher
+stat_time=2774700 stop_time=2776100 data:携手Jaden Smith
+stat_time=2776100 stop_time=2778410 data:Bob Dylan携手Mumford & Sons
+stat_time=2778410 stop_time=2779910 data:以及The Avett Brothers登台献艺
+stat_time=2779910 stop_time=2782790 data:随后表演的是Lady Antebellum
+stat_time=2782830 stop_time=2785090 data:Cee-Lo Green以及Gwyneth Paltrow
+stat_time=2785120 stop_time=2786060 data:Katy Perry
+stat_time=2786060 stop_time=2788360 data:Eminem  Rihanna和Dr. Dre三人同台
+stat_time=2788400 stop_time=2789650 data:Barbra Streisand
+stat_time=2789700 stop_time=2790640 data:Mick Jagger
+stat_time=2790640 stop_time=2793070 data:以及Arcade Fire首度登台格莱美
+stat_time=2793110 stop_time=2795010 data:精彩尽在YYeTs
+stat_time=2803300 stop_time=2804780 data:女士们先生们
+stat_time=2804810 stop_time=2806610 data:掌声有请Eva Longoria
+stat_time=2815360 stop_time=2819440 data:在2007年一位满怀梦想的加拿大男孩
+stat_time=2819440 stop_time=2821660 data:来到了佐治亚州亚特兰大
+stat_time=2821820 stop_time=2825510 data:在停车场  他巧遇一位乐坛巨星
+stat_time=2825540 stop_time=2828620 data:这孩子说愿意为他歌唱
+stat_time=2828650 stop_time=2831990 data:从此开启了一段师徒关系
+stat_time=2832040 stop_time=2834070 data:如今他们都跻身乐坛巨星
+stat_time=2834070 stop_time=2836330 data:今晚各自两度提名
+stat_time=2836390 stop_time=2838220 data:幸运的是  这是21世纪
+stat_time=2838220 stop_time=2840920 data:所有伟大时刻都被纪录
+stat_time=2841360 stop_time=2843980 data:让我们穿越到2007
+stat_time=2844030 stop_time=2846800 data:回顾那场值得纪念的事件
+stat_time=2846870 stop_time=2849020 data:即今晚最佳新人奖提名者
+stat_time=2849020 stop_time=2851650 data:当时年仅13岁的Justin Bieber
+stat_time=2851700 stop_time=2854640 data:巧遇今晚已获奖的Usher
+stat_time=2855330 stop_time=2857320 data:<i>You got it, you got it bad
+stat_time=2857360 stop_time=2859020 data:<i>When you're on the phone
+stat_time=2859060 stop_time=2861800 data:<i>Hang up and you call right back
+stat_time=2861840 stop_time=2863790 data:<i>You got it, you got it bad
+stat_time=2863830 stop_time=2866160 data:<i>When you miss a day without your friend
+stat_time=2866160 stop_time=2868160 data:<i>Your whole life's off track
+stat_time=2868210 stop_time=2870980 data:<i>And you got it bad when you're stuck in the house
+stat_time=2870980 stop_time=2872850 data:<i>You don't wanna have fun
+stat_time=2872880 stop_time=2875820 data:<i>It's all you think about
+stat_time=2876120 stop_time=2878220 data:棒极了
+stat_time=2879860 stop_time=2881690 data:简直不敢置信
+stat_time=2883170 stop_time=2885790 data:没错  四年前的
+stat_time=2885920 stop_time=2888440 data:- 就是这么开始的  对吧  - 是啊
+stat_time=2888490 stop_time=2890430 data:但他们没说准到底是怎么回事
+stat_time=2890430 stop_time=2892020 data:我在停车场遇见你
+stat_time=2892070 stop_time=2894500 data:- 但你一开始没唱给我听  - 没有
+stat_time=2894560 stop_time=2896620 data:然后我跟你说了些事你才唱的
+stat_time=2896680 stop_time=2898100 data:你告诉我
+stat_time=2898160 stop_time=2900770 data:如果成功  我们会再次相见
+stat_time=2900820 stop_time=2903310 data:没错  现在该你表演了
+stat_time=2903350 stop_time=2904520 data:开始吧
+stat_time=2908020 stop_time=2911300 data:<i>Baby, baby, baby
+stat_time=2911340 stop_time=2915170 data:<i>I'm like baby, baby, baby
+stat_time=2915210 stop_time=2919530 data:<i>I'm like baby, baby, baby
+stat_time=2919560 stop_time=2923460 data:<i>I thought you'd always be mine, mine
+stat_time=2923460 stop_time=2925380 data:<i>Yeah, yeah, yeah
+stat_time=2925380 stop_time=2927300 data:<i>Yeah, yeah, yeah
+stat_time=2927300 stop_time=2929260 data:<i>Yeah, yeah, yeah
+stat_time=2929260 stop_time=2931200 data:<i>Yeah, yeah, yeah
+stat_time=2931200 stop_time=2933760 data:<i>Yeah, yeah, yeah
+stat_time=2933760 stop_time=2938100 data:<i>Now I'm all gone, gone, gone
+stat_time=2938100 stop_time=2944140 data:<i>I'm gone
+stat_time=2977890 stop_time=2981570 data:<i>Never say never, never, never
+stat_time=2991120 stop_time=2995620 data:<i>I never thought they could walk through fire
+stat_time=2995670 stop_time=3000040 data:<i>Yeah, I never thought that I could take the burn
+stat_time=3001100 stop_time=3006060 data:<i>I never had the strength to take it higher
+stat_time=3006080 stop_time=3009970 data:<i>Until I reached the point of no return
+stat_time=3010900 stop_time=3013430 data:<i>And there's just no turning back
+stat_time=3013460 stop_time=3015820 data:<i>When your hearts under attack
+stat_time=3015840 stop_time=3018540 data:<i>Gonna give everything I have
+stat_time=3021740 stop_time=3025220 data:<i>I will never say never
+stat_time=3025260 stop_time=3026680 data:<i>I will fight
+stat_time=3026720 stop_time=3030160 data:<i>I will fight till forever
+stat_time=3030200 stop_time=3031330 data:<i>Make it right
+stat_time=3031340 stop_time=3033860 data:<i>Whenever you knock me down
+stat_time=3033880 stop_time=3036400 data:<i>I will not stay on the ground
+stat_time=3036440 stop_time=3037630 data:<i>Pick it up, pick it up
+stat_time=3037670 stop_time=3039960 data:<i>Pick it up, pick it up up up
+stat_time=3039960 stop_time=3041720 data:<i>And never say never
+stat_time=3041750 stop_time=3045020 data:<i>I will never say never
+stat_time=3045070 stop_time=3046570 data:<i>I will fight
+stat_time=3046610 stop_time=3050080 data:<i>I will fight till forever
+stat_time=3050120 stop_time=3051170 data:<i>Make it right
+stat_time=3051210 stop_time=3053650 data:<i>Whenever you knock me down
+stat_time=3053690 stop_time=3056100 data:<i>I will not stay on the ground
+stat_time=3056140 stop_time=3057390 data:<i>Pick it up, pick it up
+stat_time=3057440 stop_time=3059270 data:<i>Pick it up, pick it up up up
+stat_time=3059270 stop_time=3061590 data:<i>And never say never
+stat_time=3061770 stop_time=3063480 data:<i>J, guess who
+stat_time=3063510 stop_time=3065270 data:<i>J Smith and J.B.
+stat_time=3065410 stop_time=3066800 data:<i>I can handle him
+stat_time=3067370 stop_time=3068780 data:<i>I can handle him
+stat_time=3070340 stop_time=3072210 data:<i>Now he's bigger than me
+stat_time=3072270 stop_time=3073070 data:<i>Taller than me
+stat_time=3073070 stop_time=3074600 data:<i>And he's older than me
+stat_time=3074600 stop_time=3075480 data:<i>And stronger than me
+stat_time=3075480 stop_time=3077720 data:<i>And his arms a little bit longer than me
+stat_time=3077720 stop_time=3080330 data:<i>But he ain't on a J.B. song with me
+stat_time=3080330 stop_time=3081250 data:<i>I be trying a chill
+stat_time=3081250 stop_time=3082730 data:<i>They be trying to side with the thrill
+stat_time=3082730 stop_time=3085230 data:<i>No pun intended, was raised by the power of Will
+stat_time=3085230 stop_time=3086590 data:<i>Like Luke with the force
+stat_time=3086590 stop_time=3087790 data:<i>When push comes to shove
+stat_time=3087790 stop_time=3090170 data:<i>Like Cobe with the 4th, ice water with blood
+stat_time=3090170 stop_time=3092120 data:<i>I gotta be the best, and yes
+stat_time=3092120 stop_time=3092910 data:<i>We're the flyest
+stat_time=3092910 stop_time=3093980 data:<i>Like David and Goliath
+stat_time=3093980 stop_time=3095730 data:<i>I conquered the giant
+stat_time=3095760 stop_time=3097670 data:<i>So now I got the world in my hand
+stat_time=3097670 stop_time=3098890 data:<i>I was born from two stars
+stat_time=3098890 stop_time=3100850 data:<i>So the moon's where I land
+stat_time=3100950 stop_time=3104460 data:<i>I will never say never
+stat_time=3104490 stop_time=3105870 data:<i>I will fight
+stat_time=3105920 stop_time=3109550 data:<i>I will fight till forever
+stat_time=3109600 stop_time=3110700 data:<i>Make it right
+stat_time=3110730 stop_time=3113090 data:<i>Whenever you knock me down
+stat_time=3113140 stop_time=3115540 data:<i>I will not stay on the ground
+stat_time=3115560 stop_time=3116810 data:<i>Pick it up, pick it up
+stat_time=3116850 stop_time=3118980 data:<i>Pick it up, pick it up up up
+stat_time=3118980 stop_time=3121640 data:<i>And never say never
+stat_time=3127410 stop_time=3130530 data:<i>Oh, my gosh
+stat_time=3132770 stop_time=3135860 data:<i>Baby, let me love you down
+stat_time=3137160 stop_time=3140370 data:<i>There's so many ways to love ya
+stat_time=3140400 stop_time=3143920 data:<i>Baby, I can break ya down
+stat_time=3144750 stop_time=3147740 data:<i>There's so many ways to love ya
+stat_time=3147770 stop_time=3152120 data:<i>Got me like "oh my god, I'm so in love"
+stat_time=3152170 stop_time=3154570 data:<i>I found you finally
+stat_time=3154630 stop_time=3155980 data:<i>You make me want to say
+stat_time=3156020 stop_time=3162580 data:<i>Oh,oh, oh, oh, oh,oh, oh, oh, oh
+stat_time=3178170 stop_time=3184280 data:<i>Oh, baby, you got it all
+stat_time=3184630 stop_time=3187700 data:<i>Sexy from her head to the toes
+stat_time=3188150 stop_time=3191460 data:<i>And I wanna know, know, know
+stat_time=3196560 stop_time=3199410 data:<i>There's so many ways to love ya
+stat_time=3199420 stop_time=3201910 data:<i>Baby, I can break ya down
+stat_time=3204040 stop_time=3206890 data:<i>So many ways to love ya
+stat_time=3206940 stop_time=3211210 data:<i>Got me like "oh my god, I'm so in love"
+stat_time=3211240 stop_time=3213600 data:<i>I found you finally
+stat_time=3213640 stop_time=3215120 data:<i>You make me want to say
+stat_time=3215160 stop_time=3221210 data:<i>Oh,oh, oh, oh, oh,oh, oh, oh, oh
+stat_time=3221250 stop_time=3223050 data:<i>Oh, my gosh
+stat_time=3228500 stop_time=3231070 data:<i>Oh, my gosh
+stat_time=3231550 stop_time=3232650 data:<i>Oh, my
+stat_time=3233250 stop_time=3234450 data:<i>Oh, my
+stat_time=3235150 stop_time=3237360 data:<i>Oh, my, oh, my
+stat_time=3238340 stop_time=3241200 data:<i>Oh, my gosh
+stat_time=3241850 stop_time=3242620 data:<i>I did it again
+stat_time=3242620 stop_time=3244760 data:<i>so I'm gone let the beat drop
+stat_time=3258010 stop_time=3260280 data:<i>Oh, my gosh
+stat_time=3260300 stop_time=3262220 data:<i>Oh, oh, oh, my
+stat_time=3262250 stop_time=3263500 data:<i>Oh, oh, oh, my
+stat_time=3263530 stop_time=3265400 data:<i>My, my, my, my, my
+stat_time=3265460 stop_time=3268150 data:<i>Oh, my gosh
+stat_time=3286180 stop_time=3289700 data:有请今晚获得格莱美提名的Paramore
+stat_time=3289720 stop_time=3293090 data:和《海军罪案调查》主演Pauley Perrette
+stat_time=3300740 stop_time=3302890 data:我不知道哪件事更让我兴奋
+stat_time=3302920 stop_time=3305490 data:是宣布格莱美最佳摇滚专辑获得者
+stat_time=3305530 stop_time=3309180 data:还是能和Paramore待一分钟
+stat_time=3309390 stop_time=3310840 data:很高兴能和你一起颁奖
+stat_time=3310890 stop_time=3313290 data:获得这一奖项提名的
+stat_time=3313340 stop_time=3315890 data:都是久负盛名的摇滚天才
+stat_time=3316300 stop_time=3317950 data:有两支美国摇滚乐队
+stat_time=3317950 stop_time=3321680 data:还有今晚已经掀起一阵高潮的英国组合
+stat_time=3321730 stop_time=3325200 data:下面是最佳摇滚专辑提名
+stat_time=3328910 stop_time=3331950 data:《Emotion & Commotion》  Jeff Beck
+stat_time=3334530 stop_time=3336630 data:《The Resistance》  Muse
+stat_time=3338870 stop_time=3341030 data:《Backspacer》  Pearl Jam
+stat_time=3342890 stop_time=3345650 data:《Mojo》  Tom Petty & The Heartbreakers
+stat_time=3347860 stop_time=3350450 data:《Le Noise》  Neil Young
+stat_time=3353750 stop_time=3356870 data:获奖的是...
+stat_time=3363260 stop_time=3365600 data:《The Resistance》  Muse
+stat_time=3386250 stop_time=3387100 data:非常感谢
+stat_time=3387100 stop_time=3389470 data:真是个巨大的惊喜
+stat_time=3389660 stop_time=3390710 data:很荣幸能和今晚表演的
+stat_time=3390710 stop_time=3392070 data:这么多优秀歌手齐聚一堂
+stat_time=3392070 stop_time=3394610 data:每一个得奖的人都是实至名归
+stat_time=3394720 stop_time=3397390 data:我要感谢我们的经纪人Keu Punt
+stat_time=3397390 stop_time=3399110 data:他在美国给予了我们很多帮助
+stat_time=3399110 stop_time=3403470 data:还要特别感谢那边我的已怀身孕的女友
+stat_time=3405600 stop_time=3406420 data:你说两句
+stat_time=3406910 stop_time=3408110 data:很高兴能来这儿
+stat_time=3408110 stop_time=3409490 data:非常感谢格莱美
+stat_time=3409490 stop_time=3410590 data:很荣幸能获奖
+stat_time=3410590 stop_time=3412580 data:真的很荣幸
+stat_time=3412730 stop_time=3416570 data:非常感谢为我投票的业界专家
+stat_time=3416570 stop_time=3418590 data:让我们能获此殊荣
+stat_time=3419090 stop_time=3420740 data:谢谢我们的歌迷
+stat_time=3420790 stop_time=3422440 data:大家欢呼吧  谢谢你们
+stat_time=3426880 stop_time=3429000 data:访问grammy.com查询完全获奖名单
+stat_time=3429000 stop_time=3431550 data:下载今晚精彩绝伦的表演
+stat_time=3431580 stop_time=3435030 data:还有格莱美现场独家幕后消息
+stat_time=3435070 stop_time=3436830 data:还可以关注Twitter  Facebook和Youtube
+stat_time=3436840 stop_time=3438650 data:上发布的格莱美最新消息
+stat_time=3439560 stop_time=3440330 data:接下来有
+stat_time=3440360 stop_time=3441820 data:Bob Dylan 携Mumford & Sons
+stat_time=3441820 stop_time=3443330 data:和The Avett Brothers带来的表演
+stat_time=3443360 stop_time=3444360 data:Lady Antebellum
+stat_time=3444360 stop_time=3446300 data:Cee Lo Green  和Gwyneth Paltrow
+stat_time=3446340 stop_time=3448750 data:Katy Perry带来的"Teenage Dream"
+stat_time=3448800 stop_time=3450500 data:Eminem不仅会与Rihanna共同演出
+stat_time=3450500 stop_time=3453260 data:还将和Dr. Dre来一场意义重大的合作
+stat_time=3453290 stop_time=3456590 data:Mick Jagger在格莱美舞台上首次亮相
+stat_time=3456620 stop_time=3457970 data:Barbra Streisand
+stat_time=3458000 stop_time=3459430 data:和Arcade Fire
+stat_time=3459460 stop_time=3463390 data:精彩格莱美  尽在YYeTs
+stat_time=3466530 stop_time=3468820 data:有请Selena Gomez
+stat_time=3468860 stop_time=3469880 data:以及《警察世家》主演
+stat_time=3469880 stop_time=3473000 data:来自"新街边男孩"组合的Donnie Wahlberg
+stat_time=3484030 stop_time=3488180 data:从Susan Boyle到Justin Bieber
+stat_time=3488810 stop_time=3490800 data:今年最佳流行演唱专辑的提名名单
+stat_time=3490800 stop_time=3492970 data:绝对算是年龄跨度极大
+stat_time=3492970 stop_time=3494550 data:Ray Charles Joni Mitchell
+stat_time=3494550 stop_time=3496870 data:Sade 和Justin Timberlake
+stat_time=3496870 stop_time=3499090 data:都曾获得此奖项
+stat_time=3500970 stop_time=3503590 data:《My World 2.0》  Justin Bieber
+stat_time=3507510 stop_time=3509980 data:《I Dreamed A Dream》  Susan Boyle
+stat_time=3512420 stop_time=3514590 data:《The Fame Monster》  Lady Gaga
+stat_time=3517990 stop_time=3520430 data:《Battle Studies》  John Mayer
+stat_time=3522720 stop_time=3525350 data:《Teenage Dream》  Katy Perry
+stat_time=3530720 stop_time=3532830 data:得奖的是...
+stat_time=3535700 stop_time=3538450 data:《The Fame Monster》  Lady Gaga
+stat_time=3571660 stop_time=3575240 data:我从心底感谢你们
+stat_time=3575310 stop_time=3577080 data:我所有的歌迷们
+stat_time=3577200 stop_time=3579550 data:所有见证我得奖的怪物们[Gaga的歌迷]
+stat_time=3580010 stop_time=3582370 data:感谢我的父母
+stat_time=3582370 stop_time=3584200 data:和我美丽的妹妹Natalie
+stat_time=3584200 stop_time=3585520 data:我爱你们
+stat_time=3585970 stop_time=3590700 data:感谢Vincent和Troy对我的支持
+stat_time=3590740 stop_time=3592800 data:你们是最好的经纪人
+stat_time=3592800 stop_time=3597360 data:和最赞的拍档
+stat_time=3597770 stop_time=3599800 data:谢谢Jimmy Ivene
+stat_time=3599850 stop_time=3603190 data:谢谢Doug Lawrence的帮助
+stat_time=3603220 stop_time=3605870 data:谢谢Interscope公司的整个团队
+stat_time=3606040 stop_time=3608770 data:在我很小的时候我就梦想着
+stat_time=3608800 stop_time=3611230 data:能成为自己想成为的人
+stat_time=3611270 stop_time=3615310 data:不管我想象中的自己是什么样子
+stat_time=3615310 stop_time=3617770 data:不管有没有人相信我能成功
+stat_time=3619010 stop_time=3620660 data:非常谢谢你们  谢谢
+stat_time=3620660 stop_time=3624850 data:今晚我要对Whitney Houston说声谢谢
+stat_time=3625400 stop_time=3627410 data:我之所以要谢谢她是因为
+stat_time=3627460 stop_time=3628890 data:当我写《Born This Way》时
+stat_time=3628950 stop_time=3631010 data:我想象的是她在唱这首歌
+stat_time=3631090 stop_time=3633540 data:因为我当时并没有足够的自信
+stat_time=3633610 stop_time=3635560 data:所以就把自己想象成超级巨星
+stat_time=3635590 stop_time=3637930 data:所以  Whitney  我写《Born This Way》时
+stat_time=3637930 stop_time=3638770 data:想象的是你在演唱
+stat_time=3638770 stop_time=3640110 data:谢谢你
+stat_time=3642630 stop_time=3647610 data:下面是2011年格莱美十大惊喜
+stat_time=3647610 stop_time=3648760 data:第十的是
+stat_time=3648810 stop_time=3650910 data:Lindsay Lohan被看到以格莱美体型的身材
+stat_time=3650910 stop_time=3654060 data:穿着外套离开了史泰博体育中心
+stat_time=3656760 stop_time=3659790 data:第九  最新的音乐法规定
+stat_time=3659790 stop_time=3661770 data:禁止将"Ladies"和"Mercedes"押韵
+stat_time=3661770 stop_time=3664040 data:这是个好主意  我喜欢
+stat_time=3664100 stop_time=3666180 data:第八  Willie Nelson给格莱美表演
+stat_time=3666180 stop_time=3668270 data:带来了点"小吃"
+stat_time=3669490 stop_time=3672770 data:第七  Jay-Z揭露"Empire State Of Mind"
+stat_time=3672770 stop_time=3676500 data:指的其实是塔伦顿[新泽西首府]  没错
+stat_time=3676500 stop_time=3680640 data:第六  今年新增奖项  叫做男女传统R&B
+stat_time=3680640 stop_time=3682700 data:城市音乐/另类音乐  非古典工程
+stat_time=3682700 stop_time=3686710 data:拉丁  流行组合演唱大奖
+stat_time=3689420 stop_time=3692600 data:第五  在这个感人的典礼中
+stat_time=3692600 stop_time=3695130 data:Will.I.Am在名字后面又加了个逗号
+stat_time=3696880 stop_time=3698970 data:第四  学院主席终于解释了
+stat_time=3698970 stop_time=3703030 data:年度最佳专辑和年度最佳歌曲的区别
+stat_time=3705730 stop_time=3708310 data:第三  Lady Antebellum 和Lady Gaga
+stat_time=3708310 stop_time=3712610 data:组成了一个超级组合Lady Antegagum
+stat_time=3716770 stop_time=3718980 data:第二  John Mayer和Susan Boyle
+stat_time=3718980 stop_time=3721140 data:热情拥抱
+stat_time=3721770 stop_time=3725170 data:2011格莱美颁奖礼最大的惊喜是
+stat_time=3725170 stop_time=3728150 data:Justin Bieber戴的是假发
+stat_time=3731010 stop_time=3731830 data:女士们先生们
+stat_time=3731830 stop_time=3733750 data:下面是Mumford & Sons  The Avett Brothers
+stat_time=3733750 stop_time=3736560 data:和特别来宾Bob Dylan的表演
+stat_time=3745870 stop_time=3749110 data:<i>It's empty in the valley of your heart
+stat_time=3749140 stop_time=3750950 data:<i>The sun, it rises slowly
+stat_time=3750950 stop_time=3752520 data:<i>As you walk away
+stat_time=3752520 stop_time=3755240 data:<i>From all the fears and all the faults
+stat_time=3755240 stop_time=3757460 data:<i>You've left behind
+stat_time=3758560 stop_time=3760070 data:<i>The harvest left no food
+stat_time=3760070 stop_time=3761630 data:<i>For you to eat
+stat_time=3761630 stop_time=3764770 data:<i>You cannibal you meat eater you see
+stat_time=3764800 stop_time=3766270 data:<i>But I have seen the same
+stat_time=3766270 stop_time=3770160 data:<i>I know the shame in your defeat
+stat_time=3771900 stop_time=3774930 data:<i>But I will hold on hope
+stat_time=3774930 stop_time=3778280 data:<i>And I won't let you choke
+stat_time=3778280 stop_time=3781050 data:<i>On the noose around your neck
+stat_time=3781050 stop_time=3784430 data:<i>And I'll find strength in pain
+stat_time=3784430 stop_time=3787600 data:<i>And I will change my ways
+stat_time=3787640 stop_time=3790590 data:<i>Know my name as it's called again
+stat_time=3803940 stop_time=3807220 data:<i>Cause I have other things to fill my time
+stat_time=3807310 stop_time=3810410 data:<i>You take what is yours and I'll take mine
+stat_time=3810450 stop_time=3811680 data:<i>Now let me at the truth
+stat_time=3811680 stop_time=3815730 data:<i>Which will refresh my broken mind
+stat_time=3816630 stop_time=3819750 data:<i>So tie me to a post and block my ears
+stat_time=3819750 stop_time=3823280 data:<i>I can see widows and orphans through my tears
+stat_time=3823300 stop_time=3825450 data:<i>Know my call despite my faults
+stat_time=3825450 stop_time=3828860 data:<i>And despite my growing fears
+stat_time=3830300 stop_time=3833410 data:<i>So make your siren's call
+stat_time=3833410 stop_time=3836670 data:<i>And sing all you want
+stat_time=3836670 stop_time=3839690 data:<i>I will not hear what you have to say
+stat_time=3839720 stop_time=3843030 data:<i>Cause I need freedom now
+stat_time=3843070 stop_time=3846190 data:<i>And I need to know how
+stat_time=3846250 stop_time=3849610 data:<i>To live my life as it's meant to be
+stat_time=3869940 stop_time=3872940 data:<i>And I will hold on hope
+stat_time=3872940 stop_time=3876660 data:<i>And I won't let you choke
+stat_time=3876720 stop_time=3879630 data:<i>On the noose around your neck
+stat_time=3879630 stop_time=3882990 data:<i>And I'll find strength in pain
+stat_time=3883030 stop_time=3886220 data:<i>And I will change my ways
+stat_time=3886380 stop_time=3892500 data:<i>I'll know my name as it's called again
+stat_time=3895110 stop_time=3897550 data:有请Avett Brothers
+stat_time=3898290 stop_time=3903070 data:<i>There's a darkness upon me that's flooded in light
+stat_time=3905880 stop_time=3907960 data:<i>In the fine print they tell me
+stat_time=3907960 stop_time=3910830 data:<i>What's wrong and what's right
+stat_time=3913530 stop_time=3917760 data:<i>And it comes in black and it comes in white
+stat_time=3917760 stop_time=3921610 data:<i>And I'm frightened by those who don't see it
+stat_time=3924570 stop_time=3929410 data:<i>When nothing is owed or deserved or expected
+stat_time=3932080 stop_time=3934560 data:<i>And your life doesn't change
+stat_time=3934560 stop_time=3937000 data:<i>By the man that's elected
+stat_time=3939840 stop_time=3942090 data:<i>If you're loved by someone
+stat_time=3942090 stop_time=3944250 data:<i>You're never rejected
+stat_time=3944250 stop_time=3946880 data:<i>Decide what to be and go be it
+stat_time=3946880 stop_time=3948070 data:一起来
+stat_time=3949750 stop_time=3951720 data:<i>There was a dream
+stat_time=3953160 stop_time=3955890 data:<i>And one day I could see it
+stat_time=3957190 stop_time=3959910 data:<i>Like a bird in a cage I broke in
+stat_time=3959910 stop_time=3964120 data:<i>And demanded that somebody free it
+stat_time=3965300 stop_time=3967590 data:<i>And there was a kid
+stat_time=3969090 stop_time=3971400 data:<i>With a head full of doubt
+stat_time=3972810 stop_time=3974770 data:<i>So I'll scream till I die
+stat_time=3974770 stop_time=3978840 data:<i>And the last of those bad thoughts are finally out
+stat_time=3984120 stop_time=3986230 data:<i>There's a darkness upon you
+stat_time=3986270 stop_time=3988450 data:<i>That's flooded in light
+stat_time=3990820 stop_time=3992760 data:<i>And in the fine print they tell you
+stat_time=3992760 stop_time=3995010 data:<i>What's wrong and what's right
+stat_time=3997000 stop_time=4001020 data:<i>And it flies by day and it flies by night
+stat_time=4001020 stop_time=4004400 data:<i>And I'm frightened by those that don't see it
+stat_time=4006110 stop_time=4008160 data:<i>There was a dream
+stat_time=4009370 stop_time=4011880 data:<i>And one day I could see it
+stat_time=4013210 stop_time=4015770 data:<i>Like a bird in a cage I broke in
+stat_time=4015770 stop_time=4019850 data:<i>And demanded that somebody free it
+stat_time=4021000 stop_time=4023100 data:<i>And there was a kid
+stat_time=4024510 stop_time=4026730 data:<i>With a head full of doubt
+stat_time=4028160 stop_time=4030000 data:<i>So I'll scream till I die
+stat_time=4030000 stop_time=4034640 data:<i>And the last of those bad thoughts are finally out
+stat_time=4034850 stop_time=4037060 data:<i>There's a darkness upon me
+stat_time=4037060 stop_time=4039950 data:<i>That's flooded in light
+stat_time=4042970 stop_time=4045050 data:<i>In the fine print they tell me
+stat_time=4045050 stop_time=4048420 data:<i>What's wrong and what's right
+stat_time=4051020 stop_time=4053680 data:女士们先生们  有请Bob Dylan
+stat_time=4070060 stop_time=4074120 data:<i>I ain't gonna work on Maggie's farm no more
+stat_time=4074870 stop_time=4078350 data:<i>I ain't gonna work on Maggie's farm no more
+stat_time=4078730 stop_time=4080410 data:<i>I wake up every morning
+stat_time=4080430 stop_time=4082560 data:<i>Hold my hands and pray for rain
+stat_time=4082600 stop_time=4084640 data:<i>I've got a head full of ideas
+stat_time=4084670 stop_time=4086540 data:<i>Driving me insane
+stat_time=4086590 stop_time=4090440 data:<i>It's a shame the way she makes me scrub the floor
+stat_time=4090980 stop_time=4094870 data:<i>Well, I ain't gonna work on Maggie's farm no more
+stat_time=4099370 stop_time=4102700 data:<i>I ain't gonna work for Maggie's brother no more
+stat_time=4102940 stop_time=4106940 data:<i>I ain't gonna work for Maggie's brother no more
+stat_time=4107300 stop_time=4109020 data:<i>He hands you a nickel
+stat_time=4109080 stop_time=4111000 data:<i>He hands you a dime
+stat_time=4111150 stop_time=4113040 data:<i>He asks you and your friends
+stat_time=4113090 stop_time=4115020 data:<i>If you're having a good time
+stat_time=4115080 stop_time=4119310 data:<i>He blames you every time you slam the door
+stat_time=4119590 stop_time=4123350 data:<i>I ain't gonna work on Maggie's brother no more
+stat_time=4127460 stop_time=4131180 data:<i>Well, I ain't gonna work for Maggie's Pa no more
+stat_time=4131670 stop_time=4135380 data:<i>I ain't gonna work for Maggie's Pa no more
+stat_time=4135400 stop_time=4137180 data:<i>He stubs his cigarette out
+stat_time=4137230 stop_time=4139310 data:<i>In your face just for kicks
+stat_time=4139470 stop_time=4143690 data:<i>His bedroom window is made out of bricks
+stat_time=4143710 stop_time=4147270 data:<i>And the National Guard are standing at his door
+stat_time=4147770 stop_time=4151950 data:<i>Well, I ain't gonna work on Maggie's Pa no more
+stat_time=4156080 stop_time=4159800 data:<i>Well, I ain't gonna work for Maggie's ma no more
+stat_time=4160230 stop_time=4163890 data:<i>I ain't gonna work for Maggie's ma no more
+stat_time=4163930 stop_time=4166030 data:<i>She talks to all the servants
+stat_time=4166090 stop_time=4168530 data:<i>About man and God and law
+stat_time=4168570 stop_time=4172360 data:<i>And everybody tell me she's the brains behind Pa
+stat_time=4172400 stop_time=4176050 data:<i>She's sixty-eight, but claim's she's twenty-four
+stat_time=4176730 stop_time=4180620 data:<i>Well, I ain't gonna work on Maggie's farm no more
+stat_time=4185010 stop_time=4188630 data:<i>Well, I ain't gonna work on Maggie's farm no more
+stat_time=4189110 stop_time=4192630 data:<i>I ain't gonna work on Maggie's farm no more
+stat_time=4192680 stop_time=4194770 data:<i>I try so hard
+stat_time=4195160 stop_time=4197240 data:<i>To be just who I am
+stat_time=4197390 stop_time=4200740 data:<i>But everybody wants you to be just like them
+stat_time=4200790 stop_time=4205570 data:<i>They say "see, while you're playing I get bored"
+stat_time=4205620 stop_time=4209450 data:<i>I ain't gonna work on Maggie's farm no more
+stat_time=4258390 stop_time=4261250 data:这是格莱美独有的景象
+stat_time=4261300 stop_time=4262910 data:Mumford & Sons  Avett Brothers和Bob Dylan
+stat_time=4262910 stop_time=4264070 data:同台演出
+stat_time=4264110 stop_time=4266990 data:即将呈现  Lady Antebellum
+stat_time=4267030 stop_time=4268910 data:Cee Lo Green与Gwyneth Paltrow
+stat_time=4268950 stop_time=4269870 data:Katy Perry
+stat_time=4269920 stop_time=4272190 data:Eminem与Rihanna  以及Dr.Dre
+stat_time=4272230 stop_time=4275180 data:Mick Jagger的格莱美处女秀
+stat_time=4275230 stop_time=4276330 data:Barbra Streisand
+stat_time=4276380 stop_time=4278540 data:以及格莱美新星Arcade Fire
+stat_time=4278580 stop_time=4281710 data:还有年度制作和专辑奖
+stat_time=4281750 stop_time=4285500 data:第五十三届格莱美奖精彩看点
+stat_time=4285550 stop_time=4287770 data:尽在YYeTs
+stat_time=4289950 stop_time=4294220 data:今年美国音乐学院终身成就奖的提名者是
+stat_time=4294280 stop_time=4297390 data:音乐界和演艺界双栖明星Julie Andrews
+stat_time=4297620 stop_time=4300710 data:Acclaimed Jazz鼓手兼领队Roy Haynes
+stat_time=4300760 stop_time=4304440 data:古典音乐常青树组合Julliard String Quartet
+stat_time=4304490 stop_time=4307610 data:民歌复兴组合Kingston Trio
+stat_time=4307760 stop_time=4311970 data:乡村歌手兼作曲  超级巨星Dolly Parton
+stat_time=4312000 stop_time=4314590 data:朋克摇滚先驱The Ramones
+stat_time=4314800 stop_time=4318520 data:深受全美爱戴的福音歌手George Beverly Shea
+stat_time=4318670 stop_time=4322940 data:学院授予以上所有歌手终身成就奖
+stat_time=4326010 stop_time=4327840 data:《欢乐合唱团》的明星代表
+stat_time=4327840 stop_time=4330440 data:以及超级碗冠军"绿湾包装工"球队成员
+stat_time=4330480 stop_time=4333080 data:Lea Michele和Clay Matthews
+stat_time=4334690 stop_time=4338410 data:Clay  超级碗冠军感觉如何
+stat_time=4338480 stop_time=4339740 data:不可思议  Lea
+stat_time=4339790 stop_time=4341150 data:好像活在梦境中
+stat_time=4341200 stop_time=4343150 data:我们深知这一点
+stat_time=4343200 stop_time=4344830 data:下面登场的乐队
+stat_time=4344880 stop_time=4346760 data:度过了梦幻般的一年
+stat_time=4346770 stop_time=4348870 data:向我们伟大的灵魂乐歌手
+stat_time=4348870 stop_time=4351650 data:去年离我们而去的Teddy Pendergrass致敬
+stat_time=4351650 stop_time=4353890 data:同时还会带来他们自己的热门曲目
+stat_time=4353890 stop_time=4356780 data:今晚已包揽两座格莱美奖杯的
+stat_time=4356780 stop_time=4358510 data:Lady Antebellum
+stat_time=4366820 stop_time=4372270 data:<i>If you don't know me by now
+stat_time=4373040 stop_time=4377830 data:<i>You will never never never know me
+stat_time=4381790 stop_time=4387140 data:<i>If you don't know me by now
+stat_time=4388010 stop_time=4392830 data:<i>You will never never never know me
+stat_time=4408800 stop_time=4414320 data:<i>She grow up on the side of the road
+stat_time=4414380 stop_time=4420170 data:<i>Where the church bells ring and strong love grows
+stat_time=4420330 stop_time=4426040 data:<i>She grew up good, she grew up slow
+stat_time=4426180 stop_time=4429220 data:<i>Like American honey
+stat_time=4432400 stop_time=4437890 data:<i>Steady as a preacher, free as a weed
+stat_time=4438150 stop_time=4440560 data:<i>Couldn't wait to get going
+stat_time=4440560 stop_time=4443990 data:<i>But wasn't quite ready to leave
+stat_time=4444240 stop_time=4450150 data:<i>So innocent pure and sweet
+stat_time=4450340 stop_time=4453270 data:<i>American Honey
+stat_time=4456620 stop_time=4462460 data:<i>There's a wild wild whisper blown in the wind
+stat_time=4462460 stop_time=4468320 data:<i>Callin' out my name like a long lost friend
+stat_time=4468540 stop_time=4474730 data:<i>Oh I miss those days as the years go by
+stat_time=4474730 stop_time=4479170 data:<i>Oh nothings sweeter than summertime
+stat_time=4480430 stop_time=4483450 data:<i>And American honey
+stat_time=4486600 stop_time=4491980 data:<i>And American honey
+stat_time=4497050 stop_time=4505090 data:<i>It's a quarter after one, I'm all alone and I need you now
+stat_time=4506720 stop_time=4510070 data:<i>And I said I wouldn't call
+stat_time=4510070 stop_time=4515370 data:<i>But I'm a little drunk and I need you now
+stat_time=4517420 stop_time=4525660 data:<i>It's a quarter after one, I'm all alone and I need you now
+stat_time=4527920 stop_time=4535650 data:<i>Said I wouldn't call but I lost all control and I need you now
+stat_time=4537470 stop_time=4542900 data:<i>And I don't know how I can do without
+stat_time=4543090 stop_time=4548970 data:<i>I just need you now
+stat_time=4552930 stop_time=4559480 data:<i>I just need you now
+stat_time=4562620 stop_time=4566550 data:<i>I just need you now
+stat_time=4578340 stop_time=4581800 data:热烈欢迎Miley Cyrus和Kings Of Leon
+stat_time=4589250 stop_time=4590690 data:我跟Kings的成员们都来自
+stat_time=4590690 stop_time=4592880 data:我们乡村音乐的发源地  田纳西州
+stat_time=4592880 stop_time=4596490 data:因此我们十分荣幸能够颁出下一个奖项
+stat_time=4596880 stop_time=4599810 data:获得最佳乡村专辑提名的有
+stat_time=4607930 stop_time=4610520 data:"Up On The Ridge"  Dierks Bentley
+stat_time=4616840 stop_time=4619530 data:"You Get What You Give"  Zac Brown Band
+stat_time=4626830 stop_time=4629280 data:"The Guitar Song"  Jamey Johnson
+stat_time=4637650 stop_time=4640030 data:"Need You Now"  Lady Antebellum
+stat_time=4643770 stop_time=4646230 data:"Revolution"  Miranda Lambert
+stat_time=4649850 stop_time=4651590 data:获得格莱美奖的是
+stat_time=4655670 stop_time=4658150 data:Lady Antebellum的"Need You Now"
+stat_time=4681010 stop_time=4681950 data:喔天呐
+stat_time=4682580 stop_time=4683950 data:嗨Paul Worley
+stat_time=4684520 stop_time=4687060 data:天呐  我们想要先感谢我们的唱片公司
+stat_time=4687060 stop_time=4692090 data:感谢百代这一年里帮我们获得了这么大的成功
+stat_time=4692610 stop_time=4696030 data:感谢上帝  还有我们家中的亲友们
+stat_time=4696030 stop_time=4699420 data:感谢你们给予在外拼搏的我们莫大的支持
+stat_time=4699420 stop_time=4701490 data:还有Paul Worley  我们的制作人
+stat_time=4702340 stop_time=4705050 data:感谢与我们一路走来的Clark  我们的策划
+stat_time=4705050 stop_time=4707910 data:才华横溢的音乐家
+stat_time=4708210 stop_time=4708860 data:我就不逐个点名了
+stat_time=4708860 stop_time=4710570 data:要感谢的太多  我记不住的
+stat_time=4710890 stop_time=4713990 data:谢谢你们  乡村乐广播台  我们爱你
+stat_time=4717520 stop_time=4720590 data:欢迎格莱美与奥斯卡得主Jamie Foxx
+stat_time=4720590 stop_time=4723510 data:他的新专辑名叫"Best Night Of My Life"
+stat_time=4724970 stop_time=4726650 data:怎么样  大家都怎么样
+stat_time=4727210 stop_time=4728050 data:今晚本来没我什么事
+stat_time=4728050 stop_time=4730910 data:电视台非求我颁这个奖的时候
+stat_time=4730910 stop_time=4734560 data:别说啥不合时宜的字眼
+stat_time=4734560 stop_time=4735370 data:切  要我说
+stat_time=4735380 stop_time=4738220 data:我非说...靠...一边去吧
+stat_time=4739390 stop_time=4740510 data:这里是美国对不对
+stat_time=4740510 stop_time=4742620 data:来  都叫出声来
+stat_time=4744260 stop_time=4745470 data:我就寻思吧
+stat_time=4745470 stop_time=4748460 data:让他们靠...一边儿凉快去吧
+stat_time=4748990 stop_time=4751020 data:靠得嘞  我说得对不
+stat_time=4751090 stop_time=4753860 data:好了  接下来让我们欣赏"Forget You"
+stat_time=4753860 stop_time=4757490 data:这首歌不但获得年度歌曲与年度制作提名
+stat_time=4757490 stop_time=4762660 data:由奥斯卡得主Gwyneth Paltrow与五颜六色的木偶参与演出
+stat_time=4762660 stop_time=4765090 data:今晚格莱美奖得主
+stat_time=4765090 stop_time=4768780 data:一起为Cee-Lo Green疯狂吧
+stat_time=4784140 stop_time=4793900 data:<i>I see you driving 'round town with the girl I love
+stat_time=4793900 stop_time=4796800 data:<i>And I'm like forget you
+stat_time=4797950 stop_time=4801690 data:<i>I guess the change in my pocket wasn't enough
+stat_time=4801690 stop_time=4806000 data:<i>And I'm like forget you, and forget her too
+stat_time=4806000 stop_time=4810200 data:<i>If I was richer, I'd still be with you
+stat_time=4810340 stop_time=4812810 data:<i>Ain't that some shhhh? (ain't that some shhhh?)
+stat_time=4812810 stop_time=4815080 data:<i>And although there's pain in my chest
+stat_time=4815090 stop_time=4819610 data:<i>Still wish you the best with a...forget you
+stat_time=4820610 stop_time=4823990 data:<i>Yeah I'm sorry, I can't afford a ferrari,
+stat_time=4827790 stop_time=4831420 data:<i>I guess she's an Xbox and I'm more Atari
+stat_time=4832020 stop_time=4834740 data:<i>But the way you play your game ain't fair.
+stat_time=4835330 stop_time=4839630 data:<i>I pity the fool that falls in love with you
+stat_time=4839680 stop_time=4843460 data:<i>(Oh oh she's a gold digger, just thought you should know)
+stat_time=4845450 stop_time=4847150 data:<i>I've got some news for you
+stat_time=4847590 stop_time=4850430 data:<i>Yeah go run and tell your little girlfriend
+stat_time=4850430 stop_time=4854420 data:<i>I see you driving 'round town with the girl I love
+stat_time=4854420 stop_time=4856800 data:<i>And I'm like forget you
+stat_time=4858190 stop_time=4861900 data:<i>I guess the change in my pocket wasn't enough
+stat_time=4861900 stop_time=4865820 data:<i>and I'm like forget you and forget her too
+stat_time=4865820 stop_time=4870010 data:<i>Said, if I was richer, I'd still be with ya
+stat_time=4870530 stop_time=4872970 data:<i>Ha, now ain't that some shhhh? (ain't that some shhhh?)
+stat_time=4872970 stop_time=4875270 data:<i>And although there's pain in my chest
+stat_time=4875270 stop_time=4879910 data:<i>I still wish you the best with a, forget you
+stat_time=4879920 stop_time=4880970 data:一起来  跟我唱
+stat_time=4880970 stop_time=4884290 data:<i>Now I know that I had to borrow
+stat_time=4884980 stop_time=4887300 data:<i>Beg and steal and lie and cheat
+stat_time=4888580 stop_time=4891990 data:<i>Trying to keep you, trying to please you
+stat_time=4892260 stop_time=4894670 data:<i>Cause being in love with you ass ain't cheap
+stat_time=4894670 stop_time=4899920 data:<i>Now, I pity the fool that falls in love with you
+stat_time=4900270 stop_time=4903690 data:<i>(Oh oh she's a gold digger, just thought you should know)
+stat_time=4905340 stop_time=4907530 data:<i>I've got some news for you
+stat_time=4907630 stop_time=4909600 data:<i>Ooh! I really hate your ass right now
+stat_time=4909600 stop_time=4910750 data:<i>I hate you too
+stat_time=4910750 stop_time=4914570 data:<i>I see you driving 'round town with the girl I love
+stat_time=4914570 stop_time=4917470 data:<i>And I'm like forget you
+stat_time=4918150 stop_time=4922240 data:<i>I guess the change in my pocket wasn't enough
+stat_time=4922240 stop_time=4926000 data:<i>And I'm like forget you, and forget her too
+stat_time=4926400 stop_time=4930190 data:<i>If I was richer, I'd still be with you
+stat_time=4930740 stop_time=4933250 data:<i>Ain't that's shhhhh(ain't that's shhhhh)
+stat_time=4933250 stop_time=4935310 data:<i>And although there's pain in my chest
+stat_time=4935320 stop_time=4940050 data:<i>Still wish you the best with a...forget you
+stat_time=4941280 stop_time=4945550 data:<i>Now baby, baby, baby, why d'you wanna wanna hurt me so bad
+stat_time=4945550 stop_time=4948370 data:<i>So bad
+stat_time=4948370 stop_time=4950980 data:<i>I tried to tell my mama but she told me
+stat_time=4950980 stop_time=4953220 data:<i>This's one for your dad
+stat_time=4953220 stop_time=4956980 data:<i>And I was like
+stat_time=4957280 stop_time=4958460 data:<i>Why
+stat_time=4959220 stop_time=4960660 data:<i>Why
+stat_time=4960660 stop_time=4963880 data:<i>Why baby
+stat_time=4964410 stop_time=4966210 data:<i>I love you
+stat_time=4966210 stop_time=4968780 data:<i>I still love you
+stat_time=4970860 stop_time=4974790 data:<i>I see you driving 'round town with the guy I love
+stat_time=4974790 stop_time=4978020 data:<i>And I'm like forget you
+stat_time=4978020 stop_time=4982210 data:<i>I guess the change in my pocket wasn't enough
+stat_time=4982210 stop_time=4984340 data:<i>I'm like forget you
+stat_time=4984340 stop_time=4986000 data:<i>And forget her too
+stat_time=4986000 stop_time=4988090 data:<i>Said if I was richer
+stat_time=4988090 stop_time=4990190 data:<i>I'd still be with ya
+stat_time=4990730 stop_time=4992260 data:<i>Now ain't that some shh
+stat_time=4993010 stop_time=4995360 data:<i>And although there's pain in my chest
+stat_time=4995360 stop_time=4997260 data:<i>I still wish you the best
+stat_time=4997260 stop_time=5000030 data:<i>With a forget you
+stat_time=5021500 stop_time=5023500 data:接下来  还有Katy Perry的表演
+stat_time=5023500 stop_time=5025850 data:Keith Urban  Norah Jones和John Mayer
+stat_time=5025850 stop_time=5027970 data:颁发年度歌曲奖
+stat_time=5027970 stop_time=5031130 data:之后Eminem与Rihanna和Dr. Dre一同表演
+stat_time=5031130 stop_time=5033220 data:谁会是最佳新人的得奖者呢
+stat_time=5033220 stop_time=5036040 data:接下来还有Mick Jagger向灵魂乐大师致敬
+stat_time=5036040 stop_time=5038460 data:现今很少见的Barbra Streisand现场表演
+stat_time=5038460 stop_time=5041040 data:还有Arcade Fire格莱美首演
+stat_time=5041040 stop_time=5044540 data:谁会夺走年度专辑和年度制作大奖
+stat_time=5044540 stop_time=5047990 data:敬请关注YYeTs
+stat_time=5048770 stop_time=5050790 data:第53届格莱美颁奖
+stat_time=5050790 stop_time=5053510 data:为您提供明星的独家物品和VIP体验
+stat_time=5053510 stop_time=5055750 data:明星包括Eminem  Jay-Z  Ke$ha
+stat_time=5055750 stop_time=5058440 data:Lady Gaga  Slash  Britney Spears
+stat_time=5058440 stop_time=5061460 data:Barbra Streisand  Train和多位今晚的明星
+stat_time=5061460 stop_time=5063530 data:请参与格莱美慈善eBay竞拍
+stat_time=5063530 stop_time=5065910 data:帮助音乐关怀基金会和格莱美基金会
+stat_time=5065910 stop_time=5068980 data:请登录cbs.com查询
+stat_time=5068980 stop_time=5072050 data:活动由玉兰油赞助  挑战一切可能
+stat_time=5077950 stop_time=5080300 data:女士们  先生们  艾美奖得主
+stat_time=5080300 stop_time=5081610 data:剧集《老爸老妈恋爱史》
+stat_time=5081610 stop_time=5085380 data:和新片《新美女与野兽》主演Neil Patrick Harris
+stat_time=5089830 stop_time=5091520 data:哟哟哟
+stat_time=5092420 stop_time=5095550 data:下一位表演嘉宾是火辣的超级明星
+stat_time=5095550 stop_time=5097820 data:她将于下周开始世界巡演
+stat_time=5097820 stop_time=5101390 data:[Katy客串了Neil主演的《老爸老妈浪漫史》]
+stat_time=5097820 stop_time=5101390 data:上个周一  我有幸跟她上了床
+stat_time=5102640 stop_time=5104210 data:当然是在电视上
+stat_time=5104210 stop_time=5108440 data:我得说她让我精疲力尽  性欲十足
+stat_time=5108440 stop_time=5110570 data:又困惑不已
+stat_time=5110770 stop_time=5113730 data:她今晚有四项提名  包括年度专辑奖
+stat_time=5113730 stop_time=5114750 data:女士们  先生们
+stat_time=5114750 stop_time=5117250 data:有请Katy Perry
+stat_time=5128660 stop_time=5130370 data:<i>He put it on me
+stat_time=5130370 stop_time=5132170 data:<i>I put in on
+stat_time=5132170 stop_time=5135450 data:<i>There was nothing wrong it didn't fit
+stat_time=5135450 stop_time=5137490 data:<i>It wasn't right
+stat_time=5137490 stop_time=5139430 data:<i>Wasn't just the size
+stat_time=5139430 stop_time=5142430 data:<i>They say you know when you know
+stat_time=5142700 stop_time=5145280 data:<i>I don't know
+stat_time=5150790 stop_time=5153160 data:<i>I didn't feel
+stat_time=5153160 stop_time=5156740 data:<i>The fairy tale feeling
+stat_time=5156740 stop_time=5163910 data:<i>No am I a stupid girl
+stat_time=5163910 stop_time=5170660 data:<i>For even dreaming that I could
+stat_time=5173290 stop_time=5178100 data:<i>If it's not like the movies
+stat_time=5178980 stop_time=5183290 data:<i>That's why it should be, yeah
+stat_time=5183660 stop_time=5187050 data:<i>When he's the one, I'll come undone
+stat_time=5187050 stop_time=5191100 data:<i>And your world will stop spinning
+stat_time=5192160 stop_time=5196220 data:<i>And that's just the beginning
+stat_time=5200380 stop_time=5203810 data:<i>'Cause I know you're out there
+stat_time=5203810 stop_time=5208210 data:<i>And you're looking for me
+stat_time=5210570 stop_time=5213430 data:<i>It's crazy idea that
+stat_time=5214440 stop_time=5220740 data:<i>That you were made perfectly for me
+stat_time=5221430 stop_time=5223330 data:<i>You'll see
+stat_time=5227030 stop_time=5230280 data:<i>Just like the movies
+stat_time=5232330 stop_time=5235330 data:<i>That's how it will be
+stat_time=5237190 stop_time=5243120 data:<i>Cinematic and dramatic with the perfect ending
+stat_time=5245200 stop_time=5248250 data:<i>It's not like the movies
+stat_time=5250330 stop_time=5253620 data:<i>But that's how it should be
+stat_time=5255270 stop_time=5256690 data:<i>When he's the one
+stat_time=5256690 stop_time=5258580 data:<i>You'll come undone
+stat_time=5258580 stop_time=5261880 data:<i>And your world will stop spinning
+stat_time=5263690 stop_time=5267930 data:<i>And it's just the beginning
+stat_time=5277550 stop_time=5281510 data:这首歌送给所有的情人们
+stat_time=5287710 stop_time=5294470 data:<i>Cause you make me feel like I'm living a teenage dream
+stat_time=5294470 stop_time=5296100 data:<i>The way you turn me on
+stat_time=5296100 stop_time=5298280 data:<i>I can't sleep
+stat_time=5298280 stop_time=5299670 data:<i>Let's run away
+stat_time=5299670 stop_time=5301790 data:<i>And don't ever look back
+stat_time=5301790 stop_time=5303810 data:<i>Don't ever look back
+stat_time=5304240 stop_time=5306490 data:<i>My heart stops
+stat_time=5306490 stop_time=5308130 data:<i>When you look at me
+stat_time=5308130 stop_time=5310430 data:<i>Just one touch
+stat_time=5310430 stop_time=5312050 data:<i>Now baby I believe
+stat_time=5312050 stop_time=5314370 data:<i>This is real
+stat_time=5314370 stop_time=5315630 data:<i>So take a chance
+stat_time=5315630 stop_time=5317740 data:<i>And don't ever look back
+stat_time=5317740 stop_time=5319480 data:<i>Don't ever look back
+stat_time=5319480 stop_time=5321770 data:<i>I might get your heart racing
+stat_time=5321770 stop_time=5323860 data:<i>In my skin-tight jeans
+stat_time=5323860 stop_time=5327140 data:<i>Be your teenage dream tonight
+stat_time=5327140 stop_time=5329850 data:<i>Let you put your hands on me
+stat_time=5329900 stop_time=5331830 data:<i>In my skin-tight jeans
+stat_time=5331830 stop_time=5334980 data:<i>Be your teenage dream tonight
+stat_time=5341120 stop_time=5342770 data:和我一起唱
+stat_time=5343770 stop_time=5350330 data:<i>Cause you make me feel like I'm living a teenage dream
+stat_time=5350330 stop_time=5352030 data:<i>The way you turn me on
+stat_time=5352030 stop_time=5354190 data:<i>I can't sleep
+stat_time=5354190 stop_time=5355570 data:<i>Let's runaway
+stat_time=5355570 stop_time=5357710 data:<i>And don't ever look back
+stat_time=5357710 stop_time=5359940 data:<i>Don't ever look back
+stat_time=5360300 stop_time=5362390 data:<i>My heart stops
+stat_time=5362390 stop_time=5364030 data:<i>When you look at me
+stat_time=5364030 stop_time=5366230 data:<i>Just one touch
+stat_time=5366230 stop_time=5367920 data:<i>Now baby I believe
+stat_time=5367920 stop_time=5370290 data:<i>This is real
+stat_time=5370290 stop_time=5371520 data:<i>So take a chance
+stat_time=5371520 stop_time=5373700 data:<i>And don't ever look back
+stat_time=5373700 stop_time=5375450 data:<i>Don't ever look back
+stat_time=5375450 stop_time=5377620 data:<i>I might get your heart racing
+stat_time=5377620 stop_time=5379740 data:<i>In my skin-tight jeans
+stat_time=5379740 stop_time=5382890 data:<i>Be your teenage dream tonight
+stat_time=5383350 stop_time=5385730 data:<i>Let you put your hands on me
+stat_time=5385730 stop_time=5387660 data:<i>In my skin-tight jeans
+stat_time=5387660 stop_time=5391040 data:<i>Be your teenage dream tonight
+stat_time=5407260 stop_time=5408890 data:女士们先生们  有请
+stat_time=5408890 stop_time=5410670 data:格莱美得主三人组
+stat_time=5410670 stop_time=5412900 data:Norah Jones  John Mayer和
+stat_time=5412900 stop_time=5415650 data:刚刚得奖的Keith Urban
+stat_time=5426350 stop_time=5431440 data:<i>Jolene, Jolene, Jolene, Jolene
+stat_time=5431700 stop_time=5435850 data:<i>Im begging of you please don't take my man
+stat_time=5437920 stop_time=5442960 data:<i>Jolene, Jolene, Jolene, Jolene
+stat_time=5443640 stop_time=5447790 data:<i>Please don't take him just because you can
+stat_time=5449870 stop_time=5452130 data:<i>Her beauty is beyond compare
+stat_time=5452130 stop_time=5454630 data:<i>With flaming locks of auburn hair
+stat_time=5454630 stop_time=5458520 data:<i>With ivory skin and eyes of emerald green
+stat_time=5460280 stop_time=5462510 data:<i>Her smile is like a breath of spring
+stat_time=5462510 stop_time=5464850 data:<i>Voice is soft like summer rain
+stat_time=5464850 stop_time=5468370 data:<i>And I cannot compete with her, Jolene
+stat_time=5470880 stop_time=5476290 data:<i>Jolene, Jolene, Jolene, Jolene
+stat_time=5476290 stop_time=5480950 data:<i>Im begging of you please don't take my man
+stat_time=5482440 stop_time=5487940 data:<i>Jolene, Jolene, Jolene, Jolene
+stat_time=5488150 stop_time=5492290 data:<i>Please don't take him just because you can
+stat_time=5494200 stop_time=5495950 data:<i>Jolene
+stat_time=5506810 stop_time=5508530 data:我们唱这首歌是为了
+stat_time=5508530 stop_time=5510610 data:向一位伟大的艺人  词曲作者致敬
+stat_time=5510610 stop_time=5513520 data:她是今年终身成就奖获得者
+stat_time=5513520 stop_time=5515920 data:传奇一般的Dolly Parton
+stat_time=5518210 stop_time=5519650 data:我们爱你  Dolly
+stat_time=5521310 stop_time=5524340 data:现在我们很荣幸的为大家颁发年度歌曲奖
+stat_time=5524340 stop_time=5529390 data:这个奖项03年的获奖歌曲是Norah Jones的"Don't Know Why"
+stat_time=5529390 stop_time=5533440 data:这个奖项05年的获奖歌曲是John的"Daughters"
+stat_time=5533680 stop_time=5534570 data:我们记得
+stat_time=5534570 stop_time=5536400 data:- 歌名叫"Daughters"  不是女儿  - 对
+stat_time=5538210 stop_time=5544540 data:我照本宣科  这是过去的一年我们记住的歌曲
+stat_time=5544540 stop_time=5546530 data:获得年度歌曲提名的有
+stat_time=5551640 stop_time=5553800 data:由Ray LaMontagne创作的"Beg Steal Or Borrow"
+stat_time=5553800 stop_time=5556620 data:演唱者  Ray Lamontagne和The Pariah Dogs
+stat_time=5558370 stop_time=5561420 data:由Brody Brown  Cee Lo Green  Philip Lawrence  Ari Levine
+stat_time=5561420 stop_time=5564300 data:和Bruno Mars联合创作的"Fuck you"(亦作"Forget you")
+stat_time=5564300 stop_time=5565860 data:演唱者  Cee Lo Green
+stat_time=5568780 stop_time=5571620 data:由Tom Douglas和Allen Shamblin联合创作的"The House That Built Me"
+stat_time=5571620 stop_time=5573280 data:演唱者  Miranda Lambert
+stat_time=5573830 stop_time=5575750 data:有Alexander Grant  Skylar Grey
+stat_time=5575750 stop_time=5577940 data:和Marshall Mathers联合创作的"Love The Way You Lie"
+stat_time=5577940 stop_time=5580280 data:演唱者  Eminem和Rihanna
+stat_time=5584240 stop_time=5586440 data:由Dave Haywood  Josh Kear  Charles Kelley
+stat_time=5586440 stop_time=5588270 data:和Hillary Scott联合创作的"Need You Now"
+stat_time=5588270 stop_time=5590000 data:演唱者  Lady Antebellum
+stat_time=5594140 stop_time=5596700 data:获得格莱美年度歌曲的是
+stat_time=5598370 stop_time=5601690 data:由Dave Haywood  Josh Kear  Charles Kelley和Hillary Scott创作
+stat_time=5601690 stop_time=5603680 data:Lady Antebellum演唱的"Need You Now"
+stat_time=5632270 stop_time=5634450 data:真是令人惊喜的一年
+stat_time=5634450 stop_time=5635420 data:我们太开心了
+stat_time=5635420 stop_time=5636190 data:感谢上帝
+stat_time=5636190 stop_time=5639430 data:感谢身在纳什维尔和乔治亚州的亲戚朋友
+stat_time=5639790 stop_time=5642160 data:感谢伯曼唱片公司的员工
+stat_time=5642160 stop_time=5643100 data:是啊  感谢Gary Boreman
+stat_time=5643100 stop_time=5644750 data:是你给这首歌大红大紫
+stat_time=5644750 stop_time=5647820 data:改变了我们的一生  谢谢
+stat_time=5647820 stop_time=5649180 data:Josh  你来说
+stat_time=5649460 stop_time=5650150 data:感谢我的夫人
+stat_time=5650150 stop_time=5652390 data:感谢喜欢这首歌的歌迷们
+stat_time=5652530 stop_time=5653730 data:当然  也要感谢你们仨
+stat_time=5653730 stop_time=5655440 data:老婆  谢谢你  情人节快乐
+stat_time=5655440 stop_time=5656410 data:爱你们
+stat_time=5656570 stop_time=5658810 data:感谢歌迷
+stat_time=5659040 stop_time=5660670 data:感谢广播电台
+stat_time=5660860 stop_time=5664000 data:去年我们的生活发生了天翻地覆的变化
+stat_time=5664000 stop_time=5666490 data:我们非常爱你们  谢谢
+stat_time=5673370 stop_time=5675850 data:接下来  Eminem将与Rihanna共同演绎嘻哈传说
+stat_time=5675850 stop_time=5679050 data:并将在舞台上与Dr. Dre重聚
+stat_time=5679060 stop_time=5681920 data:Justin Bieber能否一举击败大哥哥大姐姐
+stat_time=5681920 stop_time=5684180 data:Drake  Florence & The Machine  Mumford & Sons
+stat_time=5684180 stop_time=5687540 data:和Esperanza Spalding获得最佳新人奖吗
+stat_time=5688170 stop_time=5691840 data:2011年格莱美音乐提名专辑现已发售
+stat_time=5691840 stop_time=5695990 data:专辑的部分收入将投入格莱美基金会
+stat_time=5695990 stop_time=5699540 data:为音乐教育竭尽所能  在塔吉特超市有售
+stat_time=5708340 stop_time=5712110 data:欢迎即将上映的电影《保罗》中的Seth Rogen
+stat_time=5723060 stop_time=5723990 data:大家好
+stat_time=5724730 stop_time=5726720 data:这是我首次来到格莱美颁奖现场
+stat_time=5726720 stop_time=5729370 data:目前为止玩得很开心
+stat_time=5729370 stop_time=5734910 data:很多前所未见  前所未闻的事让我大开眼界
+stat_time=5734910 stop_time=5736460 data:当然我指的不是直播现场
+stat_time=5736460 stop_time=5739520 data:[影射Miley吸大麻事件]
+stat_time=5736460 stop_time=5739520 data:我是说我和Miley Cyrus还后台嗨起来了
+stat_time=5746490 stop_time=5747100 data:说出来还别不相信
+stat_time=5747110 stop_time=5754990 data:让我介绍这位嘻哈史上最邪魅狷狂的歌手再合适不过了
+stat_time=5754990 stop_time=5757540 data:跟他同台的有Adam Levine和Skyler Grey
+stat_time=5757540 stop_time=5763630 data:欢迎三位巨星Rihanna  Dr. Dre和今晚两项大奖
+stat_time=5763630 stop_time=5764630 data:得主Eminem
+stat_time=5765990 stop_time=5770880 data:<i>On the first page of our story
+stat_time=5771630 stop_time=5776530 data:<i>The future seemed so bright
+stat_time=5777490 stop_time=5782590 data:<i>Then this thing turned out so evil
+stat_time=5782710 stop_time=5788400 data:<i>I don't know why I'm still surprised
+stat_time=5789020 stop_time=5795060 data:<i>Even angels have their wicked schemes
+stat_time=5795060 stop_time=5801050 data:<i>And you take that to new extremes
+stat_time=5801080 stop_time=5805970 data:<i>But you'll always be my hero
+stat_time=5805970 stop_time=5811010 data:<i>Even though you lost your mind
+stat_time=5811740 stop_time=5816750 data:<i>Just gonna stand there and watch me burn
+stat_time=5817170 stop_time=5823000 data:<i>But that's alright because I like the way it hurts
+stat_time=5823310 stop_time=5828540 data:<i>Just gonna stand there and hear me cry
+stat_time=5828540 stop_time=5834310 data:<i>But that's alright because I love the way you lie
+stat_time=5834370 stop_time=5837520 data:<i>I love the way you lie
+stat_time=5838120 stop_time=5842980 data:<i>Ohhh, I love the way you lie
+stat_time=5847150 stop_time=5853120 data:<i>So maybe I'm a masochist
+stat_time=5853120 stop_time=5859080 data:<i>I try to run, but I don't wanna ever leave
+stat_time=5859080 stop_time=5864630 data:<i>Till the walls are goin' up
+stat_time=5864630 stop_time=5870650 data:<i>In smoke with all our memories
+stat_time=5870650 stop_time=5872820 data:<i>It's morning, you wake, a sunray hits your face
+stat_time=5872820 stop_time=5875770 data:<i>Smeared makeup as we lay in the wake of destruction
+stat_time=5875770 stop_time=5878530 data:<i>Hush baby, speak softly, tell me you're awfully sorry
+stat_time=5878530 stop_time=5880910 data:<i>That you pushed me into the coffee table last night
+stat_time=5880920 stop_time=5882620 data:<i>So I can push you off me
+stat_time=5882620 stop_time=5885400 data:<i>Try and touch me so I can scream at you not to touch me
+stat_time=5885400 stop_time=5888260 data:<i>Run out the room and I'll follow you like a lost puppy
+stat_time=5888270 stop_time=5890900 data:<i>Baby, without you, I'm nothing, I'm so lost, hug me
+stat_time=5890900 stop_time=5894060 data:<i>Then tell me how ugly I am, but that you'll always love me
+stat_time=5894060 stop_time=5896600 data:<i>Then after that, shove me, in the aftermath of the
+stat_time=5896600 stop_time=5899820 data:<i>Destructive path that we're on, two psychopaths but we
+stat_time=5899820 stop_time=5902850 data:<i>Know that no matter how many knives we put in each other's backs
+stat_time=5902850 stop_time=5905540 data:<i>That we'll have each other's backs, 'cause we're that lucky
+stat_time=5905540 stop_time=5908980 data:<i>Together, we move mountains, let's not make mountains out of molehills
+stat_time=5908980 stop_time=5911360 data:<i>You hit me twice, yeah, but who's countin'
+stat_time=5911360 stop_time=5913910 data:<i>I may have hit you three times, I'm startin' to lose count
+stat_time=5913910 stop_time=5916910 data:<i>But together, we'll live forever, we found the youth fountain
+stat_time=5916910 stop_time=5919790 data:<i>Our love is crazy, we're nuts, but I refused counsellin'
+stat_time=5919790 stop_time=5922930 data:<i>This house is too huge, if you move out I'll burn all two thousand
+stat_time=5922930 stop_time=5925430 data:<i>Square feet of it to the ground, ain't shit you can do about it
+stat_time=5925430 stop_time=5927840 data:<i>With you I'm in my f-ckin' mind, without you, I'm out it
+stat_time=5927850 stop_time=5932810 data:<i>Just gonna stand there and hear me cry
+stat_time=5932880 stop_time=5938390 data:<i>But that's all right because I love the way you lie
+stat_time=5938440 stop_time=5941000 data:<i>I love the way you lie
+stat_time=5942960 stop_time=5946630 data:<i>I'm about to lose my mind
+stat_time=5946630 stop_time=5949300 data:<i>You've been gone for so long
+stat_time=5949300 stop_time=5952590 data:<i>I'm running out of time
+stat_time=5953530 stop_time=5956500 data:<i>I need a doctor
+stat_time=5956510 stop_time=5959450 data:<i>Call me a doctor
+stat_time=5959660 stop_time=5963780 data:<i>I need a doctor, doctor
+stat_time=5963780 stop_time=5967190 data:<i>To bring me back to life
+stat_time=5967190 stop_time=5969560 data:<i>I told the world, one day I would pay it back
+stat_time=5969560 stop_time=5973490 data:<i>Say it on tape and lay it, record it, so that one day I could play it back
+stat_time=5973490 stop_time=5976580 data:<i>But I don't even know if I believe it when I'm saying that
+stat_time=5976580 stop_time=5979680 data:<i>Doubt startin' to creep in, everyday it's just so grey and black
+stat_time=5979680 stop_time=5981430 data:<i>Hope, I just need a ray of that
+stat_time=5981430 stop_time=5982720 data:<i>'Cause no one sees my vision
+stat_time=5982720 stop_time=5984950 data:<i>When I play it for 'em, they just say it's wack
+stat_time=5984950 stop_time=5986360 data:<i>But they don't know what dope is
+stat_time=5986360 stop_time=5988680 data:<i>And I don't know if I was awake or asleep when I wrote this
+stat_time=5988680 stop_time=5991780 data:<i>All I know is you came to me when I was at my lowest
+stat_time=5991780 stop_time=5994930 data:<i>You picked me up, breathed new life in me. I owe my life to you
+stat_time=5994930 stop_time=5998050 data:<i>Before the life of me, I don't see why you don't see like I do
+stat_time=5998050 stop_time=6001540 data:<i>But it just dawned on me; you lost a son. See this light in you? It's dark
+stat_time=6001540 stop_time=6004180 data:<i>Let me turn on the lights and brighten me and enlighten you
+stat_time=6004180 stop_time=6007260 data:<i>I don't think you realize what you mean to me, not the slightest clue
+stat_time=6007260 stop_time=6010090 data:<i>'Cause me and you, we're like a crew. I was like your sidekick
+stat_time=6010090 stop_time=6012910 data:<i>You gon' either wanna fight when I get off this f-cking mic
+stat_time=6012910 stop_time=6016630 data:<i>Or you gon' hug me. But I'm out of options, there's nothing else I can do cause
+stat_time=6016630 stop_time=6020430 data:<i>I'm about to lose my mind
+stat_time=6020440 stop_time=6023060 data:<i>You've been gone for so long
+stat_time=6023060 stop_time=6026340 data:<i>I'm running out of time
+stat_time=6027350 stop_time=6030440 data:<i>I need a doctor
+stat_time=6030440 stop_time=6033220 data:<i>Call me a doctor
+stat_time=6033500 stop_time=6037700 data:<i>I need a doctor, doctor
+stat_time=6037700 stop_time=6041100 data:<i>To bring me back to life
+stat_time=6041100 stop_time=6042760 data:<i>It hurts when I see you struggle
+stat_time=6042770 stop_time=6044340 data:<i>You come to me with ideas
+stat_time=6044340 stop_time=6046140 data:<i>You say that these are pieces, so I'm puzzled
+stat_time=6046140 stop_time=6047650 data:<i>'Cause the sh-t I hear is crazy
+stat_time=6047650 stop_time=6050930 data:<i>But you're either getting lazy, or you don't believe in you no more
+stat_time=6050930 stop_time=6053350 data:<i>Seems like your own opinions, not one you can form
+stat_time=6053350 stop_time=6056170 data:<i>Can't make a decision, you keep questioning yourself
+stat_time=6056170 stop_time=6059440 data:<i>Second guessing, and it's almost like your begging for my help
+stat_time=6059440 stop_time=6060320 data:<i>Like, I'm YOUR leader
+stat_time=6060320 stop_time=6062510 data:<i>You're supposed to freaking be MY mentor
+stat_time=6062510 stop_time=6063750 data:<i>I can endure no more
+stat_time=6063750 stop_time=6065490 data:<i>I demand you remember who you are
+stat_time=6065490 stop_time=6067200 data:<i>It was you, who believed in me
+stat_time=6067200 stop_time=6069220 data:<i>When everyone was telling you, don't sign me
+stat_time=6069220 stop_time=6071960 data:<i>Everyone at the freaking label, lets tell the truth
+stat_time=6071960 stop_time=6075010 data:<i>You risked your career for me, I know it as well as you
+stat_time=6075010 stop_time=6076580 data:<i>Nobody wanted to f-ck with the white boy
+stat_time=6076590 stop_time=6078340 data:<i>Dre, I'm crying in this booth
+stat_time=6078340 stop_time=6081160 data:<i>You saved my life, now maybe it's my time to save yours
+stat_time=6081160 stop_time=6084170 data:<i>But I can never repay you, what you did for me is way more
+stat_time=6084170 stop_time=6087160 data:<i>But I ain't giving up faith, and you ain't giving up on me
+stat_time=6087160 stop_time=6090410 data:<i>Get up Dre! I'm dying, I need you, come back for f-ck's sake
+stat_time=6090410 stop_time=6094250 data:<i>I'm about to lose my mind
+stat_time=6094250 stop_time=6096970 data:<i>You've been gone for so long
+stat_time=6096970 stop_time=6100040 data:<i>I'm running out of time
+stat_time=6101160 stop_time=6103930 data:<i>I need a doctor
+stat_time=6104220 stop_time=6107080 data:<i>Call me a doctor
+stat_time=6107300 stop_time=6110060 data:<i>I need a doctor, doctor
+stat_time=6110060 stop_time=6114140 data:女士们先生们  Dr. Dre
+stat_time=6114680 stop_time=6117510 data:<i>It literally feels like a lifetime ago
+stat_time=6117510 stop_time=6120650 data:<i>But I still remember the sh-t like it was just yesterday though
+stat_time=6120650 stop_time=6122770 data:<i>You walked in, yellow jump suit
+stat_time=6122770 stop_time=6124110 data:<i>Whole room, cracked jokes
+stat_time=6124110 stop_time=6127240 data:<i>Once you got inside the booth, told you, like smoke
+stat_time=6127240 stop_time=6129440 data:<i>Went through friends, some of them I put on
+stat_time=6129440 stop_time=6132240 data:<i>But they just left, they said was riding to the death
+stat_time=6132240 stop_time=6133840 data:<i>But where are they now
+stat_time=6133840 stop_time=6135930 data:<i>Now that I need them, I don't see none of them
+stat_time=6135930 stop_time=6138120 data:<i>All I see is Slim f-ck all you fairweather friends
+stat_time=6138120 stop_time=6139370 data:<i>All I need is him
+stat_time=6139370 stop_time=6140560 data:<i>F-cking backstabbers
+stat_time=6140560 stop_time=6142590 data:<i>When the chips were down, you just laughed at us
+stat_time=6142590 stop_time=6146390 data:<i>Now you bout to feel the f-cking wrath of aftermath, damn it
+stat_time=6146390 stop_time=6148120 data:<i>You gon' see us in our lab jackets
+stat_time=6148130 stop_time=6149740 data:<i>And ask where the hell we been
+stat_time=6149740 stop_time=6152020 data:<i>You can kiss my indecisive ass crack maggots
+stat_time=6152020 stop_time=6153510 data:<i>And the crackers ass
+stat_time=6153520 stop_time=6156260 data:<i>Little cracker jack beat making whack math
+stat_time=6156260 stop_time=6158470 data:<i>Backwards producers, I'm back bastards
+stat_time=6158470 stop_time=6160780 data:<i>One more CD and then I'm packing up my bags
+stat_time=6160780 stop_time=6162640 data:<i>And as I leave and I guarantee they'll scream
+stat_time=6162640 stop_time=6164410 data:<i>Dre don't leave us like that man, 'cause
+stat_time=6164410 stop_time=6168030 data:<i>I'm about to lose my mind
+stat_time=6169120 stop_time=6173240 data:<i>I need a doctor doctor
+stat_time=6173240 stop_time=6179380 data:<i>To bring me back to life
+stat_time=6192170 stop_time=6194190 data:掌声有请今晚的提名歌手Jewel
+stat_time=6194190 stop_time=6197370 data:以及今天又将三项格莱美收入囊中的John Legend
+stat_time=6211870 stop_time=6213230 data:我和John都深知
+stat_time=6213230 stop_time=6217490 data:格莱美最佳新人提名是一项至高荣誉
+stat_time=6217490 stop_time=6221180 data:对一个看着格莱美长大的人来说
+stat_time=6221180 stop_time=6224020 data:赢得最佳新人奖意味着梦想成真
+stat_time=6224270 stop_time=6227520 data:我们来见证此刻谁将实现梦想
+stat_time=6227540 stop_time=6230290 data:请看最佳新人提名
+stat_time=6235100 stop_time=6241800 data:Justin Bieber
+stat_time=6242080 stop_time=6246760 data:Drake
+stat_time=6246910 stop_time=6252720 data:Florence & The Machine
+stat_time=6252720 stop_time=6261730 data:Mumford & Sons
+stat_time=6261940 stop_time=6269900 data:Esperanza Spalding
+stat_time=6272770 stop_time=6276300 data:获得格莱美最佳新人奖的是
+stat_time=6280920 stop_time=6283130 data:Esperanza Spalding
+stat_time=6302180 stop_time=6303630 data:祝贺你
+stat_time=6313310 stop_time=6314600 data:我知道时间有限
+stat_time=6314600 stop_time=6316710 data:那么首先  感谢美国音乐学院
+stat_time=6316710 stop_time=6319550 data:在这个奖项中提名我
+stat_time=6319660 stop_time=6322820 data:感谢无与伦比的社区音乐家们
+stat_time=6322820 stop_time=6324340 data:我有幸能成为你们中的一员
+stat_time=6324340 stop_time=6327440 data:感谢我在波特兰的朋友  老师和同事
+stat_time=6328080 stop_time=6329090 data:还有我幸福的一家人
+stat_time=6329090 stop_time=6330960 data:尤其是Gill Goldsteen
+stat_time=6330960 stop_time=6334660 data:Joe  Daniel  Dan Halis  Dave love
+stat_time=6334660 stop_time=6337130 data:Mark Wexler  John Burke
+stat_time=6337560 stop_time=6339340 data:感谢我优秀的朋友们
+stat_time=6339340 stop_time=6341840 data:我由衷地感谢这份荣誉
+stat_time=6341840 stop_time=6343190 data:我会尽最大努力
+stat_time=6343200 stop_time=6345900 data:为你们献上更多伟大的音乐
+stat_time=6345900 stop_time=6347290 data:这是一份无上殊荣
+stat_time=6347290 stop_time=6348050 data:感谢上帝
+stat_time=6348050 stop_time=6349010 data:感谢大家
+stat_time=6354740 stop_time=6355930 data:最佳新人奖颁出后
+stat_time=6355930 stop_time=6359070 data:我们将迎来摇滚史上最富盛名的歌手
+stat_time=6359070 stop_time=6362350 data:Mick Jagger首次登上格莱美舞台
+stat_time=6362350 stop_time=6364480 data:带来一份特别的演出
+stat_time=6364500 stop_time=6367320 data:随后  八座格莱美奖得主
+stat_time=6367320 stop_time=6368620 data:Barbra Streisand也将倾情献唱
+stat_time=6368620 stop_time=6369780 data:Rihanna联袂Drake
+stat_time=6369780 stop_time=6372100 data:Arcade Fire初登格莱美舞台
+stat_time=6372100 stop_time=6375000 data:以及年度专辑和年度制作的颁发
+stat_time=6375000 stop_time=6378360 data:第53届格莱美颁奖典礼
+stat_time=6378480 stop_time=6380660 data:精彩尽在YYeTs
+stat_time=6382100 stop_time=6385260 data:第53届格莱美由以下品牌赞助
+stat_time=6385450 stop_time=6387400 data:全新雪佛兰沃特
+stat_time=6387400 stop_time=6390310 data:北美地区2011年度最佳车系
+stat_time=6390700 stop_time=6391890 data:以及惠普产品
+stat_time=6391890 stop_time=6393520 data:方便个人互联
+stat_time=6399840 stop_time=6400890 data:女士们先生们
+stat_time=6400890 stop_time=6402140 data:有请《欢乐合唱团》的一位明星
+stat_time=6402140 stop_time=6405990 data:即将推出首张专辑的Matthew Morrison
+stat_time=6415120 stop_time=6417460 data:小时候  我一直梦想站上格莱美的舞台
+stat_time=6417470 stop_time=6419800 data:今晚  梦想成为现实
+stat_time=6419800 stop_time=6422360 data:我已成为音乐学院的成员
+stat_time=6422360 stop_time=6424440 data:现在我知道  除去颁发格莱美奖
+stat_time=6424440 stop_time=6426980 data:他们还做过许多伟大业绩
+stat_time=6426980 stop_time=6428590 data:这些工作深得我心
+stat_time=6428590 stop_time=6429870 data:为了让你们更好地了解
+stat_time=6429870 stop_time=6432390 data:也为了我明年能重返这个舞台
+stat_time=6432390 stop_time=6433910 data:我很荣幸为大家请出
+stat_time=6433910 stop_time=6436120 data:音乐学院的主席兼执行总裁
+stat_time=6436120 stop_time=6436940 data:也是我的好朋友
+stat_time=6436940 stop_time=6438410 data:Neil Portnow先生
+stat_time=6449130 stop_time=6449830 data:感谢Matthew
+stat_time=6449830 stop_time=6452260 data:继续你那有意义的工作
+stat_time=6453330 stop_time=6456280 data:我们今晚欢庆格莱美年度盛会
+stat_time=6456650 stop_time=6459880 data:而音乐学院则一直关注着未来
+stat_time=6460240 stop_time=6461390 data:我们的格莱美基金会
+stat_time=6461390 stop_time=6465560 data:为全国各地的中学音乐教育提供赞助
+stat_time=6465820 stop_time=6467220 data:今年  格莱美夏令营
+stat_time=6467220 stop_time=6471330 data:冲出洛杉矶  增加了纽约之旅
+stat_time=6471730 stop_time=6475130 data:登录grammyintheschools.com并提出申请
+stat_time=6475260 stop_time=6475830 data:世事难料
+stat_time=6475830 stop_time=6479400 data:也许有一天你也能登上格莱美舞台
+stat_time=6480370 stop_time=6484300 data:可以看到  音乐的未来一片光明
+stat_time=6484330 stop_time=6487710 data:我们掌声欢迎今晚的最佳新人得主
+stat_time=6487710 stop_time=6489560 data:Esperanza Spalding
+stat_time=6493600 stop_time=6495830 data:以及来自格莱美爵士乐团
+stat_time=6495830 stop_time=6497850 data:和格莱美夏令营乐团的
+stat_time=6497850 stop_time=6499940 data:优秀中学生音乐家
+stat_time=6503900 stop_time=6505290 data:也许我在剧中扮演了音乐教师
+stat_time=6505290 stop_time=6508170 data:但是培养下一代才华横溢的音乐人
+stat_time=6508170 stop_time=6511990 data:是我和学院的共同目标
+stat_time=6513540 stop_time=6518590 data:我们的音乐关怀基金将继续其慈善任务
+stat_time=6518590 stop_time=6521910 data:在危机中帮助每个有需要的人
+stat_time=6521910 stop_time=6524270 data:包括戒毒康复
+stat_time=6524270 stop_time=6526640 data:我们的第二十届年度宣传活动
+stat_time=6526640 stop_time=6530930 data:今年共筹集资金一千万美元
+stat_time=6535450 stop_time=6538640 data:我们位于洛杉矶的格莱美博物馆
+stat_time=6538640 stop_time=6540760 data:已经成为当今音乐界
+stat_time=6540760 stop_time=6544420 data:最具娱乐性的一大文化和教育中心
+stat_time=6544510 stop_time=6545520 data:看看吧
+stat_time=6546570 stop_time=6548220 data:我很荣幸成为博物馆的一员
+stat_time=6548220 stop_time=6549370 data:人人都有机会参与
+stat_time=6549370 stop_time=6551110 data:它给我提供一个伟大契机
+stat_time=6551110 stop_time=6552390 data:了解音乐的历史
+stat_time=6552390 stop_time=6554650 data:以及我们今日的努力方向
+stat_time=6556240 stop_time=6558150 data:这家伙我没看走眼
+stat_time=6559010 stop_time=6561160 data:大家放心  今后
+stat_time=6561580 stop_time=6564830 data:音乐学院将继续确保所有音乐人
+stat_time=6564830 stop_time=6567660 data:都能够劳有所获
+stat_time=6568250 stop_time=6570890 data:我们会赞助新型的播送服务
+stat_time=6570890 stop_time=6573190 data:例如卫星和网络电台
+stat_time=6573190 stop_time=6575960 data:让他们得到应得的回报
+stat_time=6576520 stop_time=6580990 data:通过这些便捷合法的途径来享受音乐
+stat_time=6580990 stop_time=6585790 data:您将帮助音乐人创造您喜爱的音乐
+stat_time=6586070 stop_time=6589820 data:我们也将继续支持音乐人的言论自由
+stat_time=6589820 stop_time=6593280 data:让他们通过音乐表达自身
+stat_time=6594080 stop_time=6598530 data:我愿代表音乐学院承认对David Geffen的表彰
+stat_time=6598530 stop_time=6603360 data:他于昨晚获得音乐学院的产业偶像奖
+stat_time=6603360 stop_time=6604950 data:祝贺你  David
+stat_time=6604950 stop_time=6610150 data:[音乐学院产业偶像奖]
+stat_time=6611760 stop_time=6613170 data:还有一件事
+stat_time=6613870 stop_time=6620020 data:在当今世界最严重的一次经济衰退中
+stat_time=6620160 stop_time=6622170 data:有一样东西未曾改变
+stat_time=6622180 stop_time=6623340 data:你们可以坚信
+stat_time=6623340 stop_time=6625000 data:我们这个富有创造力的团体
+stat_time=6625000 stop_time=6626990 data:从未改变过自己的承诺和决心
+stat_time=6626990 stop_time=6630640 data:我们将永不放弃音乐
+stat_time=6633890 stop_time=6638360 data:我们展望未来之时  不要忘记
+stat_time=6638420 stop_time=6639250 data:在过去的一年里
+stat_time=6639250 stop_time=6641280 data:我们失去了一些乐坛精英
+stat_time=6641280 stop_time=6644280 data:让我们暂停此刻  共同追忆他们
+stat_time=6648470 stop_time=6650950 data:[缅怀]
+stat_time=6818730 stop_time=6822580 data:今晚我很高兴来到这里
+stat_time=6822580 stop_time=6824620 data:来到这座美妙的城市
+stat_time=6826770 stop_time=6830200 data:我要向Salomon Burke致敬
+stat_time=6831620 stop_time=6833040 data:大家一起喊"Yeah"
+stat_time=6835650 stop_time=6837470 data:大家一起喊"Yeah"
+stat_time=6839130 stop_time=6840120 data:我听到你们了
+stat_time=6841810 stop_time=6846930 data:<i>Everybody wants somebody
+stat_time=6847210 stop_time=6853330 data:<i>Everybody needs somebody to love
+stat_time=6854360 stop_time=6856020 data:<i>Someone to love
+stat_time=6856970 stop_time=6858440 data:<i>Someone to kiss
+stat_time=6859630 stop_time=6861240 data:<i>Someone to miss
+stat_time=6862360 stop_time=6864900 data:<i>I need you, you, you
+stat_time=6865090 stop_time=6867640 data:<i>I need you, you, you
+stat_time=6867800 stop_time=6870370 data:<i>I need you, you, you
+stat_time=6870540 stop_time=6873260 data:<i>I need you, you, you
+stat_time=6873260 stop_time=6874650 data:<i>Someone to please
+stat_time=6875820 stop_time=6878550 data:<i>Sometimes tease
+stat_time=6878740 stop_time=6880050 data:<i>Sometimes miss
+stat_time=6881220 stop_time=6882900 data:<i>Sometimes kiss
+stat_time=6884090 stop_time=6886570 data:<i>I need you, you, you
+stat_time=6886720 stop_time=6889300 data:<i>I need you, you, you
+stat_time=6889440 stop_time=6891740 data:<i>I need you, you, you
+stat_time=6892130 stop_time=6894950 data:<i>I need you, you, you
+stat_time=6896110 stop_time=6897630 data:<i>Sometimes I feel like
+stat_time=6898860 stop_time=6901180 data:<i>A little sad inside
+stat_time=6901520 stop_time=6903380 data:<i>My baby mistreats me
+stat_time=6903620 stop_time=6905670 data:<i>And I kinda get a little bit mad
+stat_time=6906070 stop_time=6908330 data:<i>I need you, you, you
+stat_time=6908540 stop_time=6910110 data:<i>To see me through
+stat_time=6911210 stop_time=6912780 data:<i>When the sun goes down
+stat_time=6913880 stop_time=6915940 data:<i>Ain't nobody else around
+stat_time=6917040 stop_time=6918600 data:<i>I need you baby
+stat_time=6919310 stop_time=6920720 data:<i>I need you so bad
+stat_time=6921950 stop_time=6923900 data:<i>I need you bad, baby
+stat_time=6924750 stop_time=6926100 data:<i>I need you so bad
+stat_time=6927290 stop_time=6930190 data:<i>I need you, you, you
+stat_time=6930340 stop_time=6932750 data:<i>I need you, you, you
+stat_time=6932930 stop_time=6935670 data:<i>I need you, you, you
+stat_time=6935800 stop_time=6938170 data:<i>I need you, you, you
+stat_time=6938330 stop_time=6939790 data:<i>I need you
+stat_time=6941040 stop_time=6942500 data:<i>I need you
+stat_time=6944320 stop_time=6945600 data:<i>I need you baby
+stat_time=6946890 stop_time=6947950 data:<i>I need you so bad
+stat_time=6949580 stop_time=6951670 data:<i>I need you baby
+stat_time=6952350 stop_time=6954180 data:<i>I need you baby
+stat_time=6955100 stop_time=6957270 data:<i>I need you baby
+stat_time=6957980 stop_time=6959610 data:<i>I need you love it
+stat_time=6960770 stop_time=6962770 data:<i>I need you baby
+stat_time=6963640 stop_time=6965670 data:大家开心吗
+stat_time=6969720 stop_time=6971800 data:大家真的开心吗
+stat_time=6976680 stop_time=6979330 data:<i>I need you, you, you
+stat_time=6979520 stop_time=6981990 data:<i>I need you, you, you
+stat_time=6982160 stop_time=6983680 data:<i>I need you baby
+stat_time=6984610 stop_time=6986170 data:<i>When the sun goes down
+stat_time=6987150 stop_time=6989240 data:<i>Ain't nobody else around
+stat_time=6990060 stop_time=6991500 data:<i>I need you sugar
+stat_time=6992740 stop_time=6994780 data:<i>I need you so bad
+stat_time=6995410 stop_time=6997090 data:<i>I need you baby
+stat_time=6998210 stop_time=6999630 data:来啊
+stat_time=7000390 stop_time=7001570 data:大家一起来
+stat_time=7018970 stop_time=7020320 data:<i>I need you baby
+stat_time=7021490 stop_time=7023140 data:<i>I need you sugar
+stat_time=7025770 stop_time=7027180 data:<i>I need you baby
+stat_time=7028640 stop_time=7030510 data:<i>I need you so bad
+stat_time=7031450 stop_time=7033850 data:<i>I need you baby
+stat_time=7040580 stop_time=7041770 data:<i>You're the best thing
+stat_time=7042920 stop_time=7044400 data:<i>You're the best thing
+stat_time=7053220 stop_time=7054810 data:<i>You've got that baby
+stat_time=7057880 stop_time=7058810 data:来啊
+stat_time=7060670 stop_time=7061660 data:<i>I need
+stat_time=7061840 stop_time=7062940 data:<i>You
+stat_time=7063610 stop_time=7064600 data:<i>You
+stat_time=7065630 stop_time=7066970 data:<i>You
+stat_time=7076060 stop_time=7076970 data:谢谢
+stat_time=7092460 stop_time=7094080 data:<i>I need you baby
+stat_time=7095110 stop_time=7096670 data:<i>I need you so bad
+stat_time=7097890 stop_time=7099370 data:<i>I need you sugar
+stat_time=7100780 stop_time=7102270 data:<i>I need you so bad
+stat_time=7103470 stop_time=7106080 data:<i>I need you, you, you
+stat_time=7106300 stop_time=7108910 data:<i>I need you, you, you
+stat_time=7109090 stop_time=7111730 data:<i>I need you, you, you
+stat_time=7111910 stop_time=7114310 data:<i>I need you, you, you
+stat_time=7114520 stop_time=7115330 data:<i>I need
+stat_time=7115500 stop_time=7116530 data:<i>You
+stat_time=7116720 stop_time=7117920 data:<i>You
+stat_time=7118730 stop_time=7120230 data:<i>You
+stat_time=7130400 stop_time=7131410 data:谢谢大家
+stat_time=7159650 stop_time=7163050 data:[理事奖]
+stat_time=7160560 stop_time=7162830 data:美国音乐学院设置的理事奖
+stat_time=7162830 stop_time=7165490 data:是为表彰那些在音像领域
+stat_time=7165490 stop_time=7168530 data:做出非表演性质突出贡献的个人
+stat_time=7168530 stop_time=7170070 data:今年  这一奖项将授予
+stat_time=7170070 stop_time=7172200 data:格莱美奖得主  古典音乐制作人
+stat_time=7172200 stop_time=7173830 data:已故的Wilma Cozart Fine
+stat_time=7173830 stop_time=7175020 data:以及两位业绩出众的
+stat_time=7175020 stop_time=7177710 data:资深唱片制作执行主管
+stat_time=7177710 stop_time=7179990 data:Al Bell  他与史塔克斯  魔城
+stat_time=7179990 stop_time=7181110 data:和贝尔马克均有合作
+stat_time=7181110 stop_time=7182120 data:以及Bruce Lundvall
+stat_time=7182120 stop_time=7184010 data:他曾效力于哥伦比亚
+stat_time=7184010 stop_time=7186970 data:艾丽卡  曼哈顿和蓝调唱片公司
+stat_time=7189350 stop_time=7190570 data:女士们  先生们
+stat_time=7190570 stop_time=7192100 data:让我们有请三度获得格莱美奖的
+stat_time=7192100 stop_time=7193630 data:Kris Kristofferson
+stat_time=7202290 stop_time=7204570 data:接下来这位美丽的天才歌手
+stat_time=7204570 stop_time=7207880 data:可谓闻君一曲  养性怡情
+stat_time=7207880 stop_time=7212120 data:她有着天籁般的嗓音和冠军之心
+stat_time=7212450 stop_time=7214590 data:却又褒有孩童般的狡黠
+stat_time=7216520 stop_time=7219990 data:作为一名演员  导演兼制作人
+stat_time=7220410 stop_time=7222180 data:和一位人道主义者
+stat_time=7222520 stop_time=7225430 data:她以她纯净的灵魂和歌声
+stat_time=7225430 stop_time=7227960 data:抚慰了我们生之苦痛
+stat_time=7228320 stop_time=7230120 data:我们将要听到的这首歌
+stat_time=7230120 stop_time=7234380 data:曾获奥斯卡和格莱美年度歌曲奖
+stat_time=7234610 stop_time=7236030 data:让我们有请
+stat_time=7236150 stop_time=7241190 data:有史以来最有才华的一位乐坛巨星
+stat_time=7241390 stop_time=7246150 data:音乐关怀年度人物得主  Barbra Streisand
+stat_time=7274720 stop_time=7276510 data:<i>Love
+stat_time=7277800 stop_time=7280830 data:<i>Soft as an easy chair
+stat_time=7283210 stop_time=7285320 data:<i>Love
+stat_time=7286710 stop_time=7290250 data:<i>Fresh as the morning air
+stat_time=7292980 stop_time=7299820 data:<i>One love that is shared by two
+stat_time=7302100 stop_time=7307820 data:<i>I have found with you
+stat_time=7310650 stop_time=7318690 data:<i>Like a rose under the April snow
+stat_time=7320460 stop_time=7326930 data:<i>I was always certain love would grow
+stat_time=7328970 stop_time=7331280 data:<i>Love
+stat_time=7332600 stop_time=7336350 data:<i>Ageless and evergreen
+stat_time=7337970 stop_time=7343350 data:<i>Seldom seen by two
+stat_time=7347780 stop_time=7355730 data:<i>You and I will make each night a first
+stat_time=7356210 stop_time=7361020 data:<i>And every day a beginning
+stat_time=7364650 stop_time=7366780 data:<i>Spirits rise
+stat_time=7367180 stop_time=7371850 data:<i>And their dance is unrehearsed
+stat_time=7372110 stop_time=7375950 data:<i>They warm and excite us
+stat_time=7376580 stop_time=7381370 data:<i>Cause we have the brightest love
+stat_time=7383690 stop_time=7387880 data:<i>Two lights that shine as one
+stat_time=7390070 stop_time=7394350 data:<i>Morning glory and midnight sun
+stat_time=7397690 stop_time=7401300 data:<i>Time, we've learned to
+stat_time=7401300 stop_time=7404670 data:<i>sail above
+stat_time=7405380 stop_time=7409170 data:<i>Time
+stat_time=7409170 stop_time=7411140 data:<i>can't change the meaning
+stat_time=7411140 stop_time=7415570 data:<i>of one love
+stat_time=7417400 stop_time=7420830 data:<i>Ageless and ever
+stat_time=7422840 stop_time=7427840 data:<i> evergreen
+stat_time=7437650 stop_time=7441910 data:<i>Oh, so evergreen
+stat_time=7476840 stop_time=7480310 data:掌声有请Nicki Minaj和Will.I.Am
+stat_time=7492880 stop_time=7497260 data:自格莱美最佳说唱专辑奖创立以来
+stat_time=7497570 stop_time=7502570 data:该奖就一直眷顾改变音乐史走向的歌手
+stat_time=7503390 stop_time=7506490 data:这些杰出人物包括Outkast
+stat_time=7506590 stop_time=7508830 data:Kanye West和Li'l Wayne
+stat_time=7509250 stop_time=7512370 data:还有今晚再获提名的
+stat_time=7512370 stop_time=7513960 data:Jay-Z与Eminem
+stat_time=7515150 stop_time=7519880 data:最佳说唱专辑奖的提名专辑有
+stat_time=7523220 stop_time=7526580 data:《The Adventures Of Bobby Ray》B.o.B
+stat_time=7530530 stop_time=7532720 data:《Thank Me Later》Drake
+stat_time=7536460 stop_time=7539070 data:《Recovery》Eminem
+stat_time=7543850 stop_time=7546720 data:《The Blueprint 3》Jay-Z
+stat_time=7551720 stop_time=7554150 data:《How I Got Over》The Roots
+stat_time=7559270 stop_time=7561060 data:获得格莱美奖的是
+stat_time=7568020 stop_time=7570760 data:Eminem的《Recovery》
+stat_time=7587090 stop_time=7591360 data:这太疯狂了
+stat_time=7596200 stop_time=7596870 data:谢谢
+stat_time=7598750 stop_time=7601970 data:首先  我想说  感谢每一个人
+stat_time=7601970 stop_time=7604660 data:所有帮助我出这张专辑的制作人
+stat_time=7604660 stop_time=7608960 data:所有人都至关重要  专辑所有的制作人
+stat_time=7608960 stop_time=7610850 data:我还想感谢Rihanna
+stat_time=7610850 stop_time=7615290 data:是她将此张专辑提升到这个高度
+stat_time=7616350 stop_time=7617620 data:感谢环球唱片公司
+stat_time=7617620 stop_time=7621140 data:感谢Dr. Dre  Paul Rosenberg
+stat_time=7621140 stop_time=7624110 data:Jimmy Elvine  Tracy McNew  Mark Labell
+stat_time=7624110 stop_time=7627220 data:每一位  Shady Aftermath这个大家庭
+stat_time=7627220 stop_time=7628840 data:环球唱片公司  谢谢
+stat_time=7629450 stop_time=7630760 data:感谢我的歌迷
+stat_time=7630930 stop_time=7633010 data:你们好吗  底特律  加油
+stat_time=7645220 stop_time=7647480 data:登录grammy.com  查看所有获奖者
+stat_time=7647480 stop_time=7649800 data:下载今晚的精彩表演
+stat_time=7649800 stop_time=7653240 data:还有独家奉送的格莱美现场花絮
+stat_time=7653240 stop_time=7655200 data:在Twitter  Facebook和Youtube上
+stat_time=7655200 stop_time=7656810 data:查看格莱美奖
+stat_time=7657210 stop_time=7660210 data:下节预告  Rihanna与Drake同台表演
+stat_time=7660210 stop_time=7662490 data:Arcade Fire首次亮相格莱美
+stat_time=7662640 stop_time=7665700 data:谁将赢得今晚最受瞩目的两项大奖
+stat_time=7665730 stop_time=7668160 data:年度制作和年度专辑奖
+stat_time=7668910 stop_time=7672230 data:2011年度格莱美专辑正在热销
+stat_time=7672380 stop_time=7675690 data:部分专辑获利将捐赠给格莱美基金会
+stat_time=7675690 stop_time=7677900 data:以促进音乐教育事业的发展
+stat_time=7678000 stop_time=7679900 data:详情尽在grammy.com
+stat_time=7685360 stop_time=7688270 data:有请三座格莱美奖获得者Puff Daddy
+stat_time=7700370 stop_time=7704030 data:她是音乐界最持之以恒的一位歌手
+stat_time=7704160 stop_time=7708420 data:而他是最有才华的说唱歌手之一
+stat_time=7708890 stop_time=7710040 data:他们将
+stat_time=7710580 stop_time=7712020 data:共同演绎
+stat_time=7712520 stop_time=7716390 data:他们的火爆单曲
+stat_time=7717070 stop_time=7718430 data:有请今晚的获奖歌手
+stat_time=7718960 stop_time=7721980 data:Rihanna与Drake现场表演"What's My Name"
+stat_time=7743410 stop_time=7746010 data:<i>Ooh na na, what's my name
+stat_time=7746010 stop_time=7748420 data:<i>Ooh na na, what's my name
+stat_time=7748420 stop_time=7750970 data:<i>Ooh na na, what's my name
+stat_time=7751290 stop_time=7753420 data:<i>What's my name, what's my name
+stat_time=7754000 stop_time=7756130 data:<i>I heard you good with them soft lips
+stat_time=7756460 stop_time=7758400 data:<i>Yeah you know word of mouth
+stat_time=7758400 stop_time=7761490 data:<i>The square root of 69 is 8 something right
+stat_time=7761490 stop_time=7763360 data:<i>Cause I've been tryna work it out, oooow
+stat_time=7763860 stop_time=7765570 data:<i>Good weed, white wine
+stat_time=7765990 stop_time=7767870 data:<i>I come alive in the night time
+stat_time=7768490 stop_time=7770350 data:<i>Okay, away we go
+stat_time=7770350 stop_time=7772940 data:<i>Only thing we have on is the radio
+stat_time=7772940 stop_time=7775910 data:<i>Ooooh, let it play, say you gotta leave
+stat_time=7775910 stop_time=7776990 data:<i>But I know you wanna stay
+stat_time=7777520 stop_time=7779900 data:<i>You just waiting on the traffic jam to finish girl
+stat_time=7779910 stop_time=7782050 data:<i>The things we could do in twenty minutes girl
+stat_time=7782050 stop_time=7783450 data:<i>Say my name, say my name
+stat_time=7783650 stop_time=7786830 data:<i>Wear it out, its getting hot, crack a window, air it out
+stat_time=7786830 stop_time=7788770 data:<i>I can get you through a mighty long day
+stat_time=7788770 stop_time=7791210 data:<i>Soon as you go the text that I write is gonna say
+stat_time=7791210 stop_time=7794520 data:<i>Not everybody knows how to work my body
+stat_time=7794650 stop_time=7797150 data:<i>Knows how to make me want it
+stat_time=7797150 stop_time=7799750 data:<i>But boy you stay up on it
+stat_time=7800070 stop_time=7801620 data:<i>You got that something
+stat_time=7801950 stop_time=7804090 data:<i>That keeps me so off balance
+stat_time=7804420 stop_time=7807010 data:<i>Baby you're a challenge
+stat_time=7807010 stop_time=7809210 data:<i>Lets explore your talent
+stat_time=7809540 stop_time=7813700 data:<i>Hey boy, I really wanna see if you can go long time
+stat_time=7813700 stop_time=7814970 data:<i>With a girl like me
+stat_time=7814970 stop_time=7817030 data:<i>Hey boy, I really wanna be with you
+stat_time=7817030 stop_time=7818430 data:<i>Cause you just my type
+stat_time=7818430 stop_time=7820070 data:<i>Ooh na na na na
+stat_time=7820070 stop_time=7822250 data:<i>I need a boy to take it over
+stat_time=7822250 stop_time=7824590 data:<i>Looking for a guy to put in work, uh
+stat_time=7824590 stop_time=7828680 data:<i>Oooooh, oooooh
+stat_time=7829690 stop_time=7831230 data:<i>You're so amazing
+stat_time=7831280 stop_time=7834410 data:<i>You took the time to figure me out
+stat_time=7834410 stop_time=7835940 data:<i>That's why you take me
+stat_time=7836190 stop_time=7839210 data:<i>Way past the point of turning me on
+stat_time=7839460 stop_time=7840830 data:<i>You bout to break me
+stat_time=7840830 stop_time=7845330 data:<i>I swear you got me losing my mind
+stat_time=7847400 stop_time=7848140 data:一起唱
+stat_time=7848140 stop_time=7849380 data:<i>Ooh na na
+stat_time=7850390 stop_time=7851550 data:<i>Ooh na na
+stat_time=7857460 stop_time=7858810 data:<i>Ooh na na
+stat_time=7860050 stop_time=7861210 data:<i>Ooh na na
+stat_time=7862250 stop_time=7863660 data:<i>Ooh na na
+stat_time=7867070 stop_time=7870640 data:<i>Hey boy, I really wanna see if you can go long time
+stat_time=7870640 stop_time=7871920 data:<i>With a girl like me
+stat_time=7871920 stop_time=7874030 data:<i>Hey boy, I really wanna be with you
+stat_time=7874030 stop_time=7875580 data:<i>Cause you just my type
+stat_time=7875580 stop_time=7877030 data:<i>Ooh na na na na
+stat_time=7877030 stop_time=7879200 data:<i>I need a boy to take it over
+stat_time=7879220 stop_time=7881590 data:<i>Looking for a guy to put in work, uh
+stat_time=7881630 stop_time=7885770 data:<i>Oooooh, oooooh
+stat_time=7886150 stop_time=7889740 data:<i>Hey boy, I really wanna see if you can go long time
+stat_time=7889740 stop_time=7890910 data:<i>With a girl like me
+stat_time=7890910 stop_time=7893090 data:<i>Hey boy, I really wanna be with you
+stat_time=7893090 stop_time=7894470 data:<i>Cause you just my type
+stat_time=7894470 stop_time=7896080 data:<i>Ooh na na na na
+stat_time=7896080 stop_time=7898280 data:<i>I need a boy to take it over
+stat_time=7898300 stop_time=7900700 data:<i>Looking for a guy to put in work, uh
+stat_time=7900700 stop_time=7904920 data:<i>Oooooh, oooooh
+stat_time=7918720 stop_time=7919700 data:女士们  先生们
+stat_time=7919700 stop_time=7922260 data:有请Jennifer Lopez和Marc Anthony
+stat_time=7928730 stop_time=7932870 data:好了  一些最有名的音乐经典
+stat_time=7932950 stop_time=7934440 data:都曾获得过此奖项
+stat_time=7934440 stop_time=7938070 data:首个格莱美年度制作奖是
+stat_time=7938180 stop_time=7941250 data:Volare, oooh
+stat_time=7941960 stop_time=7942840 data:我爸爸有这张专辑
+stat_time=7945420 stop_time=7946770 data:从那时起
+stat_time=7946900 stop_time=7948900 data:一些最为经久不衰的大作
+stat_time=7948900 stop_time=7951260 data:得到了这项格莱美奖
+stat_time=7951260 stop_time=7953810 data:从"Moon River"
+stat_time=7954340 stop_time=7957140 data:-  Moon River   - 老天
+stat_time=7958020 stop_time=7959410 data:"Bridge Over Troubled Waters"
+stat_time=7959410 stop_time=7961900 data:- 是这么唱的  -到"Beat it"等等
+stat_time=7961900 stop_time=7963560 data:- 好吧  - 好
+stat_time=7964500 stop_time=7968550 data:获得年度制作奖提名的歌曲有
+stat_time=7974630 stop_time=7978030 data:"Nothin' On You" B.o.B和Bruno Mars
+stat_time=7982910 stop_time=7986200 data:"Love The Way You Lie" Eminem和Rihanna
+stat_time=7993670 stop_time=7997590 data:别名"Forget You" Cee Lo Green
+stat_time=7999830 stop_time=8003510 data:"Empire State Of Mind" Jay-Z和Alicia Keys
+stat_time=8010150 stop_time=8012580 data:"Need You Now" Lady Antebellum
+stat_time=8018340 stop_time=8020450 data:获奖的是
+stat_time=8023830 stop_time=8025990 data:"Need You Now" Lady Antebellum
+stat_time=8055490 stop_time=8056870 data:恭喜你们
+stat_time=8063780 stop_time=8064880 data:我的天哪
+stat_time=8064890 stop_time=8066000 data:我挡着你呢
+stat_time=8066470 stop_time=8067160 data:真是太意外了
+stat_time=8067160 stop_time=8069300 data:我们开始都走错方向了
+stat_time=8070030 stop_time=8073460 data:非常感谢美国音乐学院
+stat_time=8073760 stop_time=8076450 data:你们要知道今年对我们的重要性
+stat_time=8076450 stop_time=8077680 data:我们去年就有机会
+stat_time=8077680 stop_time=8080970 data:在格莱美这个舞台演唱这首歌
+stat_time=8080970 stop_time=8082780 data:这一年意义重大
+stat_time=8082780 stop_time=8085050 data:我们感激不尽
+stat_time=8085120 stop_time=8086040 data:难以置信
+stat_time=8086040 stop_time=8087610 data:我们在后台痛哭流涕
+stat_time=8087610 stop_time=8089520 data:我不敢相信我们会再次站到这个舞台上
+stat_time=8089520 stop_time=8091070 data:Clark  说点什么吧  兄弟
+stat_time=8091070 stop_time=8092490 data:我要感谢Lady A
+stat_time=8092490 stop_time=8093740 data:还要感谢Paul
+stat_time=8094010 stop_time=8095190 data:你们太棒了
+stat_time=8095190 stop_time=8098690 data:大家做的很好不过还要再接再厉
+stat_time=8099200 stop_time=8100410 data:谢谢大家
+stat_time=8106810 stop_time=8108060 data:这里是格莱美之夜  精彩还在继续
+stat_time=8108060 stop_time=8109300 data:不要走开
+stat_time=8109300 stop_time=8110540 data:第五十三届格莱美奖颁奖盛典
+stat_time=8110540 stop_time=8112600 data:还有更多精彩表演
+stat_time=8112610 stop_time=8116350 data:Arcade Fire将首次在格莱美表演
+stat_time=8116350 stop_time=8118710 data:年度专辑奖也将揭晓
+stat_time=8118710 stop_time=8122040 data:不要转台  敬请期待CBS
+stat_time=8124060 stop_time=8126480 data:第五十三届格莱美奖颁奖盛典
+stat_time=8127280 stop_time=8128320 data:高中生们
+stat_time=8128320 stop_time=8131360 data:和格莱美在洛城或纽约共度盛夏
+stat_time=8131360 stop_time=8132630 data:申请格莱美夏令营
+stat_time=8132630 stop_time=8136340 data:请登录www.grammyintheschools.com
+stat_time=8136900 stop_time=8137760 data:品牌赞助
+stat_time=8137760 stop_time=8141060 data:焕然一新  百分百全新设计福特探索者
+stat_time=8141060 stop_time=8142120 data:拥有一辆吧
+stat_time=8142950 stop_time=8143790 data:还有塔吉特
+stat_time=8143800 stop_time=8145980 data:期待更多  花费更少
+stat_time=8149520 stop_time=8150420 data:女士们  先生们
+stat_time=8150420 stop_time=8152150 data:欢迎《老爸老妈浪漫史》中的演员
+stat_time=8152150 stop_time=8153620 data:Jason Segel
+stat_time=8157690 stop_time=8159320 data:欢迎来到格莱美
+stat_time=8159320 stop_time=8162630 data:今晚即证明了音乐最重要的是什么
+stat_time=8162970 stop_time=8165980 data:如果你是个名利双收的人
+stat_time=8166400 stop_time=8169060 data:那你想穿什么就穿什么
+stat_time=8170130 stop_time=8172990 data:我12岁之前在学校都穿超人披风
+stat_time=8172990 stop_time=8174450 data:我每天都被痛打
+stat_time=8174450 stop_time=8175990 data:我的绰号叫Lady Gaga
+stat_time=8175990 stop_time=8177130 data:但那是20年前的事了
+stat_time=8177130 stop_time=8179390 data:我们得成熟点了
+stat_time=8179460 stop_time=8180570 data:就这样
+stat_time=8181410 stop_time=8184150 data:当我知道要来请出下面这支乐队时
+stat_time=8184330 stop_time=8185770 data:我真的被震撼了
+stat_time=8185770 stop_time=8187050 data:那么女士们  先生们
+stat_time=8187050 stop_time=8189870 data:有请Arcade Fire
+stat_time=8199850 stop_time=8201670 data:<i>One, two, three, four
+stat_time=8213060 stop_time=8214990 data:<i>Gonna make a record in the month of May
+stat_time=8214990 stop_time=8216360 data:<i>In the month of May
+stat_time=8216360 stop_time=8217930 data:<i>In the month of May
+stat_time=8218150 stop_time=8220710 data:<i>Gonna make a record in the month of May
+stat_time=8220890 stop_time=8221980 data:<i>When the violent wind
+stat_time=8222270 stop_time=8223620 data:<i>Blows the wires away
+stat_time=8226640 stop_time=8228830 data:<i>Month of May, it's a violent thing
+stat_time=8229430 stop_time=8231620 data:<i>In the city, their hearts start to sing
+stat_time=8231620 stop_time=8233070 data:<i>Well, some people singing
+stat_time=8233070 stop_time=8234970 data:<i>Sounds like screaming
+stat_time=8235160 stop_time=8237810 data:<i>Used to doubt it buy now I believe it
+stat_time=8239090 stop_time=8241630 data:<i>Month of May, everybody's in love
+stat_time=8241960 stop_time=8244480 data:<i>In the city, watch it from above and
+stat_time=8244480 stop_time=8247110 data:<i>Just when I knew what I wanted to say
+stat_time=8247140 stop_time=8249790 data:<i>The violent wind blew the wires away
+stat_time=8252500 stop_time=8254440 data:<i>We were shocked in the suburbs
+stat_time=8255270 stop_time=8256240 data:<i>Kids are all standing
+stat_time=8256240 stop_time=8258040 data:<i>With their arms folded tight
+stat_time=8258050 stop_time=8258990 data:<i>Kids are all standing
+stat_time=8258990 stop_time=8260450 data:<i>With their arms folded tight
+stat_time=8260450 stop_time=8261940 data:<i>Well, some things are pure
+stat_time=8261940 stop_time=8263360 data:<i>And some things are right
+stat_time=8263360 stop_time=8264380 data:<i>But the kids are still standing
+stat_time=8264380 stop_time=8266340 data:<i>With their arms folded tight
+stat_time=8267630 stop_time=8268690 data:<i>Well, some things are pure
+stat_time=8268690 stop_time=8270250 data:<i>And some things are right
+stat_time=8270300 stop_time=8271250 data:<i>But the kids are still standing
+stat_time=8271250 stop_time=8273090 data:<i>With their arms folded tight
+stat_time=8274720 stop_time=8275720 data:<i>So young
+stat_time=8276070 stop_time=8277030 data:<i>So young
+stat_time=8277320 stop_time=8280100 data:<i>So much pain for someone so young well
+stat_time=8280200 stop_time=8282500 data:<i>I know it's heavy I know it ain't light
+stat_time=8282500 stop_time=8284690 data:<i>But how you gonna lift with your arms
+stat_time=8285280 stop_time=8286340 data:<i>Folded
+stat_time=8294930 stop_time=8296180 data:<i>First, they built the road
+stat_time=8296180 stop_time=8297500 data:<i>Then they built the town
+stat_time=8297500 stop_time=8300090 data:<i>That's why we're still driving around
+stat_time=8300090 stop_time=8301440 data:<i>And around and around and around
+stat_time=8301440 stop_time=8303140 data:<i>And around and around and around
+stat_time=8303140 stop_time=8305270 data:<i>And around and around and around
+stat_time=8305270 stop_time=8307240 data:<i>And around and around
+stat_time=8309760 stop_time=8311030 data:<i>Two thousand and nine
+stat_time=8311030 stop_time=8312400 data:<i>Two thousand and ten
+stat_time=8312400 stop_time=8314750 data:<i>Wanna make a record how I felt then
+stat_time=8314750 stop_time=8317510 data:<i>When I stood outside in the month of May
+stat_time=8317510 stop_time=8318830 data:<i>Watched the violent wind
+stat_time=8318830 stop_time=8320430 data:<i>Blow the wires away
+stat_time=8322280 stop_time=8324540 data:<i>If I died in the month of May
+stat_time=8325110 stop_time=8327560 data:<i>Let the wind take my body away, well
+stat_time=8327560 stop_time=8329800 data:<i>I wish I may, I wish I might
+stat_time=8329990 stop_time=8332620 data:<i>Make me down there with my arms
+stat_time=8332830 stop_time=8333930 data:<i>Folded
+stat_time=8348030 stop_time=8350520 data:<i>Start again in the month of May
+stat_time=8350670 stop_time=8353160 data:<i>Start again in the month of May
+stat_time=8353710 stop_time=8355770 data:<i>Come on and blow the wires away
+stat_time=8356330 stop_time=8358480 data:<i>Come on and blow the wires away
+stat_time=8358850 stop_time=8361230 data:<i>Start again in the month of May
+stat_time=8361520 stop_time=8363870 data:<i>Start again in the month of May
+stat_time=8364450 stop_time=8366670 data:<i>Come on and blow the wires away
+stat_time=8367040 stop_time=8369230 data:<i>Come on and blow the wires away
+stat_time=8369670 stop_time=8372000 data:<i>Start again in the month of May
+stat_time=8372370 stop_time=8374730 data:<i>Start again in the month of May
+stat_time=8375130 stop_time=8377570 data:<i>Come on and blow the wires away
+stat_time=8377870 stop_time=8379680 data:<i>Come on and blow the wires
+stat_time=8380180 stop_time=8381640 data:<i>The wires away
+stat_time=8423230 stop_time=8425480 data:接下来  两位明星将重新聚首
+stat_time=8425480 stop_time=8427290 data:颁发年度专辑奖
+stat_time=8427290 stop_time=8428850 data:今晚最后的奖项花落谁家呢
+stat_time=8428850 stop_time=8430120 data:Arcade Fire
+stat_time=8430230 stop_time=8431230 data:Eminem
+stat_time=8431230 stop_time=8432300 data:Lady Antebellum
+stat_time=8432300 stop_time=8433450 data:Lady Gaga
+stat_time=8433530 stop_time=8435070 data:还是Katy Perry
+stat_time=8435070 stop_time=8437000 data:精彩尽在CBS电视台
+stat_time=8440580 stop_time=8441800 data:久别重逢
+stat_time=8441800 stop_time=8444950 data:Barbra Streisand和Kris Kristofferson
+stat_time=8457970 stop_time=8462190 data:现在  大家期待已久的
+stat_time=8463220 stop_time=8466410 data:年度专辑奖的提名
+stat_time=8472660 stop_time=8474900 data:《The Suburbs》 Arcade Fire
+stat_time=8481610 stop_time=8483540 data:《Recovery》 Eminem
+stat_time=8488910 stop_time=8491480 data:《Need You Now》 Lady Antebellum
+stat_time=8497360 stop_time=8499870 data:《The Fame Monster》 Lady Gaga
+stat_time=8505350 stop_time=8507830 data:《Teenage Dream》 Katy Perry
+stat_time=8512040 stop_time=8514330 data:获奖的是
+stat_time=8517490 stop_time=8521600 data:《The Suburbs》 Arcade Fire
+stat_time=8548440 stop_time=8549460 data:谢谢
+stat_time=8549460 stop_time=8550350 data:谢谢
+stat_time=8550350 stop_time=8555380 data:感谢蒙特利尔和魁北克
+stat_time=8555380 stop_time=8556540 data:给了我们一个家
+stat_time=8556540 stop_time=8557870 data:给了乐队一个生存之地
+stat_time=8557870 stop_time=8562410 data:感谢你们大家
+stat_time=8565540 stop_time=8567590 data:谢谢  我们还要表演一首曲目
+stat_time=8567590 stop_time=8568850 data:因为我们热爱音乐
+stat_time=8568850 stop_time=8570420 data:谢谢格莱美
+stat_time=8570420 stop_time=8572280 data:谢谢你们大家  我们感激涕零
+stat_time=8591300 stop_time=8592580 data:晚安大家
+stat_time=8620350 stop_time=8621880 data:谢谢你们  爸爸妈妈
+stat_time=8621880 stop_time=8624760 data:再见  其他的感谢一并融在歌中  谢谢
+stat_time=8656410 stop_time=8658900 data:<i>If the businessmen drink my blood
+stat_time=8660730 stop_time=8663640 data:<i>like the kids in art school says they would
+stat_time=8665600 stop_time=8668040 data:<i>And I guess I'll just begin again
+stat_time=8670730 stop_time=8673050 data:<i>You say can we still be friends
+stat_time=8677080 stop_time=8678900 data:<i>If I was scared
+stat_time=8679630 stop_time=8680870 data:<i>I would
+stat_time=8682080 stop_time=8683930 data:<i>And if I was bored
+stat_time=8684020 stop_time=8686040 data:<i>You know I would
+stat_time=8687080 stop_time=8688460 data:<i>And if I was yours
+stat_time=8689220 stop_time=8690520 data:<i>But I'm not
+stat_time=8694760 stop_time=8697040 data:<i>All the kids have always known
+stat_time=8699430 stop_time=8702290 data:<i>That the emperor wears no clothes
+stat_time=8704190 stop_time=8706510 data:<i>But bow to down to them anyway
+stat_time=8708730 stop_time=8711410 data:<i>It's better than to be alone
+stat_time=8715620 stop_time=8717160 data:<i>If I was scared
+stat_time=8718010 stop_time=8719580 data:<i>I would
+stat_time=8720670 stop_time=8722180 data:<i>And if I was pure
+stat_time=8722420 stop_time=8724170 data:<i>You know I would
+stat_time=8725380 stop_time=8726850 data:<i>And if I was yours
+stat_time=8727570 stop_time=8729000 data:<i>But I'm not
+stat_time=8733150 stop_time=8735540 data:<i>Now you're knocking at my door
+stat_time=8737530 stop_time=8740100 data:<i>Saying please come out against the night
+stat_time=8742690 stop_time=8744960 data:<i>But I would rather be alone
+stat_time=8747520 stop_time=8749990 data:<i>Than pretend I feel alright
+stat_time=8752430 stop_time=8754750 data:<i>If the businessmen drink my blood
+stat_time=8756740 stop_time=8759280 data:<i>Like the kids in art school said they would
+stat_time=8761650 stop_time=8763860 data:<i>Then I guess I'll just begin again
+stat_time=8766520 stop_time=8768910 data:<i>You say can we still be friends
+stat_time=8772720 stop_time=8774470 data:<i>If I was scared
+stat_time=8775280 stop_time=8776780 data:<i>I would
+stat_time=8778030 stop_time=8779520 data:<i>And if I was pure
+stat_time=8779860 stop_time=8781660 data:<i>You know I would
+stat_time=8782800 stop_time=8784330 data:<i>And if I was yours
+stat_time=8785110 stop_time=8786420 data:<i>But I'm not
+stat_time=8788260 stop_time=8790900 data:<i>Now I'm ready to start
+stat_time=8792570 stop_time=8794100 data:<i>If I was scared
+stat_time=8794500 stop_time=8795900 data:<i>I would
+stat_time=8797150 stop_time=8798560 data:<i>If I was pure
+stat_time=8798640 stop_time=8802020 data:格莱美20年官方酒店希尔顿酒店
+stat_time=8802020 stop_time=8808450 data:荣誉支持格莱美委员会推进音乐事业
+stat_time=8810190 stop_time=8814080 data:达美航空遍及6个大陆的350个城市
+stat_time=8814080 stop_time=8816570 data:送您轻松抵达全球
+stat_time=8816570 stop_time=8818830 data:查询航班信息  登陆delta.com
+stat_time=8818830 stop_time=8820490 data:达美航班  一路前行
+stat_time=8820490 stop_time=8823850 data:唱片由国国家录音艺术与科学学会
+stat_time=8823850 stop_time=8826260 data:及唱片公司送评
+stat_time=8826260 stop_time=8830370 data:之后由学会的一万两千名成员独立决出
+stat_time=8830370 stop_time=8833350 data:他们都是唱片业界人员
+stat_time=8833350 stop_time=8835890 data:第一轮投票决出提名
+stat_time=8835890 stop_time=8837590 data:第二轮投票决出获奖者
+stat_time=8837590 stop_time=8842030 data:两轮投票结果均由德勤会计公司制表

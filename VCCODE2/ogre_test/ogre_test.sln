@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ogre_test", "ogre_test.vcproj", "{56ECFA6D-4DAE-4A92-BA00-25D3B2659F68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "verify", "..\verify\verify.vcproj", "{C1799175-F0A6-4203-8462-B2CA0B328F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56ECFA6D-4DAE-4A92-BA00-25D3B2659F68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56ECFA6D-4DAE-4A92-BA00-25D3B2659F68}.Debug|Win32.Build.0 = Debug|Win32
+		{56ECFA6D-4DAE-4A92-BA00-25D3B2659F68}.Release|Win32.ActiveCfg = Release|Win32
+		{56ECFA6D-4DAE-4A92-BA00-25D3B2659F68}.Release|Win32.Build.0 = Release|Win32
+		{C1799175-F0A6-4203-8462-B2CA0B328F05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1799175-F0A6-4203-8462-B2CA0B328F05}.Debug|Win32.Build.0 = Debug|Win32
+		{C1799175-F0A6-4203-8462-B2CA0B328F05}.Release|Win32.ActiveCfg = Release|Win32
+		{C1799175-F0A6-4203-8462-B2CA0B328F05}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

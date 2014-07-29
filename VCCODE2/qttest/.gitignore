@@ -1,0 +1,16 @@
+*.obj
+*.o
+*.ncb
+*.pdb
+*.pch
+*.ilk
+*.exe
+*.dll
+*.lib
+*.a
+*.manifest
+*.res
+*.dep
+*.idb
+*.suo
+Debug/

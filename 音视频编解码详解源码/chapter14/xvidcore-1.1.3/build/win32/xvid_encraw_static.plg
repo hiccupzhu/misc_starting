@@ -1,0 +1,884 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: libxvidcore_static - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP9F.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\mem_transfer_mmx.obj ..\..\src\utils\x86_asm\mem_transfer_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP9F.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA0.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\mem_transfer_3dne.obj ..\..\src\utils\x86_asm\mem_transfer_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA0.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA1.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interlacing_mmx.obj ..\..\src\utils\x86_asm\interlacing_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA1.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA2.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\cpuid.obj ..\..\src\utils\x86_asm\cpuid.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA2.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA3.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\quantize_mpeg_xmm.obj ..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA3.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA4.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\quantize_mpeg_mmx.obj ..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA4.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA5.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\quantize_h263_mmx.obj ..\..\src\quant\x86_asm\quantize_h263_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA5.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA6.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\quantize_h263_3dne.obj ..\..\src\quant\x86_asm\quantize_h263_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA6.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA7.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_xmm.obj ..\..\src\motion\x86_asm\sad_xmm.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA7.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA8.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_sse2.obj ..\..\src\motion\x86_asm\sad_sse2.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA8.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA9.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_mmx.obj ..\..\src\motion\x86_asm\sad_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA9.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAA.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_3dne.obj ..\..\src\motion\x86_asm\sad_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAA.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAB.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\sad_3dn.obj ..\..\src\motion\x86_asm\sad_3dn.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAB.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAC.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\reduced_mmx.obj ..\..\src\image\x86_asm\reduced_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAC.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAD.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\qpel_mmx.obj ..\..\src\image\x86_asm\qpel_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAD.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAE.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\postprocessing_sse2.obj ..\..\src\image\x86_asm\postprocessing_sse2.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAE.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAF.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\postprocessing_mmx.obj ..\..\src\image\x86_asm\postprocessing_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAF.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB0.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interpolate8x8_xmm.obj ..\..\src\image\x86_asm\interpolate8x8_xmm.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB0.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB1.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interpolate8x8_mmx.obj ..\..\src\image\x86_asm\interpolate8x8_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB1.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB2.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interpolate8x8_3dne.obj ..\..\src\image\x86_asm\interpolate8x8_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB2.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB3.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\interpolate8x8_3dn.obj ..\..\src\image\x86_asm\interpolate8x8_3dn.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB3.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB4.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -I"\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\x86_asm"\ -o .\Debug\colorspace_yuyv_mmx.obj ..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB4.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB5.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -I"\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\x86_asm"\ -o .\Debug\colorspace_yuv_mmx.obj ..\..\src\image\x86_asm\colorspace_yuv_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB5.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB6.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -I"\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\x86_asm"\ -o .\Debug\colorspace_rgb_mmx.obj ..\..\src\image\x86_asm\colorspace_rgb_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB6.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB7.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\simple_idct_mmx.obj ..\..\src\dct\x86_asm\simple_idct_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB7.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB8.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\idct_sse2_dmitry.obj ..\..\src\dct\x86_asm\idct_sse2_dmitry.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB8.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB9.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\idct_mmx.obj ..\..\src\dct\x86_asm\idct_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB9.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBA.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\idct_3dne.obj ..\..\src\dct\x86_asm\idct_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBA.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBB.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\fdct_sse2_skal.obj ..\..\src\dct\x86_asm\fdct_sse2_skal.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBB.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBC.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\fdct_mmx_skal.obj ..\..\src\dct\x86_asm\fdct_mmx_skal.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBC.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBD.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\fdct_mmx_ffmpeg.obj ..\..\src\dct\x86_asm\fdct_mmx_ffmpeg.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBD.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBE.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\cbp_sse2.obj ..\..\src\bitstream\x86_asm\cbp_sse2.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBE.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBF.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\cbp_mmx.obj ..\..\src\bitstream\x86_asm\cbp_mmx.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBF.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC0.bat" with contents
+[
+@echo off
+nasm -f win32 -DPREFIX -o .\Debug\cbp_3dne.obj ..\..\src\bitstream\x86_asm\cbp_3dne.asm
+]
+Creating command line "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC0.bat"
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC1.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "ARCH_IS_32BIT" /D "ARCH_IS_IA32" /FR"Debug/" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\bitstream\bitstream.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\bitstream\cbp.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\bitstream\mbcoding.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\dct\fdct.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\dct\idct.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\dct\simple_idct.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\colorspace.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\font.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\image.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\interpolate8x8.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\postprocessing.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\qpel.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\reduced.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\estimation_bvop.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\estimation_common.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\estimation_gmc.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\estimation_pvop.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\estimation_rd_based.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\estimation_rd_based_bvop.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\gmc.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\motion_comp.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\sad.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\motion\vop_type_decision.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\prediction\mbprediction.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\quant\quant_h264.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\quant\quant_matrix.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\quant\quant_mpeg.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\utils\emms.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\utils\mbtransquant.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\utils\mem_align.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\utils\mem_transfer.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\utils\timer.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_2pass1.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_2pass2.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_dump.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_lumimasking.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_psnr.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_single.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\decoder.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\encoder.c"
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\src\xvid.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC1.tmp" 
+Assembling ..\..\src\utils\x86_asm\mem_transfer_mmx.asm
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:116: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:152: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:216: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:235: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:334: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:402: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:469: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:515: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:548: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_mmx.asm:569: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\utils\x86_asm\mem_transfer_3dne.asm
+..\..\src\utils\x86_asm\mem_transfer_3dne.asm:152: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_3dne.asm:198: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_3dne.asm:268: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_3dne.asm:286: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_3dne.asm:358: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_3dne.asm:406: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_3dne.asm:439: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\mem_transfer_3dne.asm:460: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\utils\x86_asm\interlacing_mmx.asm
+..\..\src\utils\x86_asm\interlacing_mmx.asm:218: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\utils\x86_asm\cpuid.asm
+..\..\src\utils\x86_asm\cpuid.asm:192: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\cpuid.asm:201: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\cpuid.asm:209: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\cpuid.asm:218: warning: label alone on a line without a colon might be in error
+..\..\src\utils\x86_asm\cpuid.asm:226: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:203: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:251: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:280: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:330: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:381: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:418: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:466: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:482: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:531: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:581: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:701: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:736: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_xmm.asm:816: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:177: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:218: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:229: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:231: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:246: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:287: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:325: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:362: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:402: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:417: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:458: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:497: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:565: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:637: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:669: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_mpeg_mmx.asm:751: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\quant\x86_asm\quantize_h263_mmx.asm
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:164: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:196: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:199: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:230: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:237: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:276: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:308: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:311: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:342: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:349: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:382: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:410: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:424: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:453: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:487: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:493: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:521: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:540: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:568: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:654: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:739: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:828: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:899: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:968: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_mmx.asm:1040: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\quant\x86_asm\quantize_h263_3dne.asm
+..\..\src\quant\x86_asm\quantize_h263_3dne.asm:380: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_3dne.asm:413: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_3dne.asm:549: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_3dne.asm:570: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_3dne.asm:722: warning: label alone on a line without a colon might be in error
+..\..\src\quant\x86_asm\quantize_h263_3dne.asm:785: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\motion\x86_asm\sad_xmm.asm
+..\..\src\motion\x86_asm\sad_xmm.asm:192: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_xmm.asm:233: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_xmm.asm:278: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_xmm.asm:299: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_xmm.asm:309: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_xmm.asm:390: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_xmm.asm:445: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\motion\x86_asm\sad_sse2.asm
+..\..\src\motion\x86_asm\sad_sse2.asm:111: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_sse2.asm:171: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\motion\x86_asm\sad_mmx.asm
+..\..\src\motion\x86_asm\sad_mmx.asm:325: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_mmx.asm:358: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_mmx.asm:449: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_mmx.asm:470: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_mmx.asm:514: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_mmx.asm:535: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_mmx.asm:553: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_mmx.asm:633: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_mmx.asm:683: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_mmx.asm:748: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\motion\x86_asm\sad_3dne.asm
+..\..\src\motion\x86_asm\sad_3dne.asm:268: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_3dne.asm:323: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_3dne.asm:368: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_3dne.asm:444: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_3dne.asm:503: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\motion\x86_asm\sad_3dn.asm
+..\..\src\motion\x86_asm\sad_3dn.asm:163: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_3dn.asm:192: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_3dn.asm:213: warning: label alone on a line without a colon might be in error
+..\..\src\motion\x86_asm\sad_3dn.asm:229: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\reduced_mmx.asm
+..\..\src\image\x86_asm\reduced_mmx.asm:274: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\reduced_mmx.asm:469: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\reduced_mmx.asm:601: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\reduced_mmx.asm:710: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\reduced_mmx.asm:767: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\reduced_mmx.asm:807: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\reduced_mmx.asm:844: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\reduced_mmx.asm:934: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\reduced_mmx.asm:999: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\qpel_mmx.asm
+..\..\src\image\x86_asm\qpel_mmx.asm:142: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:562: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:563: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:565: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:566: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:568: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:569: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:575: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:576: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:578: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:579: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:581: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:582: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:588: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:589: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:591: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:592: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:594: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:595: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:601: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:602: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:604: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:605: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:607: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:608: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1014: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1015: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1017: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1018: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1020: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1021: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1027: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1028: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1030: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1031: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1033: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1034: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1040: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1041: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1043: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1044: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1046: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1047: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1053: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1054: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1056: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1057: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1059: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\qpel_mmx.asm:1060: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\postprocessing_sse2.asm
+..\..\src\image\x86_asm\postprocessing_sse2.asm:111: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\postprocessing_sse2.asm:114: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\postprocessing_sse2.asm:141: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\postprocessing_mmx.asm
+..\..\src\image\x86_asm\postprocessing_mmx.asm:96: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\postprocessing_mmx.asm:99: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\postprocessing_mmx.asm:125: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\interpolate8x8_xmm.asm
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:133: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:144: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:205: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:219: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:349: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:358: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:385: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:392: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:420: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:430: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:477: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:482: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:550: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:612: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:626: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:687: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:702: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:832: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_xmm.asm:842: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\interpolate8x8_mmx.asm
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:192: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:252: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:344: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:379: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:417: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:458: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:591: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:604: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:621: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:633: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:801: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:822: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:933: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:1051: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:1164: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:1210: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:1257: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_mmx.asm:1368: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\interpolate8x8_3dne.asm
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:149: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:161: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:221: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:285: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:408: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:417: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:443: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:451: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:498: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:540: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:575: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dne.asm:580: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\interpolate8x8_3dn.asm
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:133: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:144: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:207: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:221: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:325: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:352: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:361: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:388: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:395: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:425: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:435: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:458: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:481: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\interpolate8x8_3dn.asm:486: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:317: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:317: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:317: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:317: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:318: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:318: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:318: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:318: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:319: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:319: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:319: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:319: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:321: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:321: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:321: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:321: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:322: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:322: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:322: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:322: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:323: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:323: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:323: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:323: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:327: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:327: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:327: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:327: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:328: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:328: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:328: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:328: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:330: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:330: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:330: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:330: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:331: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:331: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:331: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuyv_mmx.asm:331: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\colorspace_yuv_mmx.asm
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:279: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_yuv_mmx.asm:281: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\image\x86_asm\colorspace_rgb_mmx.asm
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:425: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:425: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:425: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:425: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:426: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:426: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:426: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:426: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:429: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:429: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:429: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:429: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:430: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:430: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:430: warning: label alone on a line without a colon might be in error
+..\..\src\image\x86_asm\colorspace_rgb_mmx.asm:430: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\dct\x86_asm\simple_idct_mmx.asm
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1090: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1090: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1101: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1111: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1120: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1129: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1137: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1145: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1153: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1159: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1163: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1182: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1182: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1193: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1203: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1212: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1221: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1229: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1237: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1245: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1251: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\simple_idct_mmx.asm:1255: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\dct\x86_asm\idct_sse2_dmitry.asm
+..\..\src\dct\x86_asm\idct_sse2_dmitry.asm:346: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\dct\x86_asm\idct_mmx.asm
+..\..\src\dct\x86_asm\idct_mmx.asm:606: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\idct_mmx.asm:631: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\dct\x86_asm\idct_3dne.asm
+..\..\src\dct\x86_asm\idct_3dne.asm:721: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\dct\x86_asm\fdct_sse2_skal.asm
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:411: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:415: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:419: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:423: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:427: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:431: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:435: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:439: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:443: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:447: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:450: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:455: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_sse2_skal.asm:621: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\dct\x86_asm\fdct_mmx_skal.asm
+..\..\src\dct\x86_asm\fdct_mmx_skal.asm:519: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_mmx_skal.asm:525: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\dct\x86_asm\fdct_mmx_ffmpeg.asm
+..\..\src\dct\x86_asm\fdct_mmx_ffmpeg.asm:418: warning: label alone on a line without a colon might be in error
+..\..\src\dct\x86_asm\fdct_mmx_ffmpeg.asm:424: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\bitstream\x86_asm\cbp_sse2.asm
+..\..\src\bitstream\x86_asm\cbp_sse2.asm:109: warning: label alone on a line without a colon might be in error
+..\..\src\bitstream\x86_asm\cbp_sse2.asm:115: warning: label alone on a line without a colon might be in error
+..\..\src\bitstream\x86_asm\cbp_sse2.asm:121: warning: label alone on a line without a colon might be in error
+..\..\src\bitstream\x86_asm\cbp_sse2.asm:127: warning: label alone on a line without a colon might be in error
+..\..\src\bitstream\x86_asm\cbp_sse2.asm:133: warning: label alone on a line without a colon might be in error
+..\..\src\bitstream\x86_asm\cbp_sse2.asm:139: warning: label alone on a line without a colon might be in error
+..\..\src\bitstream\x86_asm\cbp_sse2.asm:141: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\bitstream\x86_asm\cbp_mmx.asm
+..\..\src\bitstream\x86_asm\cbp_mmx.asm:149: warning: label alone on a line without a colon might be in error
+Assembling ..\..\src\bitstream\x86_asm\cbp_3dne.asm
+..\..\src\bitstream\x86_asm\cbp_3dne.asm:124: warning: label alone on a line without a colon might be in error
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC2.tmp" with contents
+[
+/nologo /out:"bin\libxvidcore.lib" 
+".\Debug\bitstream.obj"
+".\Debug\cbp.obj"
+".\Debug\mbcoding.obj"
+".\Debug\fdct.obj"
+".\Debug\idct.obj"
+".\Debug\simple_idct.obj"
+".\Debug\colorspace.obj"
+".\Debug\font.obj"
+".\Debug\image.obj"
+".\Debug\interpolate8x8.obj"
+".\Debug\postprocessing.obj"
+".\Debug\qpel.obj"
+".\Debug\reduced.obj"
+".\Debug\estimation_bvop.obj"
+".\Debug\estimation_common.obj"
+".\Debug\estimation_gmc.obj"
+".\Debug\estimation_pvop.obj"
+".\Debug\estimation_rd_based.obj"
+".\Debug\estimation_rd_based_bvop.obj"
+".\Debug\gmc.obj"
+".\Debug\motion_comp.obj"
+".\Debug\sad.obj"
+".\Debug\vop_type_decision.obj"
+".\Debug\mbprediction.obj"
+".\Debug\quant_h264.obj"
+".\Debug\quant_matrix.obj"
+".\Debug\quant_mpeg.obj"
+".\Debug\emms.obj"
+".\Debug\mbtransquant.obj"
+".\Debug\mem_align.obj"
+".\Debug\mem_transfer.obj"
+".\Debug\timer.obj"
+".\Debug\plugin_2pass1.obj"
+".\Debug\plugin_2pass2.obj"
+".\Debug\plugin_dump.obj"
+".\Debug\plugin_lumimasking.obj"
+".\Debug\plugin_psnr.obj"
+".\Debug\plugin_single.obj"
+".\Debug\decoder.obj"
+".\Debug\encoder.obj"
+".\Debug\xvid.obj"
+".\Debug\cbp_3dne.obj"
+".\Debug\cbp_mmx.obj"
+".\Debug\cbp_sse2.obj"
+".\Debug\fdct_mmx_ffmpeg.obj"
+".\Debug\fdct_mmx_skal.obj"
+".\Debug\fdct_sse2_skal.obj"
+".\Debug\idct_3dne.obj"
+".\Debug\idct_mmx.obj"
+".\Debug\idct_sse2_dmitry.obj"
+".\Debug\simple_idct_mmx.obj"
+".\Debug\colorspace_rgb_mmx.obj"
+".\Debug\colorspace_yuv_mmx.obj"
+".\Debug\colorspace_yuyv_mmx.obj"
+".\Debug\interpolate8x8_3dn.obj"
+".\Debug\interpolate8x8_3dne.obj"
+".\Debug\interpolate8x8_mmx.obj"
+".\Debug\interpolate8x8_xmm.obj"
+".\Debug\postprocessing_mmx.obj"
+".\Debug\postprocessing_sse2.obj"
+".\Debug\qpel_mmx.obj"
+".\Debug\reduced_mmx.obj"
+".\Debug\sad_3dn.obj"
+".\Debug\sad_3dne.obj"
+".\Debug\sad_mmx.obj"
+".\Debug\sad_sse2.obj"
+".\Debug\sad_xmm.obj"
+".\Debug\quantize_h263_3dne.obj"
+".\Debug\quantize_h263_mmx.obj"
+".\Debug\quantize_mpeg_mmx.obj"
+".\Debug\quantize_mpeg_xmm.obj"
+".\Debug\cpuid.obj"
+".\Debug\interlacing_mmx.obj"
+".\Debug\mem_transfer_3dne.obj"
+".\Debug\mem_transfer_mmx.obj"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC2.tmp"
+<h3>Output Window</h3>
+Compiling...
+bitstream.c
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\bitstream\bitstream.c(1396) : warning C4018: '<' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\bitstream\bitstream.c(1414) : warning C4244: '=' : conversion from '__int64 ' to 'int ', possible loss of data
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\bitstream\bitstream.c(1415) : warning C4244: '=' : conversion from '__int64 ' to 'int ', possible loss of data
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\bitstream\bitstream.c(1416) : warning C4244: '=' : conversion from '__int64 ' to 'int ', possible loss of data
+cbp.c
+mbcoding.c
+fdct.c
+idct.c
+simple_idct.c
+colorspace.c
+font.c
+image.c
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\image.c(562) : warning C4101: 'idy' : unreferenced local variable
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\image.c(562) : warning C4101: 'idu' : unreferenced local variable
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\image\image.c(562) : warning C4101: 'idv' : unreferenced local variable
+interpolate8x8.c
+postprocessing.c
+qpel.c
+reduced.c
+estimation_bvop.c
+estimation_common.c
+estimation_gmc.c
+estimation_pvop.c
+estimation_rd_based.c
+estimation_rd_based_bvop.c
+gmc.c
+Generating Code...
+Compiling...
+motion_comp.c
+sad.c
+vop_type_decision.c
+mbprediction.c
+quant_h264.c
+quant_matrix.c
+quant_mpeg.c
+emms.c
+mbtransquant.c
+mem_align.c
+mem_transfer.c
+timer.c
+plugin_2pass1.c
+plugin_2pass2.c
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_2pass2.c(468) : warning C4244: 'function' : conversion from 'const double ' to 'const float ', possible loss of data
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_2pass2.c(474) : warning C4244: 'function' : conversion from 'const double ' to 'const float ', possible loss of data
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_2pass2.c(1358) : warning C4244: '=' : conversion from 'unsigned __int64 ' to 'double ', possible loss of data
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_2pass2.c(1541) : warning C4244: 'initializing' : conversion from 'double ' to 'const float ', possible loss of data
+plugin_dump.c
+plugin_lumimasking.c
+plugin_psnr.c
+plugin_single.c
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\plugins\plugin_single.c(191) : warning C4244: '=' : conversion from 'double ' to '__int64 ', possible loss of data
+decoder.c
+encoder.c
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\encoder.c(848) : warning C4018: '==' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\encoder.c(848) : warning C4018: '==' : signed/unsigned mismatch
+e:\writing_works\codes\chapter14\xvidcore-1.1.3\src\encoder.c(1557) : warning C4018: '!=' : signed/unsigned mismatch
+Generating Code...
+Compiling...
+xvid.c
+Generating Code...
+Creating library...
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC3.tmp" with contents
+[
+/nologo /o"Debug/libxvidcore_static.bsc" 
+".\Debug\bitstream.sbr"
+".\Debug\cbp.sbr"
+".\Debug\mbcoding.sbr"
+".\Debug\fdct.sbr"
+".\Debug\idct.sbr"
+".\Debug\simple_idct.sbr"
+".\Debug\colorspace.sbr"
+".\Debug\font.sbr"
+".\Debug\image.sbr"
+".\Debug\interpolate8x8.sbr"
+".\Debug\postprocessing.sbr"
+".\Debug\qpel.sbr"
+".\Debug\reduced.sbr"
+".\Debug\estimation_bvop.sbr"
+".\Debug\estimation_common.sbr"
+".\Debug\estimation_gmc.sbr"
+".\Debug\estimation_pvop.sbr"
+".\Debug\estimation_rd_based.sbr"
+".\Debug\estimation_rd_based_bvop.sbr"
+".\Debug\gmc.sbr"
+".\Debug\motion_comp.sbr"
+".\Debug\sad.sbr"
+".\Debug\vop_type_decision.sbr"
+".\Debug\mbprediction.sbr"
+".\Debug\quant_h264.sbr"
+".\Debug\quant_matrix.sbr"
+".\Debug\quant_mpeg.sbr"
+".\Debug\emms.sbr"
+".\Debug\mbtransquant.sbr"
+".\Debug\mem_align.sbr"
+".\Debug\mem_transfer.sbr"
+".\Debug\timer.sbr"
+".\Debug\plugin_2pass1.sbr"
+".\Debug\plugin_2pass2.sbr"
+".\Debug\plugin_dump.sbr"
+".\Debug\plugin_lumimasking.sbr"
+".\Debug\plugin_psnr.sbr"
+".\Debug\plugin_single.sbr"
+".\Debug\decoder.sbr"
+".\Debug\encoder.sbr"
+".\Debug\xvid.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC3.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+<h3>
+--------------------Configuration: xvid_encraw_static - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC4.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /I "..\\..\\src" /D "_DEBUG" /D "WIN32" /D "_CONSOLE" /D "_MBCS" /D "ARCH_IS_LITTLE_ENDIAN" /FR"xvid_encraw_static___Win32_Debug/" /Fp"xvid_encraw_static___Win32_Debug/xvid_encraw_static.pch" /YX /Fo"xvid_encraw_static___Win32_Debug/" /Fd"xvid_encraw_static___Win32_Debug/" /FD /GZ /c 
+"E:\writing_works\codes\chapter14\xvidcore-1.1.3\examples\xvid_encraw.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC4.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC5.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib vfw32.lib libxvidcore.lib /nologo /subsystem:console /incremental:yes /pdb:"xvid_encraw_static___Win32_Debug/xvid_encraw_static.pdb" /debug /machine:I386 /out:"xvid_encraw_static___Win32_Debug/xvid_encraw_static.exe" /pdbtype:sept /libpath:"bin" 
+".\xvid_encraw_static___Win32_Debug\xvid_encraw.obj"
+".\bin\libxvidcore.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPC5.tmp"
+<h3>Output Window</h3>
+Compiling...
+xvid_encraw.c
+Linking...
+Creating command line "bscmake.exe /nologo /o"xvid_encraw_static___Win32_Debug/xvid_encraw_static.bsc"  ".\xvid_encraw_static___Win32_Debug\xvid_encraw.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+xvid_encraw_static.exe - 0 error(s), 384 warning(s)
+</pre>
+</body>
+</html>

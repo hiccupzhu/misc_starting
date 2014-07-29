@@ -1,0 +1,208 @@
+00:18:22: Creating resource group General
+00:18:22: Creating resource group Internal
+00:18:22: Creating resource group Autodetect
+00:18:22: SceneManagerFactory for type 'DefaultSceneManager' registered.
+00:18:22: Registering ResourceManager for type Material
+00:18:22: Registering ResourceManager for type Mesh
+00:18:22: Registering ResourceManager for type Skeleton
+00:18:22: MovableObjectFactory for type 'ParticleSystem' registered.
+00:18:22: OverlayElementFactory for type Panel registered.
+00:18:22: OverlayElementFactory for type BorderPanel registered.
+00:18:22: OverlayElementFactory for type TextArea registered.
+00:18:22: Registering ResourceManager for type Font
+00:18:22: ArchiveFactory for archive type FileSystem registered.
+00:18:22: ArchiveFactory for archive type Zip registered.
+00:18:22: DDS codec registering
+00:18:22: FreeImage version: 3.13.1
+00:18:22: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+00:18:22: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,bay,bmq,cr2,crw,cs1,dc2,dcr,dng,erf,fff,hdr,k25,kdc,mdc,mos,mrw,nef,orf,pef,pxn,raf,raw,rdc,sr2,srf,arw,3fr,cine,ia,kc2,mef,nrw,qtk,rw2,sti,drf,dsc,ptx,cap,iiq,rwz
+00:18:22: PVRTC codec registering
+00:18:22: Registering ResourceManager for type HighLevelGpuProgram
+00:18:22: Registering ResourceManager for type Compositor
+00:18:22: MovableObjectFactory for type 'Entity' registered.
+00:18:22: MovableObjectFactory for type 'Light' registered.
+00:18:22: MovableObjectFactory for type 'BillboardSet' registered.
+00:18:22: MovableObjectFactory for type 'ManualObject' registered.
+00:18:22: MovableObjectFactory for type 'BillboardChain' registered.
+00:18:22: MovableObjectFactory for type 'RibbonTrail' registered.
+00:18:22: Loading library .\RenderSystem_Direct3D9
+00:18:22: Installing plugin: D3D9 RenderSystem
+00:18:22: D3D9 : Direct3D9 Rendering Subsystem created.
+00:18:22: D3D9: Driver Detection Starts
+00:18:22: D3D9: Driver Detection Ends
+00:18:22: Plugin successfully installed
+00:18:22: Loading library .\RenderSystem_GL
+00:18:22: Installing plugin: GL RenderSystem
+00:18:22: OpenGL Rendering Subsystem created.
+00:18:22: Plugin successfully installed
+00:18:22: Loading library .\Plugin_ParticleFX
+00:18:22: Installing plugin: ParticleFX
+00:18:22: Particle Emitter Type 'Point' registered
+00:18:22: Particle Emitter Type 'Box' registered
+00:18:22: Particle Emitter Type 'Ellipsoid' registered
+00:18:22: Particle Emitter Type 'Cylinder' registered
+00:18:22: Particle Emitter Type 'Ring' registered
+00:18:22: Particle Emitter Type 'HollowEllipsoid' registered
+00:18:22: Particle Affector Type 'LinearForce' registered
+00:18:22: Particle Affector Type 'ColourFader' registered
+00:18:22: Particle Affector Type 'ColourFader2' registered
+00:18:22: Particle Affector Type 'ColourImage' registered
+00:18:22: Particle Affector Type 'ColourInterpolator' registered
+00:18:22: Particle Affector Type 'Scaler' registered
+00:18:22: Particle Affector Type 'Rotator' registered
+00:18:22: Particle Affector Type 'DirectionRandomiser' registered
+00:18:22: Particle Affector Type 'DeflectorPlane' registered
+00:18:22: Plugin successfully installed
+00:18:22: Loading library .\Plugin_BSPSceneManager
+00:18:22: Installing plugin: BSP Scene Manager
+00:18:22: Plugin successfully installed
+00:18:22: Loading library .\Plugin_OctreeSceneManager
+00:18:22: Installing plugin: Octree & Terrain Scene Manager
+00:18:22: Plugin successfully installed
+00:18:22: Loading library .\Plugin_CgProgramManager
+00:18:22: Installing plugin: Cg Program Manager
+00:18:22: Plugin successfully installed
+00:18:22: *-*-* OGRE Initialising
+00:18:22: *-*-* Version 1.7.1 (Cthugha)
+00:18:22: Added resource location './Media' of type 'FileSystem' to resource group 'General'
+00:18:22: Added resource location 'F:/VSCODE/3dmax' of type 'FileSystem' to resource group 'General'
+00:18:22: D3D9 : RenderSystem Option: Full Screen = No
+00:18:22: D3D9 : RenderSystem Option: Video Mode = 640 x 480 @ 32-bit colour
+00:18:22: CPU Identifier & Features
+00:18:22: -------------------------
+00:18:22:  *   CPU ID: GenuineIntel: Intel(R) Core(TM)2 Duo CPU     T6500  @ 2.10GHz
+00:18:22:  *      SSE: yes
+00:18:22:  *     SSE2: yes
+00:18:22:  *     SSE3: yes
+00:18:22:  *      MMX: yes
+00:18:22:  *   MMXEXT: yes
+00:18:22:  *    3DNOW: no
+00:18:22:  * 3DNOWEXT: no
+00:18:22:  *     CMOV: yes
+00:18:22:  *      TSC: yes
+00:18:22:  *      FPU: yes
+00:18:22:  *      PRO: yes
+00:18:22:  *       HT: no
+00:18:22: -------------------------
+00:18:22: D3D9 : Subsystem Initialising
+00:18:22: Registering ResourceManager for type Texture
+00:18:22: Registering ResourceManager for type GpuProgram
+00:18:22: ***************************************
+00:18:22: *** D3D9 : Subsystem Initialised OK ***
+00:18:22: ***************************************
+00:18:22: D3D9RenderSystem::_createRenderWindow "Simple Mogre Form Window", 0x0 windowed  miscParams: externalWindowHandle=3016848 
+00:18:22: D3D9 : Created D3D9 Rendering Window 'Simple Mogre Form Window' : 664x472, 32bpp
+00:18:22: D3D9 : WARNING - disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+00:18:22: D3D9: Vertex texture format supported - PF_FLOAT16_RGB
+00:18:22: D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
+00:18:22: D3D9: Vertex texture format supported - PF_FLOAT32_RGB
+00:18:22: D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
+00:18:22: D3D9: Vertex texture format supported - PF_FLOAT16_R
+00:18:22: D3D9: Vertex texture format supported - PF_FLOAT32_R
+00:18:22: D3D9: Vertex texture format supported - PF_FLOAT16_GR
+00:18:22: D3D9: Vertex texture format supported - PF_FLOAT32_GR
+00:18:22: RenderSystem capabilities
+00:18:22: -------------------------
+00:18:22: RenderSystem Name: Direct3D9 Rendering Subsystem
+00:18:22: GPU Vendor: nvidia
+00:18:22: Device Name: Monitor-1-NVIDIA GeForce 9300M GS
+00:18:22: Driver Version: 6.14.12.6099
+00:18:22:  * Fixed function pipeline: yes
+00:18:22:  * Hardware generation of mipmaps: yes
+00:18:22:  * Texture blending: yes
+00:18:22:  * Anisotropic texture filtering: yes
+00:18:22:  * Dot product texture operation: yes
+00:18:22:  * Cube mapping: yes
+00:18:22:  * Hardware stencil buffer: yes
+00:18:22:    - Stencil depth: 8
+00:18:22:    - Two sided stencil support: yes
+00:18:22:    - Wrap stencil values: yes
+00:18:22:  * Hardware vertex / index buffers: yes
+00:18:22:  * Vertex programs: yes
+00:18:22:  * Number of floating-point constants for vertex programs: 256
+00:18:22:  * Number of integer constants for vertex programs: 16
+00:18:22:  * Number of boolean constants for vertex programs: 16
+00:18:22:  * Fragment programs: yes
+00:18:22:  * Number of floating-point constants for fragment programs: 224
+00:18:22:  * Number of integer constants for fragment programs: 16
+00:18:22:  * Number of boolean constants for fragment programs: 16
+00:18:22:  * Geometry programs: no
+00:18:22:  * Number of floating-point constants for geometry programs: 0
+00:18:22:  * Number of integer constants for geometry programs: 0
+00:18:22:  * Number of boolean constants for geometry programs: 0
+00:18:22:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
+00:18:22:  * Texture Compression: yes
+00:18:22:    - DXT: yes
+00:18:22:    - VTC: no
+00:18:22:    - PVRTC: no
+00:18:22:  * Scissor Rectangle: yes
+00:18:22:  * Hardware Occlusion Query: yes
+00:18:22:  * User clip planes: yes
+00:18:22:  * VET_UBYTE4 vertex element type: yes
+00:18:22:  * Infinite far plane projection: yes
+00:18:22:  * Hardware render-to-texture: yes
+00:18:22:  * Floating point textures: yes
+00:18:22:  * Non-power-of-two textures: yes
+00:18:22:  * Volume textures: yes
+00:18:22:  * Multiple Render Targets: 4
+00:18:22:    - With different bit depths: yes
+00:18:22:  * Point Sprites: yes
+00:18:22:  * Extended point parameters: yes
+00:18:22:  * Max Point Size: 10
+00:18:22:  * Vertex texture fetch: yes
+00:18:22:  * Number of world matrices: 0
+00:18:22:  * Number of texture units: 8
+00:18:22:  * Stencil buffer depth: 8
+00:18:22:  * Number of vertex blend matrices: 0
+00:18:22:    - Max vertex textures: 4
+00:18:22:    - Vertex textures shared: no
+00:18:22:  * Render to Vertex Buffer : no
+00:18:22:  * DirectX per stage constants: yes
+00:18:22: DefaultWorkQueue('Root') initialising on thread main.
+00:18:22: Particle Renderer Type 'billboard' registered
+00:18:22: SceneManagerFactory for type 'BspSceneManager' registered.
+00:18:22: Registering ResourceManager for type BspLevel
+00:18:22: SceneManagerFactory for type 'OctreeSceneManager' registered.
+00:18:22: SceneManagerFactory for type 'TerrainSceneManager' registered.
+00:18:22: Parsing scripts for resource group Autodetect
+00:18:22: Finished parsing scripts for resource group Autodetect
+00:18:22: Parsing scripts for resource group General
+00:18:22: Parsing script box.material
+00:18:22: Finished parsing scripts for resource group General
+00:18:22: Parsing scripts for resource group Internal
+00:18:22: Finished parsing scripts for resource group Internal
+00:18:22: Texture: snow.jpg: Loading 1 faces(PF_R8G8B8,1280x960x1) with 10 generated mipmaps from Image. Internal format is PF_X8R8G8B8,1280x960x1.
+00:18:23: Texture: snow3.jpg: Loading 1 faces(PF_R8G8B8,176x64x1) with 7 generated mipmaps from Image. Internal format is PF_X8R8G8B8,176x64x1.
+00:18:23: Texture: back2.jpg: Loading 1 faces(PF_R8G8B8,1440x900x1) with 10 generated mipmaps from Image. Internal format is PF_X8R8G8B8,1440x900x1.
+00:18:25: DefaultWorkQueue('Root') shutting down on thread main.
+00:18:25: Unregistering ResourceManager for type BspLevel
+00:18:25: *-*-* OGRE Shutdown
+00:18:25: Unregistering ResourceManager for type Compositor
+00:18:25: Unregistering ResourceManager for type Font
+00:18:25: Unregistering ResourceManager for type Skeleton
+00:18:25: Unregistering ResourceManager for type Mesh
+00:18:25: Unregistering ResourceManager for type HighLevelGpuProgram
+00:18:25: Uninstalling plugin: Cg Program Manager
+00:18:25: Plugin successfully uninstalled
+00:18:25: Unloading library .\Plugin_CgProgramManager
+00:18:25: Uninstalling plugin: Octree & Terrain Scene Manager
+00:18:25: Plugin successfully uninstalled
+00:18:25: Unloading library .\Plugin_OctreeSceneManager
+00:18:25: Uninstalling plugin: BSP Scene Manager
+00:18:25: Plugin successfully uninstalled
+00:18:25: Unloading library .\Plugin_BSPSceneManager
+00:18:25: Uninstalling plugin: ParticleFX
+00:18:25: Plugin successfully uninstalled
+00:18:25: Unloading library .\Plugin_ParticleFX
+00:18:25: Uninstalling plugin: GL RenderSystem
+00:18:25: *** Stopping Win32GL Subsystem ***
+00:18:25: Plugin successfully uninstalled
+00:18:25: Unloading library .\RenderSystem_GL
+00:18:25: Uninstalling plugin: D3D9 RenderSystem
+00:18:25: D3D9 : Shutting down cleanly.
+00:18:25: Unregistering ResourceManager for type Texture
+00:18:25: Unregistering ResourceManager for type GpuProgram
+00:18:25: D3D9 : Direct3D9 Rendering Subsystem destroyed.
+00:18:25: Plugin successfully uninstalled
+00:18:25: Unloading library .\RenderSystem_Direct3D9
+00:18:25: Unregistering ResourceManager for type Material

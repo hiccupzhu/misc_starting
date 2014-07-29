@@ -1,0 +1,8 @@
+xvidcore for Debian
+-------------------
+
+XviD detects CPU features at runtime and enables assembly optimized
+functions. You should consider compiling the library for your processor
+in order to obtain the maximum performance from XviD even in C code paths.
+
+ -- Edouard Gomez <ed.gomez@free.fr>, Sun,  4 May 2003 20:55:37 +0200
